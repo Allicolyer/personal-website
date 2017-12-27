@@ -6,4 +6,4 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: nyc.jpg # Add image post (optional)
 tags: [Art]
 ---
-Here's all my coool New York Photos
+Here's all my cool New York Photos
