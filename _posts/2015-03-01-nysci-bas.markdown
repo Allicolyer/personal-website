@@ -2,6 +2,7 @@
 layout: post
 title: Be a Scientist
 date: 2015-03-01 00:00:00 +0300
+range: December 2014 - March 2015
 description:  # Add post description (optional)
 img: nysci.jpg # Add image post (optional)
 tags: [Curriculum] # add tag

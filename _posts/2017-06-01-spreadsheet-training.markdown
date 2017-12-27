@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Spreadsheet Training"
-date: 2017-06-01
+date: 2017-09-01
+range: June 2017 - September 2017
 description:
 img: spreadsheets.jpg
 tags: [Curriculum]

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Technovation Curriculum Development
-date: 2017-09-12 00:00:00 +0300
+date: 2017-12-15 00:00:00 +0300
+range: August 2016 - Current
 description: On a team of three, I developed at twelve week, twenty-one unit curriculum for middle school and high school girls participating in the global Technovation Challenge. # Add post description (optional)
 img: flags.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
