@@ -1298,15 +1298,16 @@ a.newer-posts:hover {
 }
 
 .tags li {
-  display: inline-block;
+  display: block;
   margin: 5px;
   list-style: none;
 }
 
 .tags li a {
   text-decoration: none;
+  text-align: center;
   color: #263959;
-  display: inline-block;
+  display: block;
   padding: 5px 10px;
   border: 1px solid #ecf0f1;
   background-color: #fafafa;
@@ -1416,6 +1417,14 @@ a.newer-posts:hover {
   .contact-title, .copyright {
     display: none;
   }
+  .tags li {
+    display: inline-block;
+  }
+  .menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
 }
 
 /* Extra Small Devices, Phones */
@@ -1444,5 +1453,11 @@ a.newer-posts:hover {
   }
   .post .post-content .post-title a {
     font-size: 21px;
+  }
+  .menu {
+    display: block;
+  }
+  .tags li {
+    display: block;
   }
 }

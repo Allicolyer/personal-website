@@ -13,14 +13,16 @@ layout: default
     </div>
   </header> <!-- End Header -->
 
-  <ul class="tags" style="margin: auto;">
-  <li> <a href="/{{prepend: site.baseurl }}"> All Projects</a></li>
-  {% for tag in site.tags %}
-    {% assign t = tag | first %}
-    <li><a href="/{{ t | prepend: site.baseurl }}">
-      {{t | replace:" ","-" }}</a></li>
-  {% endfor %}
-  </ul>
+  <nav class="menu">
+    <ul class="tags">
+    <li> <a href="/{{prepend: site.baseurl }}"> All Projects</a></li>
+    {% for tag in site.tags %}
+      {% assign t = tag | first %}
+      <li><a href="/{{ t | prepend: site.baseurl }}">
+        {{t | replace:" ","-" }}</a></li>
+    {% endfor %}
+    </ul>
+  </nav>
 
   <footer>
     <section class="contact">
