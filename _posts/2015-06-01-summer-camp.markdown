@@ -3,7 +3,7 @@ layout: post
 title: Engineering Nature Summer Camp
 date: 2015-06-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: js-1.png # Add image post (optional)
+img: summer-camp.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 During both the summers of 2014 and of 2015, I developed a four week outdoor summer camp curriculum for students aged 4-10. The curriculum includes six hours of activities for five day weeks. Each day the children work on the following skills:
