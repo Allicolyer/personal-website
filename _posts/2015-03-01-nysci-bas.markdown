@@ -1,0 +1,26 @@
+---
+layout: post
+title: Be a Scientist
+date: 2015-03-01 00:00:00 +0300
+range: December 2014 - March 2015
+description:  # Add post description (optional)
+img: nysci.jpg # Add image post (optional)
+tags: [Curriculum] # add tag
+---
+During the winter of 2014 I developed a five week course for children and their families that was taught at the New York Hall of Science. The course was five weeks long and featured five hands on projects to teach children and their families about invasive species.
+
+* Week 1: Balanced Ecosystems
+  * What does a balanced ecosystem look like? What different parts are included in it?
+  * Design: Create a mobile of different animals and plants that you think come from the same ecosystem.
+* Week 2: Survival of the fittest
+  * Why are invaise species? Why makes an invasive speices good at taking over an ecosystem?
+  * Design: Create a machine that is able to adapt to eat all three types of food in an ecosystem.
+* Week 3: Transportation in Ecosystems
+  * Theme: How do invasive speices get around? How do humans contribute to the spreading of invasive speices?
+  * Design: Create a car that can trasport objecsts out of a sandbox without picking up sand.
+* Week 4: Bioindicators
+  * What are the warning signs of an changing ecosystem?
+  * Design: Create a device to light an LED swhen your ecosystem is in troubleShow how native species have adapted to their environment to consume other native species–and how invasive species disturb that balance
+* Week 5: Modifying our Environment
+  * How can humans help protect our enivornment and nataive speices?
+  * Design: Create a wildlife crossing so you animals can cross the road without getting hit by a car.
