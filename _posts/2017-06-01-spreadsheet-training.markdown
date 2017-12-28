@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Spreadsheet Training"
+title: "Professional Development Training"
 date: 2017-09-01
 range: June 2017 - September 2017
 description:
-img: spreadsheets.jpg
+img: spreadsheet.jpg
 tags: [Curriculum]
 ---
 I developed a four part professional development seminar for all the employees at Iridescent to learn the basics of using spreadsheets programs for data analysis. The curriculum is designed for adults starting with zero knowledge of how to use spreadsheet programs. Over four 1 hour sessions, active discussions and activities give participants the ability to:
