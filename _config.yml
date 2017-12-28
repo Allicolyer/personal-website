@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Alli Colyer # add your name
 author-img: profile.jpeg # add your photo
-about-author: I am a technical curriculum developer with a background in chemical engineering. My passion is to make science accessible for people of all ages # add description
+about-author: I am a technical curriculum developer with a background in chemical engineering. My passion is to make science accessible for people of all ages. # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: Allicolyer # add your Github handle
