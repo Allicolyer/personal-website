@@ -8,7 +8,7 @@ img: flags.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
-During my time at Iridescent I worked as a curriculum developer for Technovation. Technovatoin is a global coding and entrepreneruship competition for middle school and high school girls.
+During my time at Iridescent I worked as a curriculum developer for Technovation. Technovation is a global coding and entrepreneurship competition for middle school and high school girls.
 
 
 ###  Technovation Curriculum
@@ -21,7 +21,7 @@ The curriculum is designed for middle school and high school students. Over the 
 
 ###  Student Workbook
 
-In addition to developing all new curriculum, I also developed a student workbook designed to be used with the online curriculum. The workbook is a project management tool for students and their mentors. It highlights key words and activites throughout all of the units and reminds students when to upload to the online platform.
+In addition to developing all new curriculum, I also developed a student workbook designed to be used with the online curriculum. The workbook is a project management tool for students and their mentors. It highlights key words and activities throughout all of the units and reminds students when to upload to the online platform.
 
 ![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg)
 
