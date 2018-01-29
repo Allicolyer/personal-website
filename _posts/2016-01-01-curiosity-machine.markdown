@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curiosity Machine Curriculum Development
+title: Curiosity Machine
 date: 2017-12-15 00:00:00 +0300
 range: June 2015 - Current
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
