@@ -6,6 +6,7 @@ range: June 2017 - September 2017
 description:
 img: spreadsheet.jpg
 tags: [Curriculum]
+hidden: true
 ---
 I developed a four part professional development seminar for all the employees at Iridescent to learn the basics of using spreadsheets programs for data analysis. The curriculum is designed for adults starting with zero knowledge of how to use spreadsheet programs. Over four 1 hour sessions, active discussions and activities give participants the ability to:
 
