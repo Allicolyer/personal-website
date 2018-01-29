@@ -33,4 +33,4 @@ The weeks follow themes for the lessons taught, the books read to the children, 
 
 Each week of the curriculum is meant to both be cumulative for children participating for all four weeks and also stand alone for those who join the later weeks. The building projects and concepts get progressively harder as the weeks go but can also be made simpler for children starting camp mid-summer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EmsQAzMqDWo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EmsQAzMqDWo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen class="center-image"></iframe>

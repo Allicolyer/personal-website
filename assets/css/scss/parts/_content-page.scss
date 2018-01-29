@@ -1,0 +1,27 @@
+.center-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.button {
+  margin: 0;
+  padding: 10px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  color: #fafafa;
+  display: block;
+  padding: 5px 10px;
+  border: 1px solid #ecf0f1;
+  background-color: #515151;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+  &:hover {
+   background-color: #a0a0a0;
+  }
+}

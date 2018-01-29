@@ -1,10 +1,11 @@
 ---
 layout: post
-title: New York Photos
-date: 2015-04-01 13:32:20 +0300
+title: Artifical Intelligence Family Challenge
+date: 2017-12-15 00:00:00 +0300
+range: January 2017 - Current
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: nyc.jpg # Add image post (optional)
-tags: [Art]
+img: ai.jpg # Add image post (optional)
+tags: [Curriculum] # add tag
 hidden: true
 ---
-Here's all my cool New York Photos
+

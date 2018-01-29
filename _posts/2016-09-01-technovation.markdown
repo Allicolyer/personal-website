@@ -1,32 +1,38 @@
 ---
 layout: post
-title: Technovation Curriculum Development
+title: Technovation Curriculum
 date: 2017-12-15 00:00:00 +0300
 range: August 2016 - Current
 description: On a team of three, I developed at twelve week, twenty-one unit curriculum for middle school and high school girls participating in the global Technovation Challenge. # Add post description (optional)
-img: flags.jpg # Add image post (optional)
+img: technovation-team.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
+During my time at Iridescent I worked as a curriculum developer for [Technovation](http://technovationchallenge.org/). Technovation is a technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2017 over 11,00 girls from more than 100 countries participated in Technovation.
 
-During my time at Iridescent I worked as a curriculum developer for Technovation. Technovatoin is a global coding and entrepreneruship competition for middle school and high school girls.
+### Curriculum Overview
 
+On a team of three, I developed a twelve week, twenty-one unit curriculum for middle school and high school girls participating in the global Technovation Challenge. We developed both the structure and the content of the curriculum. The curriculum is split into four major categories: coding, business, marketing, and pitching. Each category assumes no prior knowledge, and teaches students how to create the necessary materials to participate in the competition.
 
-###  Technovation Curriculum
+* **Code** - Students create a fully functioning mobile app with App Inventor.
 
-On a team of three, I developed at twelve week, twenty-one unit curriculum for middle school and high school girls participating in the global Technovation Challenge. I developed both the structure and the content of the curriculum. The curriculum is split into four major categories: coding, business principles, marketing, and pitching. I was the principal developer for all seven coding units, all five coding challenges, and some of the marketing units. I was a contributor and editor for all of the units.
+* **Business** - Students create and execute a business plan to turn their ideas into startup businesses.
 
-The curriculum is designed for middle school and high school students. Over the seven coding units, it takes students through the basics of programming so they can design a fully functioning mobile app with App Inventor.
+* **Market** - Students create a brand and an identity for their business by making logos, mission statement, and a marketing planning.
 
-![Overview]({{site.baseurl}}/assets/img/technovation-overview.jpg)
+* **Pitch** - Students create both a pitch video and an app demonstration video to showcase their ideas to the world.
+
+[Curriculum Table of Contents](http://technovationchallenge.org/curriculum-intro/registered){: .button}
 
 ###  Student Workbook
 
-In addition to developing all new curriculum, I also developed a student workbook designed to be used with the online curriculum. The workbook is a project management tool for students and their mentors. It highlights key words and activites throughout all of the units and reminds students when to upload to the online platform.
+We also developed a student workbook designed to be used with the online curriculum. The workbook is a project management tool for students and their mentors. It highlights key words and activities throughout all of the units and reminds students when to upload to the online platform.
 
-![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg)
+[![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg){: .center-image }](https://docs.google.com/document/d/1GZCx1WmMKrBncFOribsSR8gfStURr8rU5cRFE5Yilbk/edit)
 
 ### Translation
-With my team I help guide the efforts to translate the curriculum into eight different languages.
+My team and I also guide the efforts to translate the curriculum into sixteen different languages. By working with volunteer translators, we assess the needs of girls living in different regions and figure out the best way to deliver curriculum to them.
 
-### Student Video Initative
-With my team I created a movement for student alumni of the program to submit youtube videos explaining various hard concepts that they had to learn
+### Student Learning Community
+With my team I am helping create a learning community for Technovation students and alumni. As part of this movement, I asked Technovation students to submit youtube videos explaining various concepts that they learned to participate in the challenge. Both alumni and current students can submit videos in their any language they want and videos are featured on the curriculum page. Students who participate have the opportunity to contribute to the learning community and to showcase what they have learned.
+
+[![Student Made Tutorials]({{site.baseurl}}/assets/img/student-videos.png){: .center-image }](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zsXSroI4drtbvZdC5kJ6-K)

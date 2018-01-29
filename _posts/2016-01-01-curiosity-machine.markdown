@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Curiosity Machine Curriculum Development
+title: Curiosity Machine
 date: 2017-12-15 00:00:00 +0300
 range: June 2015 - Current
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: # Add post description (optional)
 img: curiosity-machine.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
+hidden: true
 ---
 I work with engineers to make videos that are accessible to children of all ages and design hands-on engineering
 projects that relate to the engineer's work.
@@ -25,11 +26,9 @@ descriptionWith the help of students and professors at Rensselaer Polytechnic In
 
 The videos will be accompanied by three hands on projects developed by undergraduate students at RPI.
 
-
 I worked with Elliot Meyerowitz, a scientist at California Institute of Technology, and the Iridescent video team to develop two videos and a hands on building project that teaches children about plant genetics. I developed the design for the project, several different prototypes, and two videos that all work together to deliver the concepts to a young audience.
 
 See project Design a Set of Mechanical Genes
 
->Tattooed pour-over taiyaki woke, skateboard subway tile PBR&B etsy distillery street art pok pok wolf 8-bit. Vegan bicycle rights schlitz subway tile unicorn taiyaki.
 
 https://www.curiositymachine.org/challenges/106/
