@@ -4,12 +4,11 @@ title: Technovation Curriculum
 date: 2017-12-15 00:00:00 +0300
 range: August 2016 - Current
 description: On a team of three, I developed at twelve week, twenty-one unit curriculum for middle school and high school girls participating in the global Technovation Challenge. # Add post description (optional)
-img: flags.jpg # Add image post (optional)
+img: blocks.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
 During my time at Iridescent I worked as a curriculum developer for [Technovation](http://technovationchallenge.org/). Technovation is a technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2017 over 11,00 girls from more than 100 countries participated in Technovation.
-
 
 ### Curriculum Overview
 
@@ -31,14 +30,10 @@ We also developed a student workbook designed to be used with the online curricu
 
 [![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg){: .center-image }](https://docs.google.com/document/d/1GZCx1WmMKrBncFOribsSR8gfStURr8rU5cRFE5Yilbk/edit)
 
-
 ### Translation
 My team and I also guide the efforts to translate the curriculum into sixteen different languages. By working with volunteer translators, we assess the needs of girls living in different regions and figure out the best way to deliver curriculum to them.
 
 ### Student Learning Community
-With my team I am helping create a learning community of Technovation students and alumni. As part of this movement, I asked Technovation students to submit youtube videos explaining various concepts that they learned to participate in the challenge. Both alumni and current students can submit videos in their any language they want. Videos are featured on the curriculum home page, with the goals of creating a learning community for students and their mentors.
-
-
-
+With my team I am helping create a learning community for Technovation students and alumni. As part of this movement, I asked Technovation students to submit youtube videos explaining various concepts that they learned to participate in the challenge. Both alumni and current students can submit videos in their any language they want and videos are featured on the curriculum page. Students who participate have the opportunity to contribute to the learning community and to showcase what they have learned.
 
 [![Student Made Tutorials]({{site.baseurl}}/assets/img/student-videos.png){: .center-image }](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zsXSroI4drtbvZdC5kJ6-K)
