@@ -16,4 +16,4 @@ I developed a four part professional development seminar for all the employees a
 4. Understand graphs and how to use them
 5. Begin to write their own custom Javascript functions
 
-https://docs.google.com/presentation/d/174A_rOalcdscVGsPadadFCDPQp5AXSmIITeZDmPdI2Q/edit?usp=sharing
+[Training](https://docs.google.com/presentation/d/174A_rOalcdscVGsPadadFCDPQp5AXSmIITeZDmPdI2Q/edit?usp=sharing){:target="_blank"}
