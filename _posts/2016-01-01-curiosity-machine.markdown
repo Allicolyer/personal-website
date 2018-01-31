@@ -17,7 +17,7 @@ The main feature of Curiosity Machine is online design challenges. Design challe
 * Scale up or down for students K-12
 * Have many possible solutions — there’s never one right answer!
 
-I worked to develop many design challenges and videos featuring sceintists and engineers. Some of the topics I've developed these hands-on challenges around include:
+I worked to develop many design challenges and videos featuring scientists and engineers. Some of the topics I’ve developed these hands-on challenges around include:
 
 * Artificial Intelligence
 * Nanoscience
@@ -27,11 +27,11 @@ I worked to develop many design challenges and videos featuring sceintists and e
 * Mechanical Engineering
 * Electrical Engineering
 
-In addition to developing challenges, I also develop many supporting materials, such as videos, lessson plans, teacher guides, and more.
+In addition to developing challenges, I also develop many supporting materials, such as videos, lesson plans, teacher guides, and more.
 
 ### Artificial Intelligence
 
-During the Spring of 2017, my team and I developed three hands-on challenges to teach children and their families about artificial intelligencee. The three challenges are listed below:
+During the Spring of 2017, my team and I developed three hands-on challenges to teach children and their families about artificial intelligence. The three challenges are listed below:
 
 | [Build a Parallel Processing Machine](https://www.curiositymachine.org/challenges/127/){:target="_blank"} | [Build a Neural Network](https://www.curiositymachine.org/challenges/126/){:target="_blank"} |[Build a Self Driving Car Game](https://www.curiositymachine.org/challenges/125/){:target="_blank"} |
 |:-------------------:|:------------------------:|:-----------------:|
@@ -73,12 +73,12 @@ In a partnership with Boeing, I worked with engineers to develop hands on projec
 ### More
 In addition to these challenges, I've also developed and contributed to  many others. Some notable examples include
 
-| [Planting Machine](https://www.curiositymachine.org/challenges/121/){:target="_blank"}| [Build a Blooming Flower](https://www.curiositymachine.org/challenges/68/){:target="_blank"} | [Make a Root System](https://www.curiositymachine.org/challenges/61/){:target="_blank"} |
+| [Build a Planting Machine](https://www.curiositymachine.org/challenges/121/){:target="_blank"}| [Build a Blooming Flower](https://www.curiositymachine.org/challenges/68/){:target="_blank"} | [Make a Root System](https://www.curiositymachine.org/challenges/61/){:target="_blank"} |
 |:-------------------:|:------------------------:|:-----------------:|
 | ![Planting Machine]({{site.baseurl}}/assets/img/planting-machine.png){: .center-image} |  ![Build a Blooming Flower]({{site.baseurl}}/assets/img/blooming-flower.png){: .center-image} | ![Make a Root System]({{site.baseurl}}/assets/img/roots.png){: .center-image}
 {: .design-challenge}
 
-| [Water Collection System](https://www.curiositymachine.org/challenges/122){:target="_blank"}| [Light Dispersal System](https://www.curiositymachine.org/challenges/124/){:target="_blank"} | [Wind Power Turbine](https://www.curiositymachine.org/challenges/123/){:target="_blank"} |
+| [Build a Water Collection System](https://www.curiositymachine.org/challenges/122){:target="_blank"}| [Build a Light Dispersal System](https://www.curiositymachine.org/challenges/124/){:target="_blank"} | [Build a Wind Power Turbine](https://www.curiositymachine.org/challenges/123/){:target="_blank"} |
 |:-------------------:|:------------------------:|:-----------------:|
 | ![Water Collection System]({{site.baseurl}}/assets/img/water-collection.png){: .center-image} |  ![Light Dispersal System]({{site.baseurl}}/assets/img/light-dispersal.png){: .center-image} | ![Water Collection System]({{site.baseurl}}/assets/img/wind-turbine.png){: .center-image}
 {: .design-challenge}
