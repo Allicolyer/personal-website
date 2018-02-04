@@ -7,7 +7,7 @@ description: On a team of three, I developed at twelve week, twenty-one unit cur
 img: technovation-team.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-During my time at Iridescent I worked as a curriculum developer for [Technovation](http://technovationchallenge.org/){:target="_blank"}. Technovation is a technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2017 over 11,00 girls from more than 100 countries participated in Technovation.
+As a curriculum developer at Iridescent, I make curriculum for [Technovation](http://technovationchallenge.org/){:target="_blank"}. Technovation is a technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2017 over 11,00 girls from more than 100 countries participated in Technovation.
 
 ### Curriculum Overview
 

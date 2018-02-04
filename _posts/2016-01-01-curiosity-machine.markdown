@@ -1,23 +1,17 @@
 ---
 layout: post
-title: Curiosity Machine Curriculum
+title: Curiosity Machine Design Challenges
 date: 2017-12-15 00:00:00 +0300
 range: June 2015 - Current
 description: # Add post description (optional)
 img: curiosity-machine.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-During my time at Iridescent I worked as a curriculum developer for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators. In 2017 more than xxx participated in Curiosity Machine programs.
+As curriculum developer at Iridescent, I also make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators. In 2017 more than xxx participated in Curiosity Machine programs.
 
 ### Design Challenges
 
-The main feature of Curiosity Machine is online design challenges. Design challenge are hands-on STEAM activities that are developed based on the work of scientists and engineers. All design challenges must:
-
-* Use simple household materials
-* Scale up or down for students K-12
-* Have many possible solutions — there’s never one right answer!
-
-I worked to develop many design challenges and videos featuring scientists and engineers. Some of the topics I’ve developed these hands-on challenges around include:
+The main feature of Curiosity Machine is its design challenges, which are hands-on STEAM activities that are developed based on the work of scientists and engineers. All design challenges are designed to use use simple household materials, scale up or down for students K-12, be open ended, and connect to real applications of science and engineering. Some of the topics I’ve developed these hands-on challenges around include:
 
 * Artificial Intelligence
 * Nanoscience
@@ -27,7 +21,7 @@ I worked to develop many design challenges and videos featuring scientists and e
 * Mechanical Engineering
 * Electrical Engineering
 
-In addition to developing challenges, I also develop many supporting materials, such as videos, lesson plans, teacher guides, and more.
+In addition to developing challenges, I also develop many supporting materials to accompany them such as, videos, lesson plans, teacher guides, and more.
 
 ### Artificial Intelligence
 
@@ -39,11 +33,11 @@ During the Spring of 2017, my team and I developed three hands-on challenges to 
 {: .design-challenge}
 
 
-The three challenges were tested out with a group of high schoolers at conference by NVIDIA. Afterwards they were incorporated in outreach events by NVIDIA and the AI Family Challenge.
+The three challenges were tested out with a group of high schoolers at conference by NVIDIA. Afterwards they were incorporated in outreach events by NVIDIA and into the AI Family Challenge curriculum.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGOIJXcy55s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen class="center-image"></iframe>
 
 ### Nanoscience
-With the help of students and professors at RPI (Rensselaer Polytechnic Institute), and the Iridescent video team, I am creating three videos for children aged late elementary school and older. These videos will explain three important applications in nanoscience. The videos are accompanied by three hands on projects developed with the help of undergraduate students at RPI.
+In the Fall of 2017, I created two videos to accompany design challenges developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos will explain important concepts in nanoscience and help students get starting building the design challenges.
 
 | [Quantum Dots](https://www.curiositymachine.org/challenges/128/){:target="_blank"} | [Build a Nanopipe](https://www.curiositymachine.org/challenges/129/){:target="_blank"}
 |:-------------------:|:------------------------:|
@@ -60,18 +54,15 @@ In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California 
 
 ### Aerospace
 
-In a partnership with Boeing, I worked with engineers to develop hands on projects around what they do
+In a partnership with Boeing, I worked with engineers to develop hands on projects around what they work on at Boeing. In total, my team developed 21 design challenges and three videos to accompany each one. Below are three of challenges that I worked to develop.
 
 | [Engineer a Safe Stopping Robot](https://www.curiositymachine.org/challenges/109/){:target="_blank"} | [Engineer a Fuel Level Detector](https://www.curiositymachine.org/challenges/116/){:target="_blank"} | [Build an SLS Inspired Rocket](https://www.curiositymachine.org/challenges/117/){:target="_blank"} |
 |:-------------------:|:------------------------:|:-----------------:|
 | ![Safe Stopping Robot]({{site.baseurl}}/assets/img/safe-stopping.png){: .center-image} |  ![Fuel Level Detector]({{site.baseurl}}/assets/img/fuel-level.png){: .center-image} | ![SLS Rocket]({{site.baseurl}}/assets/img/sls-rocket.png){: .center-image}
 {: .design-challenge}
 
-
-
-
 ### More
-In addition to these challenges, I've also developed and contributed to  many others. Some notable examples include
+In addition to these challenges, I've also developed and contributed to many others. Some notable examples are listed below.
 
 | [Build a Planting Machine](https://www.curiositymachine.org/challenges/121/){:target="_blank"}| [Build a Blooming Flower](https://www.curiositymachine.org/challenges/68/){:target="_blank"} | [Make a Root System](https://www.curiositymachine.org/challenges/61/){:target="_blank"} |
 |:-------------------:|:------------------------:|:-----------------:|
