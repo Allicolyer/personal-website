@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technovation Judging Materials
+title: Technovation Judging
 date: 2017-12-14 00:00:00 +0300
 range: August 2016 - Current
 description:  # Add post description (optional)
@@ -22,7 +22,7 @@ The submissions are judged by volunteer, international judges, both virtually an
 
 ### Judging Rubric
 
-In both 2017 and 2018, my team and I developed the [judging rubric](http://technovationchallenge.org/wp-content/uploads/judging-rubric.pdf) for the competiton. The rubric is aimed to give fair scores to all teams.  It focuses on scoring the teams in five major areas:
+In both 2017 and 2018, my team and I developed the [judging rubric](http://technovationchallenge.org/wp-content/uploads/judging-rubric.pdf){:target="_blank"} for the competiton. The rubric is aimed to give fair scores to all teams.  It focuses on scoring the teams in five major areas:
 
 * Ideation
 * Technical
@@ -33,7 +33,7 @@ In both 2017 and 2018, my team and I developed the [judging rubric](http://techn
 The judging rubric gives opportunity for judges to award points for excellent work and effort, as well as for their impression of the submission.
 
 ### Judging Training
-In 2017, I developed the [judge training](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zleU3KKg5VY00v3ex1wo-g7) for both virtual and in-person judges.
+In 2017, I developed the [judge training](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zleU3KKg5VY00v3ex1wo-g){:target="_blank"} for both virtual and in-person judges.
 
 The judge training aims to take volunteers with zero knowledge of the program to being able to fairly judge submissions created by teams around the world. The training is broken up into six short vidoes with the following themes:
 
@@ -50,11 +50,11 @@ The judge training aims to take volunteers with zero knowledge of the program to
 6. Using the online Judging Platform
  * How to use the website to give scores
 
-![Judge Training]({{site.baseurl}}/assets/img/judge-training.jpg){: .center-image }
+[![Judge Training]({{site.baseurl}}/assets/img/judge-training.jpg){: .center-image }{:target="_blank"}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zleU3KKg5VY00v3ex1wo-g)
 
 ### Code Checklist
 
-The [code checklist](http://technovationchallenge.org/curriculum/code-checklist/) was a new aspect I created for the judging process in 2017.
+The [code checklist](http://technovationchallenge.org/curriculum/code-checklist/){:target="_blank"} was a new aspect I created for the judging process in 2017.
 
 Often times, judges give high scores in the "technical" category for teams that have apps that look nicer to to teams that have better produced demo videos. The goal of the code checklist is to give teams points for "effort" and to level the playing field for teams with less access to technology.
 
