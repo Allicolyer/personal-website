@@ -21,19 +21,28 @@
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   transition: all .3s;
-  &:hover {
-   background-color: #a0a0a0;
-  }
+}
+
+.button:hover {
+  background-color: #a0a0a0;
 }
 
 .small {
   width: 560px;
 }
 
-table {
-  .design-challenge {
-    th {
-        padding: 10px
-    }
-  }
+.design-challenge th {
+  color: #515151;
+  padding: 10px;
+  background-color: #fafafa;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+.design-challege th:hover {
+  background-color: #ecf0f1;
+}
+
+.design-challenge th a {
+  color: #263959;
 }
