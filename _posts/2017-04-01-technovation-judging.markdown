@@ -50,7 +50,7 @@ The judge training aims to take volunteers with zero knowledge of the program to
 6. Using the online Judging Platform
  * How to use the website to give scores
 
-[![Judge Training]({{site.baseurl}}/assets/img/judge-training.jpg){: .center-image }{:target="_blank"}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zleU3KKg5VY00v3ex1wo-g)
+[![Judge Training]({{site.baseurl}}/assets/img/judge-training.jpg){: .center-image .clickable}{:target="_blank"}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zleU3KKg5VY00v3ex1wo-g)
 
 ### Code Checklist
 

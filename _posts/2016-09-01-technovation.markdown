@@ -21,13 +21,13 @@ On a team of three, I developed a twelve week, twenty-one unit curriculum for mi
 
 * **Pitch** - Students create both a pitch video and an app demonstration video to showcase their ideas to the world.
 
-[Curriculum Table of Contents](http://technovationchallenge.org/curriculum-intro/registered){: .button target="_blank"}
+[![Curriculum Table of Contents]({{site.baseurl}}/assets/img/technovation-overview-short.png){: .center-image .clickable}](http://technovationchallenge.org/curriculum-intro/registered){: target="_blank"}
 
 ###  Student Workbook
 
 We also developed a student workbook designed to be used with the online curriculum. The workbook is a project management tool for students and their mentors. It highlights key words and activities throughout all of the units and reminds students when to upload to the online platform.
 
-[![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg){: .center-image}](https://docs.google.com/document/d/1GZCx1WmMKrBncFOribsSR8gfStURr8rU5cRFE5Yilbk/edit){:target="_blank"}
+[![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg){: .center-image .clickable}](https://docs.google.com/document/d/1GZCx1WmMKrBncFOribsSR8gfStURr8rU5cRFE5Yilbk/edit){:target="_blank"}
 
 ### Translation
 My team and I also guide the efforts to translate the curriculum into sixteen different languages. By working with volunteer translators, we assess the needs of girls living in different regions and figure out the best way to deliver curriculum to them.
@@ -35,4 +35,4 @@ My team and I also guide the efforts to translate the curriculum into sixteen di
 ### Student Learning Community
 With my team I am helping create a learning community for Technovation students and alumni. As part of this movement, I asked Technovation students to submit youtube videos explaining various concepts that they learned to participate in the challenge. Both alumni and current students can submit videos in their any language they want and videos are featured on the curriculum page. Students who participate have the opportunity to contribute to the learning community and to showcase what they have learned.
 
-[![Student Made Tutorials]({{site.baseurl}}/assets/img/student-videos.png){: .center-image}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zsXSroI4drtbvZdC5kJ6-K){:target="_blank"}
+[![Student Made Tutorials]({{site.baseurl}}/assets/img/student-videos.png){: .center-image .clickable}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zsXSroI4drtbvZdC5kJ6-K){:target="_blank"}

@@ -1304,6 +1304,10 @@ a.newer-posts:hover {
   background-color: #a0a0a0;
 }
 
+.clickable:hover {
+  opacity: 0.5;
+}
+
 .small {
   width: 560px;
 }
