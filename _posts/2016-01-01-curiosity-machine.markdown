@@ -49,7 +49,7 @@ In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California 
 
 | [Design a Set of Mechanical Genes](https://www.curiositymachine.org/challenges/106/){:target="_blank"} |
 |:-------------------:|
-| ![Mechanical Genes]({{site.baseurl}}/assets/img/mechanical-genes.jpg){: .center-image .small}
+| ![Mechanical Genes]({{site.baseurl}}/assets/img/mechanical-genes.png){: .center-image }
 {: .design-challenge}
 
 ### Aerospace
