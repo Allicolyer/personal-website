@@ -4,7 +4,7 @@ title: Curiosity Machine Design Challenges
 date: 2017-12-15 00:00:00 +0300
 range: June 2015 - Current
 description: # Add post description (optional)
-img: curiosity-machine.jpg # Add image post (optional)
+img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 As curriculum developer at Iridescent, I also make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators. In 2017 more than xxx participated in Curiosity Machine programs.
@@ -34,7 +34,7 @@ During the Spring of 2017, my team and I developed three hands-on challenges to 
 
 
 The three challenges were tested out with a group of high schoolers at conference by NVIDIA. Afterwards they were incorporated in outreach events by NVIDIA and into the AI Family Challenge curriculum.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xGOIJXcy55s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen class="center-image"></iframe>
+<iframe src="https://www.youtube.com/embed/xGOIJXcy55s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen class="center-image"></iframe>
 
 ### Nanoscience
 In the Fall of 2017, I created two videos to accompany design challenges developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos will explain important concepts in nanoscience and help students get starting building the design challenges.

@@ -1275,6 +1275,11 @@ a.newer-posts:hover {
 }
 /* - - - - - - - - - - Content Styles - - - - - - - - - - */
 
+iframe {
+  width: 560px;
+  height: 315px;
+}
+
 .center-image {
   margin-left: auto;
   margin-right: auto;
@@ -1388,6 +1393,9 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
+  iframe {
+    width: 100%;
+  }
   .post {
     width: 48%;
     max-width: 100%;
@@ -1413,7 +1421,9 @@ a.newer-posts:hover {
 }
 
 /* Small Devices, Tablets */
+
 @media only screen and (max-width: 768px) {
+
   .sidebar {
     position: relative;
     display: -webkit-box;
