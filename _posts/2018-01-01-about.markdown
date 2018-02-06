@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hi! I'm Alli
+title:  Hi! I'm Alli.
 img: about.jpeg
 hidden: true
 about: true
@@ -8,8 +8,10 @@ tags:
 ---
 
 I am a technical curriculum developer living in Los Angeles, California. My background is in chemical engineering and mathematics. I was born and raised on Long Island, NY. Ever since I was young, I have loved science. Some of earliest memories are of finding bugs in the salt marshes of Long Island during the hot summer days.
-During high school I grew to love chemistry and math, and I earned a full tuition scholarship to study chemical engineering at the Cooper Union. After spending a couple of years in NYC, I moved out west to Los Angeles, California.
+During high school I grew to love chemistry and math, and I earned a full tuition scholarship to study chemical engineering at the Cooper Union. After spending a couple of years in NYC, I moved out west to follow a job opportunity and to start a new adventure in Los Angeles, California.
 
-During college, I volunteered to teach after-school programs to children and their families in the Bronx and in Queens. It was during this time that I realized I am very lucky to have been introduced to science at a young age and to have had freedom to explore and learn. Ever since then, my passion has been to make science accessible to everyone, and to create opportunites for people to learn, explore, and be introduced to new things.
+During college, I volunteered to teach after-school programs to children and their families in the Bronx and in Queens. During this time, I realized how lucky I am to have been introduced to science at a young age and to have had freedom to explore and learn. Ever since then, my passion has been to make science accessible to everyone. I am driven to create opportunities for people to learn, explore, and be introduced to new things.
 
 In my free time I like to work on electronics projects and build things. I also sometimes spin up small website (like this one)! I am currently enjoying the sunny weather in Los Angeles and I love to ride my bike and fly kites.
+
+Contact me if you want to chat and explore my site to learn more about what I do!
