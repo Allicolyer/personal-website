@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Professional Development Training"
+title: Professional Development Training
 date: 2017-09-01
 range: June 2017 - September 2017
 description:
