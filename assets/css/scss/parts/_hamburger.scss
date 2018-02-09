@@ -1,0 +1,48 @@
+
+.hamburger{
+  display:none;
+ }
+ .cross{
+   display:none;
+ }
+ .hammenu{
+   text-align:center;
+ }
+
+@media only screen and (max-width: 480px) {
+  .hamburger{
+    display:block;
+    background: none;
+    position:absolute;
+    top:0px;
+    right:0px;
+    line-height:45px;
+    padding:5px 15px 0px 15px;
+    color:#999;
+    border:0;
+    font-size:1.4em;
+    font-weight:bold;
+    cursor:pointer;
+    outline:none;
+    z-index:10000000000000;
+  }
+  .cross{
+    background:none;
+    position:absolute;
+    top:0px;
+    right:0px;
+    padding:7px 15px 0px 15px;
+    color:#999;
+    border:0;
+    font-size:3em;
+    line-height:65px;
+    font-weight:bold;
+    cursor:pointer;
+    outline:none;
+    z-index:10000000000000;
+  }
+  .hammenu{
+    z-index:1000000;
+    text-align:center;
+  }
+}
