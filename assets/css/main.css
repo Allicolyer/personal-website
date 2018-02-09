@@ -1549,7 +1549,6 @@ iframe {
     z-index:10000000000000;
   }
   .cross{
-    display:none;
     background:none;
     position:absolute;
     top:0px;
