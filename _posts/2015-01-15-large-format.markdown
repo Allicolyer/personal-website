@@ -6,9 +6,12 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img:  photos/bell.png # Add image post (optional)
 no-cover: true
 tags: [Art]
-hidden: true
 ---
 
-![dino]({{site.baseurl}}/assets/img/photos/dino-print.png)
+![dino]({{site.baseurl}}/assets/img/photos/dino.png)
+![barn]({{site.baseurl}}/assets/img/photos/barn.png)
+![bell]({{site.baseurl}}/assets/img/photos/bell.png)
+![magnet]({{site.baseurl}}/assets/img/photos/magnet.png)
 ![skeleton]({{site.baseurl}}/assets/img/photos/skeleton.png)
-![skeleton]({{site.baseurl}}/assets/img/photos/hair1.png)
+![hair]({{site.baseurl}}/assets/img/photos/hair.png)
+![hair2]({{site.baseurl}}/assets/img/photos/hair2.png)

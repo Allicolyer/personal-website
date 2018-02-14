@@ -1285,6 +1285,11 @@ iframe {
   margin-right: auto;
   display: block;
 }
+.center-image-inline {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
 
 .button {
   margin: 0;
