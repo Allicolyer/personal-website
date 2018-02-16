@@ -1572,5 +1572,9 @@ iframe {
     z-index:1000000;
     text-align:center;
   }
+  .large-format-photo {
+    width: 100%;
+  }
+
 
 }

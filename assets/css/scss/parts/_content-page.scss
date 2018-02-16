@@ -51,3 +51,19 @@ iframe {
 .design-challenge th a {
   color: #263959;
 }
+.large-format-photo {
+  width: 33%;
+  padding:.5rem;
+}
+
+@media only screen and (max-width : 768px) {
+  .large-format-photo {
+    width: 49%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .large-format-photo {
+    width: 100%;
+  }
+}
