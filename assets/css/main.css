@@ -1328,6 +1328,7 @@ iframe {
 .design-challenge th a {
   color: #263959;
 }
+
 /* - - - - - - - - - - Hamburger Styles - - - - - - - - - - */
 
 .hamburger{
@@ -1567,5 +1568,4 @@ iframe {
     z-index:1000000;
     text-align:center;
   }
-
 }
