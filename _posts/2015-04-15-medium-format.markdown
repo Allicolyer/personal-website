@@ -8,15 +8,17 @@ no-cover: true
 tags: [Art]
 ---
 
-![bars]({{site.baseurl}}/assets/img/photos/bars.png)
-![box]({{site.baseurl}}/assets/img/photos/box.png)
-![light]({{site.baseurl}}/assets/img/photos/light.png)
-![mirror]({{site.baseurl}}/assets/img/photos/mirror.png)
-![hanger]({{site.baseurl}}/assets/img/photos/hanger.png)
-![broken-glass]({{site.baseurl}}/assets/img/photos/broken-glass.png)
-![scarf]({{site.baseurl}}/assets/img/photos/scarf.png)
-![broken-phone]({{site.baseurl}}/assets/img/photos/broken-phone.png)
-![feet]({{site.baseurl}}/assets/img/photos/feet.png)
-![cups]({{site.baseurl}}/assets/img/photos/cups.png)
-![outlet]({{site.baseurl}}/assets/img/photos/outlet.png)
-![traffic-cone]({{site.baseurl}}/assets/img/photos/traffic-cone.png)
+![bars]({{site.baseurl}}/assets/img/photos/bars.png){: .one-third-screen-image}
+![box]({{site.baseurl}}/assets/img/photos/box.png){: .one-third-screen-image}
+![light]({{site.baseurl}}/assets/img/photos/light.png){: .one-third-screen-image}
+![mirror]({{site.baseurl}}/assets/img/photos/mirror.png){: .one-third-screen-image}
+![hanger]({{site.baseurl}}/assets/img/photos/hanger.png){: .one-third-screen-image}
+![broken-glass]({{site.baseurl}}/assets/img/photos/broken-glass.png){: .one-third-screen-image}
+![scarf]({{site.baseurl}}/assets/img/photos/scarf.png){: .one-third-screen-image}
+![broken-phone]({{site.baseurl}}/assets/img/photos/broken-phone.png){: .one-third-screen-image}
+![feet]({{site.baseurl}}/assets/img/photos/feet.png){: .one-third-screen-image}
+![cups]({{site.baseurl}}/assets/img/photos/cups.png){: .one-third-screen-image}
+![outlet]({{site.baseurl}}/assets/img/photos/outlet.png){: .one-third-screen-image}
+![traffic-cone]({{site.baseurl}}/assets/img/photos/traffic-cone.png){: .one-third-screen-image}
+
+All images were captured on medium format film.
