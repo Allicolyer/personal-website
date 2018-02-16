@@ -1329,11 +1329,6 @@ iframe {
   color: #263959;
 }
 
-.large-format-photo {
-  width: 33%;
-  padding:.5rem;
-}
-
 /* - - - - - - - - - - Hamburger Styles - - - - - - - - - - */
 
 .hamburger{
@@ -1502,10 +1497,6 @@ iframe {
     flex-direction: row;
     justify-content: center;
   }
-  .large-format-photo {
-    width: 49%;
-  }
-
 }
 
 /* Extra Small Devices, Phones */
@@ -1577,9 +1568,4 @@ iframe {
     z-index:1000000;
     text-align:center;
   }
-  .large-format-photo {
-    width: 100%;
-  }
-
-
 }
