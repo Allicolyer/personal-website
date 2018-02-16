@@ -1285,11 +1285,6 @@ iframe {
   margin-right: auto;
   display: block;
 }
-.center-image-inline {
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-}
 
 .button {
   margin: 0;
@@ -1333,6 +1328,12 @@ iframe {
 .design-challenge th a {
   color: #263959;
 }
+
+.large-format-photo {
+  width: 33%;
+  padding:.5rem;
+}
+
 /* - - - - - - - - - - Hamburger Styles - - - - - - - - - - */
 
 .hamburger{
@@ -1501,6 +1502,10 @@ iframe {
     flex-direction: row;
     justify-content: center;
   }
+  .large-format-photo {
+    width: 49%;
+  }
+
 }
 
 /* Extra Small Devices, Phones */
