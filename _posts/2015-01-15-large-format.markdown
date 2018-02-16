@@ -8,9 +8,9 @@ no-cover: true
 tags: [Art]
 ---
 
-![skeleton]({{site.baseurl}}/assets/img/photos/skeleton.png){: .large-format-photo}
-![barn]({{site.baseurl}}/assets/img/photos/barn.png){: .large-format-photo}
-![bell]({{site.baseurl}}/assets/img/photos/bell.png){: .large-format-photo}
-![dino]({{site.baseurl}}/assets/img/photos/dino.png){: .large-format-photo}
-![magnet]({{site.baseurl}}/assets/img/photos/magnet.png){: .large-format-photo}
-![hair-collage]({{site.baseurl}}/assets/img/photos/hair-collage-1.png){: .large-format-photo}
+![skeleton]({{site.baseurl}}/assets/img/photos/skeleton.png){: .one-third-screen-image .padding-xs}
+![barn]({{site.baseurl}}/assets/img/photos/barn.png){: .one-third-screen-image .padding-xs}
+![bell]({{site.baseurl}}/assets/img/photos/bell.png){: .one-third-screen-image .padding-xs}
+![dino]({{site.baseurl}}/assets/img/photos/dino.png){: .one-third-screen-image .padding-xs}
+![magnet]({{site.baseurl}}/assets/img/photos/magnet.png){: .one-third-screen-image .padding-xs}
+![hair-collage]({{site.baseurl}}/assets/img/photos/hair-collage-1.png){: .one-third-screen-image .padding-xs}

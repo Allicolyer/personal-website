@@ -1329,8 +1329,15 @@ iframe {
   color: #263959;
 }
 
-.large-format-photo {
+.one-third-screen-image {
   width: 33%;
+}
+
+.ial-center {
+  text-align: center;
+}
+
+.padding-xs {
   padding:.5rem;
 }
 
@@ -1430,7 +1437,7 @@ iframe {
   .post .post-content .post-title a {
     font-size: 21px;
   }
-  .large-format-photo {
+  .one-third-screen-image {
     width: 49%;
   }
 }
@@ -1576,7 +1583,7 @@ iframe {
     z-index:1000000;
     text-align:center;
   }
-  .large-format-photo {
+  .one-third-screen-image {
     width: 100%;
   }
 }
