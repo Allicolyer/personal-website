@@ -1329,6 +1329,11 @@ iframe {
   color: #263959;
 }
 
+.large-format-photo {
+  width: 33%;
+  padding:.5rem;
+}
+
 /* - - - - - - - - - - Hamburger Styles - - - - - - - - - - */
 
 .hamburger{
@@ -1424,6 +1429,9 @@ iframe {
   }
   .post .post-content .post-title a {
     font-size: 21px;
+  }
+  .large-format-photo {
+    width: 49%;
   }
 }
 
@@ -1567,5 +1575,8 @@ iframe {
   .hammenu{
     z-index:1000000;
     text-align:center;
+  }
+  .large-format-photo {
+    width: 100%;
   }
 }
