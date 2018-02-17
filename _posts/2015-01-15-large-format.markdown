@@ -14,3 +14,5 @@ tags: [Art]
 ![dino]({{site.baseurl}}/assets/img/photos/dino.png){: .one-third-screen-image .padding-xs}
 ![magnet]({{site.baseurl}}/assets/img/photos/magnet.png){: .one-third-screen-image .padding-xs}
 ![hair-collage]({{site.baseurl}}/assets/img/photos/hair-collage-1.png){: .one-third-screen-image .padding-xs}
+
+All images were captured on 4x5 film and printed on 8x10 photo paper.

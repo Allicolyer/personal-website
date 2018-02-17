@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Engineering Nature Summer Camp
-date: 2015-03-01 00:00:00 +0300
+date: 2015-06-01 00:00:00 +0300
 range: June 2014 - August 2015 & June 2015 - August 2015
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: summer-camp.jpg # Add image post (optional)
