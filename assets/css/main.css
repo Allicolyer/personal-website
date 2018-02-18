@@ -1333,6 +1333,10 @@ iframe {
   width: 33%;
 }
 
+.one-half-screen-image {
+  width: 49%;
+}
+
 .ial-center {
   text-align: center;
 }
@@ -1439,6 +1443,9 @@ iframe {
   }
   .one-third-screen-image {
     width: 49%;
+  }
+  .one-half-screen-image {
+    width: 100%;
   }
 }
 
