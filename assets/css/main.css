@@ -1341,8 +1341,12 @@ iframe {
   text-align: center;
 }
 
-.padding-xs {
+.padding-m {
   padding:.5rem;
+}
+
+.padding-xs {
+  padding:.1rem;
 }
 
 /* - - - - - - - - - - Hamburger Styles - - - - - - - - - - */
