@@ -1086,18 +1086,18 @@ footer .copyright {
 }
 
 .post {
-  width: 100%;
+  width: 31%;
   max-width: 100%;
-  margin-bottom: 1.5rem;
+  margin: 0 0.9% 1.5%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
+  -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
   -webkit-box-align: stretch;
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
@@ -1122,9 +1122,9 @@ footer .copyright {
 }
 
 .post .post-thumbnail {
-  width: 30%;
+  width: 100%;
   max-width: 100%;
-  min-height: 11rem;
+  min-height: 15rem;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
@@ -1132,7 +1132,7 @@ footer .copyright {
 
 .post .post-content {
   padding: 1rem;
-  width: 70%;
+  width: 100%;
 }
 
 .post .post-content .post-date,
@@ -1141,12 +1141,13 @@ footer .copyright {
 }
 
 .post .post-content .post-title {
-  margin: 0 0 10px;
+  margin: 0 0 5px;
   font-size: 27px;
   font-weight: 400;
 }
 
 .post .post-content .post-title a {
+  font-size: 21px;
   font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
@@ -1530,10 +1531,11 @@ iframe {
   .content-box {
     padding: 10px;
   }
+
   .post {
-    width: 98%;
+    width: 100%;
     max-width: 100%;
-    margin: 2%;
+    margin: 0 0.9% 1.5%;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -1550,7 +1552,7 @@ iframe {
     margin: 0 0 5px;
   }
   .post .post-content .post-title a {
-    font-size: 21px;
+    font-size:21px;
   }
   .menu {
     display: block;
