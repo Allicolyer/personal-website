@@ -3,12 +3,12 @@ layout: post
 title: Technovation Judging
 date: 2017-12-14 00:00:00 +0300
 range: August 2016 - Current
-description:  # Add post description (optional)
+description:
 img: flags.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
-During my time as a curriculum developer for Iridescent, my team and I developed the judging materials for [Technovation](http://technovationchallenge.org/). Technovation is a technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2017 over 11,00 girls from more than 100 countries participated in Technovation.
+During my time as a curriculum developer for Iridescent, my team and I developed the judging materials for [Technovation](http://technovationchallenge.org/). Technovation is the largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
 
 ### Overview
 To participate in the competition, teams submit the following:
@@ -33,24 +33,23 @@ In both 2017 and 2018, my team and I developed the [judging rubric](http://techn
 The judging rubric gives opportunity for judges to award points for excellent work and effort, as well as for their impression of the submission.
 
 ### Judging Training
-In 2017, I developed the [judge training](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zleU3KKg5VY00v3ex1wo-g){:target="_blank"} for both virtual and in-person judges.
+I developed the [judge training](https://www.youtube.com/playlist?list=PLcFCpaYLqF2xtXDwqfq4guqeQKiyigWS5){:target="_blank"} for both virtual and in-person judges.
 
-The judge training aims to take volunteers with zero knowledge of the program to being able to fairly judge submissions created by teams around the world. The training is broken up into six short vidoes with the following themes:
+The judge training aims to take qualified volunteers with zero knowledge of the program to being able to fairly judge submissions created by teams around the world. The training is broken up into five short vidoes with the following themes:
 
-1. General Technovation Information
- * Program information and Technovation mission
+1. Technovation Overview
+ * Program Information and Technovation mission
+2. Your Role as a Judge
+ * The importance and power of Technovation judges
 2. Parts of a Submission
- * What teams are submitting to be judged
-3. Judging Rubric
- * How to interpret the judging rubric
-4. Judging Considerations
- * How to be fair to teams with different backgrounds
-5. Judging Case Study
- * How to leave good comments and feedback on submissions
-6. Using the online Judging Platform
- * How to use the website to give scores
+ * What teams are submitting to the competition
+3. Using the Judging Rubric
+ * A walkthrough of the judging rubric
+5. Constructive and Positive Feedback
+ * How to be give good feedback to teams
 
-[![Judge Training]({{site.baseurl}}/assets/img/judge-training.jpg){: .center-image .clickable}{:target="_blank"}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zleU3KKg5VY00v3ex1wo-g)
+
+[![Judge Training]({{site.baseurl}}/assets/img/judge-training.png){: .center-image .clickable}{:target="_blank"}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2xtXDwqfq4guqeQKiyigWS5)
 
 ### Code Checklist
 

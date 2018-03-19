@@ -2,7 +2,7 @@
 layout: post
 title: Large Format Photo Series
 date: 2015-05-01 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Photos captured on 4x5 film
 img:  photos/dino.png # Add image post (optional)
 no-cover: true
 tags: [Art]
