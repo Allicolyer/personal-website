@@ -2,7 +2,7 @@
 layout: post
 title: 35mm Photo Series
 date: 2015-03-01 13:32:20 +0300
-description: All photos were captured on 35mm film.
+description: Photos captured on 35mm film
 img:  photos/beakers.png # Add image post (optional)
 no-cover: true
 tags: [Art]

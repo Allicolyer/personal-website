@@ -3,11 +3,12 @@ layout: post
 title: Technovation Curriculum
 date: 2017-12-15 00:00:00 +0300
 range: August 2016 - Current
-description: On a team of three, I developed at twelve week, twenty-one unit curriculum for middle school and high school girls participating in the global Technovation Challenge. # Add post description (optional)
+description: Largest global entrepreneurship technology program for girls
 img: technovation-team.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-As a curriculum developer at Iridescent, I make curriculum for [Technovation](http://technovationchallenge.org/){:target="_blank"}. Technovation is a technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2017 over 11,00 girls from more than 100 countries participated in Technovation.
+
+During my time as a curriculum developer for Iridescent, my team and I developed the judging materials for [Technovation](http://technovationchallenge.org/). Technovation is the largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
 
 ### Curriculum Overview
 

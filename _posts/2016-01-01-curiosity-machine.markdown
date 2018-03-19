@@ -3,7 +3,7 @@ layout: post
 title: Curiosity Machine Design Challenges
 date: 2017-12-15 00:00:00 +0300
 range: June 2015 - Current
-description: # Add post description (optional)
+description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
