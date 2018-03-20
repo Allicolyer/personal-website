@@ -1360,6 +1360,7 @@ iframe {
 }
 .hammenu{
   text-align:center;
+  font-size: 1.1em;
 }
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 .blog-tags {
@@ -1428,10 +1429,20 @@ iframe {
   transition: all .3s;
 }
 
+.work-menu a {
+  font-size: .85em;
+}
+
 .selected-tag {
   color: #fafafa;
   background-color: #263959;
 }
+
+#selected-tag {
+  color: #fafafa;
+  background-color: #263959;
+}
+
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
@@ -1616,4 +1627,3 @@ iframe {
     width: 100%;
   }
 }
-
