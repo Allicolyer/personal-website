@@ -1418,6 +1418,21 @@ iframe {
   opacity: .8;
 }
 
+.work-tag {
+  text-decoration: none;
+  text-align: center;
+  color: #263959;
+  padding: 5px 10px;
+  border: 1px solid #ecf0f1;
+  background-color: #fafafa;
+  transition: all .3s;
+}
+
+.selected-tag {
+  color: #fafafa;
+  background-color: #263959;
+}
+
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
@@ -1519,6 +1534,7 @@ iframe {
   .tags li {
     display: inline-block;
   }
+
   .menu {
     display: flex;
     flex-direction: row;
@@ -1600,3 +1616,4 @@ iframe {
     width: 100%;
   }
 }
+
