@@ -48,3 +48,18 @@
     }
   }
 }
+
+.work-tag {
+  text-decoration: none;
+  text-align: center;
+  color: #263959;
+  padding: 5px 10px;
+  border: 1px solid #ecf0f1;
+  background-color: #fafafa;
+  transition: all .3s;
+}
+
+.selected-tag {
+  color: #fafafa;
+  background-color: #263959;
+}
