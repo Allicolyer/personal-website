@@ -10,14 +10,20 @@ layout: main
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <span class="post-date">
-        {% if post.range %}
-            {{post.range}}
-        {% else %}
-          {{post.date | date: '%B %Y'}}
-        {% endif %}
-      </span>
+      {% if post.range %}
+          {{post.range}}
+      {% else %}
+        {{post.date | date: '%B %Y'}}
+      {% endif %}
+    </span>
   </div>
 </article>
 {% endfor %}
 
-{% include pagination.html %}
+<script>
+    var element = document.getElementById("all-projects");
+    element.id = "selected-tag";
+
+    var element = document.getElementById("work-tag");
+    element.classList.add("selected-tag");
+  </script>

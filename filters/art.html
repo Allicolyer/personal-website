@@ -21,3 +21,11 @@ permalink: /art/
     </article>
   {% endunless %}
 {% endfor %}
+
+<script>
+  var element = document.getElementById("art");
+  element.id = "selected-tag";
+
+  var element = document.getElementById("work-tag");
+  element.classList.add("selected-tag");
+</script>

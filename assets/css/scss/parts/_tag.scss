@@ -59,7 +59,16 @@
   transition: all .3s;
 }
 
+.work-menu a {
+  font-size: .85em;
+}
+
 .selected-tag {
+  color: #fafafa;
+  background-color: #263959;
+}
+
+#selected-tag {
   color: #fafafa;
   background-color: #263959;
 }

@@ -3,7 +3,6 @@ $( document ).ready(function() {
   $( ".work-menu" ).hide();
 
   $( ".work-tag" ).click(function() {
-    $(this).toggleClass("selected-tag");
     $( ".work-menu" ).slideToggle( "slow", function() {
     });
   });
