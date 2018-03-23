@@ -1142,12 +1142,11 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 5px;
-  font-size: 27px;
+  font-size: 1.3rem;
   font-weight: 400;
 }
 
 .post .post-content .post-title a {
-  font-size: 21px;
   font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
@@ -1560,7 +1559,7 @@ iframe {
   }
 
   .post {
-    width: 100%;
+    width: 48%;
     max-width: 100%;
     margin: 0 0.9% 1.5%;
     -webkit-box-orient: vertical;
@@ -1571,15 +1570,20 @@ iframe {
   }
   .post .post-thumbnail {
     width: 100%;
+    min-height: 9rem;
   }
   .post .post-content {
     width: 100%;
+    line-height: 1.2rem;
+  }
+  .post .post-content .post-date {
+    font-size: 0.65rem;
   }
   .post .post-content .post-title {
     margin: 0 0 5px;
   }
   .post .post-content .post-title a {
-    font-size:21px;
+    font-size: .95rem;
   }
   .menu {
     display: block;
