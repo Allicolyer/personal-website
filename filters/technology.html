@@ -1,8 +1,8 @@
 ---
 layout: main
-permalink: /engineering/
+permalink: /technology/
 ---
-{% for post in site.tags["Engineering"] %}
+{% for post in site.tags["Technology"] %}
   {% unless post.hidden %}
     <article class="post">
       {% if post.img %}
@@ -11,7 +11,6 @@ permalink: /engineering/
       {% endif %}
       <div class="post-content">
         <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-        <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
         <span class="post-date">
           {% if post.range %}
               {{post.range}}
@@ -25,13 +24,11 @@ permalink: /engineering/
 {% endfor %}
 
 <script>
-  var element = document.getElementById("engineering");
+  var element = document.getElementById("technology");
   element.id = "selected-tag";
 
   var element = document.getElementById("work-tag");
   element.classList.add("selected-tag");
 </script>
-
-Coming soon!
 
 
