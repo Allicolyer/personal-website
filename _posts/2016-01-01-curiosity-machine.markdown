@@ -7,7 +7,7 @@ description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-As curriculum developer at Iridescent, I also make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators. In 2017 more than xxx participated in Curiosity Machine programs.
+At Iridescent, I make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators.
 
 ### Design Challenges
 
@@ -27,9 +27,9 @@ In addition to developing challenges, I also develop many supporting materials t
 
 During the Spring of 2017, my team and I developed three hands-on challenges to teach children and their families about artificial intelligence. The three challenges are listed below:
 
-| Build a Parallel Processing Machine | Build a Neural Network |Build a Self Driving Car Game |
+| Parallel Processing Machine | Neural Network |Self Driving Car Game |
 |:-------------------:|:------------------------:|:-----------------:|
-| [![Parallel Processing]({{site.baseurl}}/assets/img/parallel-processing.jpg){: .center-image .clickable}](https://www.curiositymachine.org/challenges/127/){:target="_blank"} | [![Neural Network]({{site.baseurl}}/assets/img/neural-network.jpg){: .center-image .clickable}](https://www.curiositymachine.org/challenges/126/){:target="_blank"} | [![Self Driving Car]({{site.baseurl}}/assets/img/self-driving-car.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/125/){:target="_blank"}
+| [![Parallel Processing Photo]({{site.baseurl}}/assets/img/parallel-processing.jpg){: .center-image .clickable}](https://www.curiositymachine.org/challenges/127/){:target="_blank"} | [![Neural Network Photo]({{site.baseurl}}/assets/img/neural-network.jpg){: .center-image .clickable}](https://www.curiositymachine.org/challenges/126/){:target="_blank"} | [![Self Driving Car Photo]({{site.baseurl}}/assets/img/self-driving-car.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/125/){:target="_blank"}
 {: .design-challenge}
 
 
@@ -39,9 +39,9 @@ The three challenges were tested out with a group of high schoolers at conferenc
 ### Nanoscience
 In the Fall of 2017, I created two videos to accompany design challenges developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos will explain important concepts in nanoscience and help students get starting building the design challenges.
 
-| Quantum Dots| Build a Nanopipe
+| Quantum Dots| Nanopipe
 |:-------------------:|:------------------------:|
-| [![Quantum Dots]({{site.baseurl}}/assets/img/quantum-dots.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/128/){:target="_blank"} |  [![Nanopipes ]({{site.baseurl}}/assets/img/nanopipe.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/129/){:target="_blank"}
+| [![Quantum Dots Photo]({{site.baseurl}}/assets/img/quantum-dots.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/128/){:target="_blank"} |  [![Nanopipes Photo]({{site.baseurl}}/assets/img/nanopipe.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/129/){:target="_blank"}
 {: .design-challenge}
 
 ### Genetics
@@ -49,14 +49,14 @@ In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California 
 
 | Design a Set of Mechanical Genes
 |:-------------------:|
-| [![Mechanical Genes]({{site.baseurl}}/assets/img/mechanical-genes.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/106/){:target="_blank"} |
+| [![Mechanical Genes Photo]({{site.baseurl}}/assets/img/mechanical-genes.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/106/){:target="_blank"} |
 {: .design-challenge}
 
 ### Aerospace
 
 In a partnership with Boeing, I worked with engineers to develop hands on projects around what they work on at Boeing. In total, my team developed 21 design challenges and three videos to accompany each one. Below are three of challenges that I worked to develop.
 
-| Engineer a Safe Stopping Robot | Engineer a Fuel Level Detector | Build an SLS Inspired Rocket |
+| Safe Stopping Robot | Fuel Level Detector | SLS Inspired Rocket |
 |:-------------------:|:------------------------:|:-----------------:|
 | [![Safe Stopping Robot]({{site.baseurl}}/assets/img/safe-stopping.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/109/){:target="_blank"} |  [![Fuel Level Detector]({{site.baseurl}}/assets/img/fuel-level.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/116/){:target="_blank"} | [![SLS Rocket]({{site.baseurl}}/assets/img/sls-rocket.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/117/){:target="_blank"}
 {: .design-challenge}
@@ -64,12 +64,12 @@ In a partnership with Boeing, I worked with engineers to develop hands on projec
 ### More
 In addition to these challenges, I've also developed and contributed to many others. Some notable examples are listed below.
 
-| Build a Planting Machine| Build a Blooming Flower | Make a Root System|
+| Planting Machine| Blooming Flower | Root System|
 |:-------------------:|:------------------------:|:-----------------:|
 | [![Planting Machine]({{site.baseurl}}/assets/img/planting-machine.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/121/){:target="_blank"} |  [![Build a Blooming Flower]({{site.baseurl}}/assets/img/blooming-flower.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/68/){:target="_blank"} | [![Make a Root System]({{site.baseurl}}/assets/img/roots.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/61/){:target="_blank"}
 {: .design-challenge}
 
-| Build a Water Collection System| Build a Light Dispersal System | Build a Wind Power Turbine|
+| Water Collection System| Light Dispersal System | Wind Powered Turbine|
 |:-------------------:|:------------------------:|:-----------------:|
 | [![Water Collection System]({{site.baseurl}}/assets/img/water-collection.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/122){:target="_blank"} |  [![Light Dispersal System]({{site.baseurl}}/assets/img/light-dispersal.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/124/){:target="_blank"} | [![Water Collection System]({{site.baseurl}}/assets/img/wind-turbine.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/123/){:target="_blank"}
 {: .design-challenge}
