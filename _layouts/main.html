@@ -17,16 +17,16 @@ layout: default
     <nav class= "hammenu">
       <ul class="tags">
         <li><a id="about" href="{{site.baseurl}}/about">About</a></li>
-        <li id="work-tag" class="work-tag">Work</li>
+        <li id="work-tag" class="work-tag">Projects</li>
 
         <div class= "work-menu">
-          <li><a id="all-projects" href="{{site.baseurl}}/"> All Projects</a></li>
+          <li><a id="all-projects" href="{{site.baseurl}}/"> All </a></li>
 
           {% for tag in site.tags %}
             {% assign t = tag | first %}
             {% assign url= t | downcase %}
             <li ><a id="{{url}}" href="{{site.baseurl}}/{{ url }}">
-            {{t | replace:" ","-" }}</a></li>
+            {{t | replace:" ","-" }} </a></li>
           {% endfor %}
       </div>
 
