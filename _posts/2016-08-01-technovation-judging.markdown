@@ -8,7 +8,7 @@ img: flags.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
-At Iridescent, my team and I develop the judging materials for [Technovation](http://technovationchallenge.org/). Technovation is the largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
+At my current job, my team and I develop the judging materials for [Technovation](http://technovationchallenge.org/). Technovation is the largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
 
 ### Overview
 To participate in the competition, teams submit the following:

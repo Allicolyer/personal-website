@@ -7,7 +7,7 @@ description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-At Iridescent, I make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators.
+At my current job, I make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators.
 
 ### Design Challenges
 
