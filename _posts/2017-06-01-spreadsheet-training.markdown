@@ -6,7 +6,7 @@ description:
 img: spreadsheets.jpg
 tags: [Curriculum]
 ---
-I developed a four part professional development seminar for all the employees at Iridescent to learn the basics of using spreadsheets programs for data analysis. The curriculum is designed for adults starting with zero knowledge of how to use spreadsheet programs. Over four 1 hour sessions, active discussions and activities give participants the ability to:
+I developed a four part professional development seminar for all the employees at my current job to learn the basics of using spreadsheets programs for data analysis. The curriculum is designed for adults starting with zero knowledge of how to use spreadsheet programs. Over four 1 hour sessions, active discussions and activities give participants the ability to:
 
 1. Navigate Google Sheets
 2. Use spreadsheet functions

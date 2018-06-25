@@ -2,7 +2,7 @@
 layout: post
 title: Engineering Nature Summer Camp
 date: 2015-06-01 00:00:00 +0300
-range: June - August 2014 & June - August 2015
+range: Summer 2014 & 2015
 description: Hands-on curriculum for K-3
 img: summer-camp.jpg # Add image post (optional)
 tags: [Curriculum] # add tag

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Curiosity Machine Design Challenges
-date: 2017-12-15 00:00:00 +0300
+date: 2017-06-12 00:00:00 +0300
 range: June 2015 - Current
 description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-At Iridescent, I make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators.
+At my current job, I make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators.
 
 ### Design Challenges
 
