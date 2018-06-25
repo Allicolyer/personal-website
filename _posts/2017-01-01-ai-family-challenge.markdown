@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artifical Intelligence Family Challenge
+title: Artifical Intelligence Family Challenge Curriculum
 date: 2017-12-15 00:00:00 +0300
 range: January 2018 - Current
 description:

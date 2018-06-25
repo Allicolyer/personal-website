@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby on Rails Web Development
-range: June 2017 - current
+range: June 2017 - Current
 description: Technovation Web Development
 img: sign-in.png
 tags: [Technology]

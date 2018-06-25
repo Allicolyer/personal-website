@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Technovation Judging
-date: 2017-06-12 00:00:00 +0300
-range: August 2016 - Current
+date: 2017-06-10 00:00:00 +0300
+range: August 2016 - May 2018
 description:
 img: flags.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
