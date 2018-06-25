@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technovation Curriculum
-date: 2017-12-15 00:00:00 +0300
+date: 2017-06-15 00:00:00 +0300
 range: August 2016 - Current
 description: Largest global entrepreneurship technology program for girls
 img: technovation-team.jpg # Add image post (optional)
