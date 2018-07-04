@@ -8,7 +8,7 @@ img: technovation-team.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
-At my current job, my team and I develop the curriculum for [Technovation](http://technovationchallenge.org/). Technovation is the largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
+ I develop the curriculum for [Technovation](http://technovationchallenge.org/), which is the world's largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
 
 ### Curriculum Overview
 

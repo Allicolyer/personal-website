@@ -7,7 +7,7 @@ description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-At my current job, I make curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}. Curiosity Machine is a hands-on STEAM program for children, families and educators.
+I create curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}, which is a hands-on STEAM program for children, families and educators.
 
 ### Design Challenges
 
@@ -37,6 +37,7 @@ The three challenges were tested out with a group of high schoolers at conferenc
 <iframe src="https://www.youtube.com/embed/xGOIJXcy55s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen class="center-image"></iframe>
 
 ### Nanoscience
+
 In the Fall of 2017, I created two videos to accompany design challenges developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos will explain important concepts in nanoscience and help students get starting building the design challenges.
 
 | Quantum Dots| Nanopipe
@@ -53,7 +54,6 @@ In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California 
 {: .design-challenge}
 
 ### Aerospace
-
 In a partnership with Boeing, I worked with engineers to develop hands on projects around what they work on at Boeing. In total, my team developed 21 design challenges and three videos to accompany each one. Below are three of challenges that I worked to develop.
 
 | Safe Stopping Robot | Fuel Level Detector | SLS Inspired Rocket |

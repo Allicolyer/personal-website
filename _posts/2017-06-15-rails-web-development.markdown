@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Ruby on Rails Web Development
-range: June 2017 - Current
+range: June 2017 - June 2018
 description: Technovation Web Development
 img: sign-in.png
 tags: [Technology]
 ---
 
-At my current job, I help build a Ruby on Rails web application for Technovation. Technovation is the largest technology entrepreneurship competition for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
+I helped build a Ruby on Rails web application for Technovation. Technovation is the largest technology entrepreneurship competition for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
 
 The web app allows students to form teams with each other and with mentors. Students submit their work through the app, and judges review it and give scores. Chapter leaders can manage the users in their area and organize events for students to attend.
 

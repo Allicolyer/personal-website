@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Professional Development Training
-range: June 2017 - September 2017
+title: Spreadsheets Training
+range: Summer 2017
 description:
 img: spreadsheets.jpg
 tags: [Curriculum]

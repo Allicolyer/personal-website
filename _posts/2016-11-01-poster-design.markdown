@@ -2,6 +2,7 @@
 layout: post
 title: Buckminster Fuller Poster Design
 date: 2016-11-01 13:32:20 +0300
+range: Fall 2016
 description:
 img:  poster.jpg # Add image post (optional)
 no-cover: true

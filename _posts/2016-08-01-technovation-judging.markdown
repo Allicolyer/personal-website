@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technovation Judging
+title: Technovation Judge Training
 date: 2017-06-10 00:00:00 +0300
 range: August 2016 - May 2018
 description:
@@ -8,7 +8,7 @@ img: flags.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
-At my current job, my team and I develop the judging materials for [Technovation](http://technovationchallenge.org/). Technovation is the largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
+I developed the judging materials for [Technovation](http://technovationchallenge.org/). Technovation is the largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community, and then challenges them to solve it. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
 
 ### Overview
 To participate in the competition, teams submit the following:
