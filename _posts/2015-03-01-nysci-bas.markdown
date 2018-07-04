@@ -7,7 +7,7 @@ description: NYSCI program for families
 img: nysci.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-During the winter of 2014 I developed and taught course for Elementary school children and their families at the New York Hall of Science. The course was five sessions long and featured five hands on projects to teach children and their families about invasive species.
+During the winter of 2014 I developed and taught a course for Elementary school children and their families at the New York Hall of Science. The course was five sessions long and featured five hands on projects to teach children and their families about invasive species.
 
 Each session was taught on a Saturday morning for two hours. The two hours were broken down like this:
 

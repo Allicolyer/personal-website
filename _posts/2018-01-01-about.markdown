@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My mission is to create fun educational opportunties for everyone.
+title: My mission is to create educational opportunities for everyone.
 img: about.jpeg
 hidden: true
 about: true

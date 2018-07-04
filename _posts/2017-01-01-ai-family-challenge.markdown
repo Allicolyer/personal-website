@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artifical Intelligence Family Challenge Curriculum
+title: Artificial Intelligence Family Challenge Curriculum
 date: 2017-12-15 00:00:00 +0300
 range: January 2018 - Current
 description:
@@ -17,7 +17,7 @@ The curriculum focus heavily on how to come up with an interesting problem and s
 The curriculum teaches the foundations of machine learning. Participants explore ideas such as datasets, training, models, computer vision, and deep learning through examples and activities. Families use [Machine Learning for Kids](https://machinelearningforkids.co.uk/) to train their own machine learning models to experiment and play.
 
 ### Entrepreneurship
-The curriculum challenges families to treat their invention as if it were a product on the market. Through competitor and consumer research, families pin down their markets and build the best product for today's world. Families identify their minimum viable product that will solve their problem while satisfying their users'needs and standing out from competitors.
+The curriculum challenges families to treat their invention as if it were a product on the market. Through competitor and consumer research, families pin down their markets and build the best product for today's world. Families identify their minimum viable product that will solve their problem while satisfying their users' needs and standing out from competitors.
 
 ### Projects
 Families learn how to showcase their inventions by recording five minute videos and pitching their inventions to a panel of judges. They learn how to talk about their projects and the artificial intelligence technology that powers them. They also learn to tell the story of the problems and solutions that inspired their inventions.
