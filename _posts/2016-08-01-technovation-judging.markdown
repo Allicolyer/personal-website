@@ -35,7 +35,7 @@ The judging rubric gives opportunity for judges to award points for excellent wo
 ### Judging Training
 I developed the [judge training](https://www.youtube.com/playlist?list=PLcFCpaYLqF2xtXDwqfq4guqeQKiyigWS5){:target="_blank"} for both virtual and in-person judges.
 
-The judge training aims to take qualified volunteers with zero knowledge of the program to being able to fairly judge submissions created by teams around the world. The training is broken up into five short vidoes with the following themes:
+The judge training aims to take qualified volunteers with zero knowledge of the program to being able to fairly judge submissions created by teams around the world. The training is broken up into five short videos with the following themes:
 
 1. Technovation Overview
  * Program Information and Technovation mission
