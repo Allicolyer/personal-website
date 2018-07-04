@@ -1,12 +1,5 @@
 $( document ).ready(function() {
 
-  $( ".work-menu" ).hide();
-
-  $( ".work-tag" ).click(function() {
-    $( ".work-menu" ).slideToggle( "slow", function() {
-    });
-  });
-
   if (screen.width <= 480) {
 
     $( ".cross" ).hide();
