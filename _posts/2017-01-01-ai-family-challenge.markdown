@@ -6,6 +6,7 @@ range: January 2018 - Current
 description:
 img: ai.png # Add image post (optional)
 tags: [Curriculum] # add tag
+current: true
 ---
 
 I am currently designing and developing curriculum to launch the AI Family Challenge, which is the largest global technology program for families. The curriculum leads elementary and middle school children and their families through creating their own AI inventions that tackles a problem in their community.

@@ -6,6 +6,7 @@ range: June 2015 - Current
 description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
+current: true
 ---
 I create curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}, which is a hands-on STEAM program for children, families and educators.
 

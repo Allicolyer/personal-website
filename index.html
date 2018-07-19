@@ -1,29 +1,61 @@
 ---
 layout: main
 ---
+<div class="project-header"><h3> Current Projects </h3></div>
+
 {% for post in paginator.posts %}
-<article class="post">
-  {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %}
-  {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <span class="post-date">
-      {% if post.range %}
-          {{post.range}}
+  {% if post.current %}
+
+    <article class="post">
+      {% if post.img %}
+        <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
       {% else %}
-        {{post.date | date: '%B %Y'}}
       {% endif %}
-    </span>
-  </div>
-</article>
+      <div class="post-content">
+        <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+        <span class="post-date">
+          {% if post.range %}
+              {{post.range}}
+          {% else %}
+            {{post.date | date: '%B %Y'}}
+          {% endif %}
+        </span>
+      </div>
+    </article>
+
+  {% endif %}
 {% endfor %}
 
-<script>
-    var element = document.getElementById("all-projects");
-    element.id = "selected-tag";
+<div class="project-header"><h3> Past Projects </h3></div>
 
-    var element = document.getElementById("work-tag");
-    element.classList.add("selected-tag");
-  </script>
+{% for post in paginator.posts %}
+  {% unless post.current %}
+
+    <article class="post">
+      {% if post.img %}
+        <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+      {% else %}
+      {% endif %}
+      <div class="post-content">
+        <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+        <span class="post-date">
+          {% if post.range %}
+              {{post.range}}
+          {% else %}
+            {{post.date | date: '%B %Y'}}
+          {% endif %}
+        </span>
+      </div>
+    </article>
+
+  {% endunless %}
+{% endfor %}
+
+
+<script>
+  var element = document.getElementById("all-projects");
+  element.id = "selected-tag";
+
+  var element = document.getElementById("work-tag");
+  element.classList.add("selected-tag");
+</script>
