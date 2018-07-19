@@ -1,7 +1,7 @@
 ---
 layout: main
 ---
-<div class="project-header"><h1> Current Projects </h1></div>
+<div class="project-header"><h3> Current Projects </h3></div>
 
 
 {% for post in paginator.posts %}
@@ -27,7 +27,7 @@ layout: main
   {% endif %}
 {% endfor %}
 
-<div class="project-header"><h1> Past Projects </h1></div>
+<div class="project-header"><h3> Past Projects </h3></div>
 
 {% for post in paginator.posts %}
   {% unless post.current %}
