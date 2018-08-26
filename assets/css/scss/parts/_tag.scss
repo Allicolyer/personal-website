@@ -33,6 +33,15 @@
         background-color: $gray;
       }
     }
+    img {
+      height:10px;
+    }
+    #resume {
+      width: max-content;
+      padding: 10px;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 }
 
