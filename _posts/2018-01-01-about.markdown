@@ -9,4 +9,6 @@ tags:
 
  I am an educational technologist and an advocate of free education. My technical background in chemical engineering and mathematics allows me to create scientific curriculum to increase science literacy for people around the world. I also work on civic tech projects to find ways for technology to increase equality and opportunities in society.
 
-Contact me or explore my site to learn more about what I do.
+<ul class="tags">
+    <li><a id="resume" href="{{site.baseurl}}/assets/resume.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Noun_Project_PDF_icon_117327_cc.svg">Resume</a></li>
+</ul>
