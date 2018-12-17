@@ -12,3 +12,7 @@ tags:
 <ul class="tags">
     <li id="resume"><a href="{{site.baseurl}}/assets/resume.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Noun_Project_PDF_icon_117327_cc.svg">Resume</a></li>
 </ul>
+
+My journey as an educator began when I started teaching after-school programs while studying chemical engineering at The Cooper Union. This quickly ignited my passion for creating new educational experiences and opportunities for people. Since then, I have designed educational experiences for students ages K-12 and also for adults. I firmly believe that everyone has untapped capabilities and that the right experience can awaken those potentials.
+
+In my spare time, I enjoy working on technology projects of my own. I participate in hack-a-thons and civic hacking groups. Some of my other hobbies include outdoorsy stuff, like hiking, camping, and mountain biking.

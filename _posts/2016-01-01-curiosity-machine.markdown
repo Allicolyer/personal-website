@@ -12,7 +12,7 @@ I create curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:
 
 ### Design Challenges
 
-The main feature of Curiosity Machine is its design challenges, which are hands-on STEAM activities that are developed based on the work of scientists and engineers. All design challenges are designed to use use simple household materials, scale up or down for students K-12, be open ended, and connect to real applications of science and engineering. Some of the topics I’ve developed these hands-on challenges around include:
+The main feature of Curiosity Machine is its design challenges, which are hands-on STEAM activities that are developed based on the work of scientists and engineers. All design challenges are designed to use simple household materials, scale up or down for students K-12, be open-ended, and connect to real applications of science and engineering. Some of the topics I’ve developed these hands-on challenges around include:
 
 * Artificial Intelligence
 * Nanoscience
@@ -22,7 +22,7 @@ The main feature of Curiosity Machine is its design challenges, which are hands-
 * Mechanical Engineering
 * Electrical Engineering
 
-In addition to developing challenges, I also develop many supporting materials to accompany them such as, videos, lesson plans, teacher guides, and more.
+In addition to developing challenges, I also develop many supporting materials to accompany them such as videos, lesson plans, teacher guides, and more.
 
 ### Artificial Intelligence
 
@@ -39,15 +39,15 @@ The three challenges were tested out with a group of high schoolers at conferenc
 
 ### Nanoscience
 
-In the Fall of 2017, I created two videos to accompany design challenges developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos will explain important concepts in nanoscience and help students get starting building the design challenges.
+In the Spring of 2018, I created three videos to accompany design challenges developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos will explain important concepts in nanoscience and help students get starting building the design challenges.
 
-| Quantum Dots| Nanopipe
-|:-------------------:|:------------------------:|
-| [![Quantum Dots Photo]({{site.baseurl}}/assets/img/quantum-dots.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/128/){:target="_blank"} |  [![Nanopipes Photo]({{site.baseurl}}/assets/img/nanopipe.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/129/){:target="_blank"}
+| Quantum Dots| Nanopipe | Nanostamp |
+|:-------------------:|:------------------------:|:------------------------:|
+| [![Quantum Dots Photo]({{site.baseurl}}/assets/img/quantum-dots.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/128/){:target="_blank"} |  [![Nanopipes Photo]({{site.baseurl}}/assets/img/nanopipe.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/129/){:target="_blank"} | [![Nanolithography Photo]({{site.baseurl}}/assets/img/nanolith.png){: .center-image .clickable}](https://www.curiositymachine.org/challenges/161/){:target="_blank"} |
 {: .design-challenge}
 
 ### Genetics
-In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California Institute of Technology, and the Iridescent video team to develop two videos and a hands on building project that teaches children about plant genetics. I developed the design for the project, several different prototypes, and two videos that all work together to deliver the concepts to a young audience.
+In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California Institute of Technology, and the Iridescent video team to develop two videos and a hands-on building project that teaches children about plant genetics. I developed the design for the project, several different prototypes, and two videos that all work together to deliver the concepts to a young audience.
 
 | Design a Set of Mechanical Genes
 |:-------------------:|
@@ -55,7 +55,7 @@ In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California 
 {: .design-challenge}
 
 ### Aerospace
-In a partnership with Boeing, I worked with engineers to develop hands on projects around what they work on at Boeing. In total, my team developed 21 design challenges and three videos to accompany each one. Below are three of challenges that I worked to develop.
+In a partnership with Boeing, I worked with engineers to develop hands-on projects around what they work on at Boeing. In total, my team developed 21 design challenges and three videos to accompany each one. Below are three of challenges that I worked to develop.
 
 | Safe Stopping Robot | Fuel Level Detector | SLS Inspired Rocket |
 |:-------------------:|:------------------------:|:-----------------:|

@@ -8,10 +8,10 @@ img: ai.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
-I designed and developed curriculum to launch the AI Family Challenge, which is the largest global technology program for families. The curriculum leads elementary and middle school children and their families through creating their own AI inventions that tackles a problem in their community.
+I designed and developed curriculum to launch the AI Family Challenge, which is the largest global technology program for families. The curriculum leads elementary and middle school children and their families through creating their own AI inventions to solve a problem in their community.
 
 ### Ideation
-The curriculum focus heavily on how to come up with an interesting problem and solution. It teaches participants how to build mental models of the world around them to quickly identify causes and effects of different problems they observe. The curriculum helps families select a meaningful problem and conceptualize an effective solution. Families are guided to create solutions that benefit from using artificial intelligence technology.
+The curriculum focuses heavily on how to come up with an interesting problem and solution. It teaches participants how to build mental models of the world around them to quickly identify the causes and effects of different problems they observe. The curriculum helps families select a meaningful problem and conceptualize an effective solution. Families are guided to create solutions that benefit from using artificial intelligence technology.
 
 ### Artificial Intelligence
 The curriculum teaches the foundations of machine learning. Participants explore ideas such as datasets, training, models, computer vision, and deep learning through examples and activities. Families use [Machine Learning for Kids](https://machinelearningforkids.co.uk/) to train their own machine learning models to experiment and play.
