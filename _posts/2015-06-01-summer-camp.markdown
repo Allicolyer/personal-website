@@ -7,15 +7,15 @@ description: Hands-on curriculum for K-3
 img: summer-camp.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-During both the summers of 2014 and of 2015, I developed and taught a four week outdoor summer camp for students aged 4-10. The curriculum includes six hours of activities for five day weeks. Each day the children work on the following skills:
+During both the summers of 2014 and of 2015, I developed and taught a four-week outdoor summer camp for students aged 4-10. The curriculum includes six hours of activities for five day weeks. Each day the children work on the following skills:
 
 1. Observing and drawing inspiration from nature
-2. Building hands on projects with simple materials
+2. Building hands-on projects with simple materials
 3. Teamwork and playing with other children
 4. Problem solving and creative thinking
 5. Relaxation, yoga, enjoying the outdoors
 
-The weeks follow themes for the lessons taught, the books read to the children, and the hands on projects the children build. The themes of the weeks are as follow:
+The weeks follow themes for the lessons taught, the books read to the children, and the hands-on projects the children build. The themes of the weeks are as follow:
 
 2015 Summer Themes
 
