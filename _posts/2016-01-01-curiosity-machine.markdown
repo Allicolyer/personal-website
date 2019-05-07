@@ -12,7 +12,7 @@ I create curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:
 
 ### Design Challenges
 
-The main feature of Curiosity Machine is its design challenges, which are hands-on STEAM activities that are developed based on the work of scientists and engineers. All design challenges are designed to use simple household materials, scale up or down for students K-12, be open-ended, and connect to real applications of science and engineering. Some of the topics I’ve developed these hands-on challenges around include:
+Design challenges are hands-on STEAM activities that teach engineering concepts based on the work of scientists and engineers. All design challenges use simple household materials, can scale up or down for students ages 5-18, are open-ended, and connect to real applications of science and engineering. Some of the topics I’ve developed these hands-on challenges around include:
 
 * Artificial Intelligence
 * Nanoscience

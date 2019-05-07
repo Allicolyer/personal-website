@@ -9,32 +9,38 @@ tags: [Curriculum] # add tag
 current: true
 ---
 
- I develop the curriculum for [Technovation](http://technovationchallenge.org/), which is the world's largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup. In 2018 over 12,000 girls from more than 100 countries participated in Technovation.
+[Technovation](http://technovationchallenge.org/) is the world's largest technology entrepreneurship program for girls ages 10-18. Every year Technovation invites girls from around the world to identify a problem in their community and then challenges them to solve it. Girls work in teams and are supported by mentors to develop a mobile app and to launch a startup.
+
+The Technovation curriculum is a twelve-week coding entrepreneurship curriculum. The curriculum has been translated into nine languages and is used by more than 20,000 students from over 100 countries each year.
 
 ### Curriculum Overview
 
-On a team of three, I developed a twelve week, twenty-one unit curriculum for middle school and high school girls participating in the global Technovation Challenge. We developed both the structure and the content of the curriculum. The curriculum is split into four major categories: coding, business, marketing, and pitching. Each category assumes no prior knowledge and teaches students how to create the necessary materials to participate in the competition.
+As the lead curriculum developer for Technovation, I developed both the structure and the content of the curriculum. The curriculum is split into five major categories: ideation, business, marketing, and pitching. Each category assumes no prior knowledge and teaches students how to create the necessary materials to participate in the competition.
 
-* **Code** - Students create a fully functioning mobile app with App Inventor.
+- **Ideation** - Students go through a series of activities to come up with an idea for their app.
 
-* **Business** - Students create and execute a business plan to turn their ideas into startup businesses.
+- **Code** - Students learn computer science basics and prototype a mobile app using MIT App Inventor.
 
-* **Market** - Students create a brand and an identity for their business by making logos, a mission statement, and a marketing plan.
+- **Business** - Students create and execute a business plan to turn their ideas into startup businesses.
 
-* **Pitch** - Students create both a pitch video and an app demonstration video to showcase their ideas to the world.
+- **Market** - Students create a brand and an identity for their business by making logos, a mission statement, and a marketing plan.
 
-[![Curriculum Table of Contents]({{site.baseurl}}/assets/img/technovation-overview-short.png){: .center-image .clickable}](http://technovationchallenge.org/curriculum-intro/registered){: target="_blank"}
+- **Pitch** - Students create videos to pitch their ideas and showcase their app.
 
-###  Student Workbook
+[![Curriculum Table of Contents]({{site.baseurl}}/assets/img/technovation-overview-short.png){: .center-image .clickable}](http://technovationchallenge.org/curriculum-intro/){: target="\_blank"}
 
-We also developed a student workbook designed to be used with the online curriculum. The workbook is a project management tool for students and their mentors. It highlights keywords and activities throughout all of the units and reminds students when to upload to the online platform.
+### Student Workbook
 
-[![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg){: .center-image .clickable}](https://docs.google.com/document/d/1GZCx1WmMKrBncFOribsSR8gfStURr8rU5cRFE5Yilbk/edit){:target="_blank"}
+The student workbook is a project management tool for students and their mentors to use with the online curriculum. It highlights keywords and activities and reminds students when to upload to the online platform.
+
+[![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg){: .center-image .clickable}](https://docs.google.com/document/d/1GZCx1WmMKrBncFOribsSR8gfStURr8rU5cRFE5Yilbk/edit){:target="\_blank"}
 
 ### Translation
-My team and I also guide the efforts to translate the curriculum into sixteen different languages. By working with volunteer translators, we assess the needs of girls living in different regions and figure out the best way to deliver curriculum to them.
+
+The curriculum has been translated into sixteen different languages. By working with volunteer translators, our team assesses the needs of students living in different regions of the world to understand out the best way to deliver curriculum to them.
 
 ### Student Learning Community
-With my team, I am helping create a learning community for Technovation students and alumni. As part of this movement, I asked Technovation students to submit youtube videos explaining various concepts that they learned to participate in the challenge. Both alumni and current students can submit videos in their any language they want and videos are featured on the curriculum page. Students who participate have the opportunity to contribute to the learning community and to showcase what they have learned.
 
-[![Student Made Tutorials]({{site.baseurl}}/assets/img/student-videos.png){: .center-image .clickable}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zsXSroI4drtbvZdC5kJ6-K){:target="_blank"}
+To foster a learning a community for Technovation students and alumni, I asked Technovation students to submit Youtube videos explaining various concepts that they learned to participate in the challenge. Both alumni and current students can submit videos in their any language they want. The videos are featured on the curriculum page which gives students an opportunity to contribute to the learning community and to showcase what they have learned.
+
+[![Student Made Tutorials]({{site.baseurl}}/assets/img/student-videos.png){: .center-image .clickable}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zsXSroI4drtbvZdC5kJ6-K){:target="\_blank"}
