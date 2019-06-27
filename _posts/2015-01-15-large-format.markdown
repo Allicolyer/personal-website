@@ -7,6 +7,7 @@ description: Photos captured on 4x5 film
 img:  photos/dino.png # Add image post (optional)
 no-cover: true
 tags: [Art]
+hidden: true
 ---
 
 ![skeleton]({{site.baseurl}}/assets/img/photos/skeleton.png){: .one-third-screen-image .padding-m}

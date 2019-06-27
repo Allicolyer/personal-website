@@ -7,6 +7,8 @@ description: Photos captured on medium format film
 img:  photos/bars.png # Add image post (optional)
 no-cover: true
 tags: [Art]
+hidden: true
+
 ---
 
 ![bars]({{site.baseurl}}/assets/img/photos/bars.png){: .one-third-screen-image .padding-xs}

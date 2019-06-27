@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Artificial Intelligence Family Challenge Curriculum
-date: 2017-12-15 00:00:00 +0300
+date: 2018-06-01 00:00:00 +0300
 range: January 2018 - June 2018
 description:
 img: ai.png # Add image post (optional)

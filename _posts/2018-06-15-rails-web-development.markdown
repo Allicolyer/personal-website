@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ruby on Rails Web Development
+title: Tecnovation Platform Development
+date: 2018-06-15 00:00:00 +0300
 range: June 2017 - June 2018
 description: Technovation Web Development
 img: sign-in.png
