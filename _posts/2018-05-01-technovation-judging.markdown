@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technovation Judge Training
-date: 2017-06-10 00:00:00 +0300
+date: 2018-05-01 00:00:00 +0300
 range: August 2016 - May 2018
 description:
 img: flags.jpg # Add image post (optional)
@@ -29,23 +29,14 @@ The judging rubric gives the opportunity for judges to award points for excellen
 The goal of the judge training is for qualified volunteers with zero knowledge of the program to learn how to fairly judge submissions created by teams around the world. The training is broken up into five short videos with the following themes:
 
 1. Technovation Overview
-
 - Program Information and Technovation mission
-
 2. Your Role as a Judge
-
 - The importance and power of Technovation judges
-
 2. Parts of a Submission
-
 - What teams are submitting to the competition
-
 3. Using the Judging Rubric
-
 - A walkthrough of the judging rubric
-
 5. Constructive and Positive Feedback
-
 - How to give good feedback to teams
 
 [![Judge Training]({{site.baseurl}}/assets/img/judge-training.png){: .center-image .clickable}{:target="\_blank"}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2xtXDwqfq4guqeQKiyigWS5)

@@ -7,6 +7,7 @@ description:
 img: poster.jpg # Add image post (optional)
 no-cover: true
 tags: [Art]
+hidden: true
 ---
 
 ![poster]({{site.baseurl}}/assets/img/poster.jpg){: .center-image .padding-m}

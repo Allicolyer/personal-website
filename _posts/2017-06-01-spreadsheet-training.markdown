@@ -5,6 +5,7 @@ range: Summer 2017
 description:
 img: spreadsheets.jpg
 tags: [Curriculum]
+hidden: true
 ---
 I developed and taught a four part professional development seminar about the basics of using spreadsheets programs for data analysis. The curriculum is designed for adults starting with zero knowledge of how to use spreadsheet programs. Over four 1 hour sessions, active discussions and activities give participants the ability to:
 

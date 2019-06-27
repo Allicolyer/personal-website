@@ -7,6 +7,7 @@ description: Photos captured on 35mm film
 img:  photos/beakers.png # Add image post (optional)
 no-cover: true
 tags: [Art]
+hidden: true
 ---
 
 {: .ial-center}
