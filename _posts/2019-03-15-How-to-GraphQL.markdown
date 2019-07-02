@@ -9,19 +9,18 @@ tags: [Technology] # add tag
 current: true
 ---
 
-[How to GraphQL](https://www.howtographql.com/){:target="_blank"} is a website that hosts technical tutorials about GraphQL. The site and the tutorials were created by Prisma, and with Novvum and Prisma, I am helping create the second version of this site.
+[How to GraphQL](https://www.howtographql.com/){:target="_blank"} is a website that hosts technical tutorials about GraphQL. The first version of the site and the tutorials were created by [Prisma](https://www.prisma.io) and I am part of the team creating the second version of the site.
 
 ### About
 
-When it is completed, this version of How to GraphQL will be an open source learning management platform. It will hosts technical tutorials about GraphQL and will be adaptable to create other technical learning experiences. Here are some of the main features this new version will have:
+When it is completed, this version of How to GraphQL will be an open source learning management platform. It will host technical tutorials about GraphQL and will be adaptable to create other technical learning experiences. Here are some of the main features this new version will have:
 
 1. The site will host tutorials about GraphQL written by the Prisma team
-2. Members of the community can contribute tutorials about anything related to GraphQL
+2. Members of the community will be able to contribute tutorials about anything related to GraphQL
 3. Users will have a defined learning path through the tutorials
-4. Users can log in and keep track of their progress on each tutorial
-5. Users can  upvote and bookmark their favorite tutorials
+4. Users will log in and keep track of their progress on each tutorial
+5. Users will be able to upvote and bookmark their favorite tutorials
 6. Admins will be able to see which tutorials are the most popular and are being completed
-
 
 ### Technology Stack
 
