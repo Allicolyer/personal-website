@@ -15,5 +15,8 @@ Currently one the major issues in the trucking industry is that customer are ask
 1. A drayage rate calculator that runs a drayage algorithm and displays rates directly to your browser. This solves the need to manually search for this information, reducing quoting time by 3-5 minutes per quote.
 2.  A crowdsourced database created by other truckers displaying prices they were paid for jobs in the Southern California area. This allows you to compare your quote to what others have been getting paid.
 
-Honest Quotes was created at Novvum Hacks using Javascript and Ruby on Rails. [Check out Honest Quotes!](https://fathomless-brushlands-56617.herokuapp.com/rates){:target="_blank"}
+Honest Quotes was created at Novvum Hacks using Javascript and Ruby on Rails.
+
+<button class="button">[Check out Honest Quotes](https://fathomless-brushlands-56617.herokuapp.com/rates){:target="_blank"}</button>
+
 
