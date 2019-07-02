@@ -11,12 +11,13 @@ current: true
 
 [Feelsbot](https://www.feelsbot.me/){:target="\_blank"} is a machine learning experiment built using React, GraphQL and IBM Watson. Feelsbot can assess the average mood of any city based on the Tweets there, and can also assess the average mood of any Twitter user.
 
-### Features
+ ![Map Gif]({{site.baseurl}}/assets/img/map.gif){: .padding-m}
+![Timeline Gif]({{site.baseurl}}/assets/img/timeline.gif){: .padding-m}
+{: .ial-center  }
 
-1. Feelsbot can asses the mood of any location entered into a map
-2. Feelsbot can asses the mood of any Twitter user
+<button class="button">[Try Feelsbot](https://www.feelsbot.me/)</button>
 
-### How Feelsbot works
+### How Feelsbot Works
 
 Feelsbot uses a machine learning model from IBM to analyze emotions in
 tweets. Using this algorithm, Feelsbot put tweets into five categories:
@@ -41,6 +42,9 @@ need to be public for Feelsbot to work.
 Feelsbot was built using IBM Watson, React and GraphQL. GraphQL is used to send API requests to Twitter and to IBM. React and Javascript were used to build the front end of the bot.
 
 ### Contributors
+
 1. Feelsbot was created by Allison Colyer
 2. Robot drawings were created by [Ruby Ríos](https://www.rubyrios.com).
 3. Big thanks to [Novvum](https://www.novvum.io) for supporting the development of Feelsbot
+
+

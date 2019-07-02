@@ -26,6 +26,10 @@ iframe {
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   transition: all .3s;
+  a {
+    text-decoration: none;
+    color: #fafafa;
+  }
 }
 
 .button:hover {
