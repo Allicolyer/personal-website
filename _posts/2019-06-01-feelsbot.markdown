@@ -21,7 +21,7 @@ current: true
 
 Feelsbot uses a machine learning model from IBM to analyze emotions in
 tweets. Using this algorithm, Feelsbot put tweets into five categories:
-joy, sadness, anger, fear and disgust. This algorithm only works in
+joy, sadness, anger, fear, and disgust. This algorithm only works in
 English, so Feelsbot can only analyze tweets that are in English. Each
 tweet receives a confidence level of how strongly it matches one of
 those categories. Feelsbots puts tweets that have a confidence level
@@ -30,21 +30,19 @@ categorized, the joy meter is calculated as the percentage joyful tweets
 versus every other emotion.
 
 When using the map, Feelsbot uses Twitter's API to fetch the last 100
-tweets that are geotagged near the location entered. Often times, there
+tweets that are geotagged near the location entered. Often, there
 are not many recent geotagged tweets. When this happens Twitter fetches
 tweets of users whose profile locations are near the location entered
 into the map. When analyzing tweets by a specific Twitter account,
-Feelsbot fetches the last 150 tweets by that account . Twitter profiles
+Feelsbot fetches the last 150 tweets by that account. Twitter profiles
 need to be public for Feelsbot to work.
 
 ### Technology Stack
 
-Feelsbot was built using IBM Watson, React and GraphQL. GraphQL is used to send API requests to Twitter and to IBM. React and Javascript were used to build the front end of the bot.
+Feelsbot was built using IBM Watson, React and GraphQL. GraphQL is used to send API requests to Twitter and IBM. React and Javascript was used to build the frontend of the site.
 
 ### Contributors
 
 1. Feelsbot was created by Allison Colyer
 2. Robot drawings were created by [Ruby Ríos](https://www.rubyrios.com).
 3. Big thanks to [Novvum](https://www.novvum.io) for supporting the development of Feelsbot
-
-
