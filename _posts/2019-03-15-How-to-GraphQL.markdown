@@ -9,7 +9,7 @@ tags: [Technology] # add tag
 current: true
 ---
 
-[How to GraphQL](https://www.howtographql.com/){:target="_blank"} is a website that hosts technical tutorials about GraphQL. The site and the tutorials were created by Prisma, and with Novvum and Prisma, I am helping create the second version of this site
+[How to GraphQL](https://www.howtographql.com/){:target="_blank"} is a website that hosts technical tutorials about GraphQL. The site and the tutorials were created by Prisma, and with Novvum and Prisma, I am helping create the second version of this site.
 
 ### About
 
