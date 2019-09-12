@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artificial Intelligence Family Challenge Curriculum
+title: Artificial Intelligence Family Curriculum
 date: 2018-06-01 00:00:00 +0300
 range: January 2018 - June 2018
 description:
@@ -8,7 +8,7 @@ img: ai.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
 
-AI Family Challenge is a global artificial intelligence program for families. The curriculum leads elementary and middle school children through the process of creating an AI invention to solve a problem in their community. The program was launched in 2018 and has been used by 7,500 people in 20 countries.
+Technovation Families is a global artificial intelligence program for families. The curriculum leads elementary and middle school children through the process of creating an AI invention to solve a problem in their community. The program was launched in 2018 and has been used by 7,500 people in 20 countries.
 
 There are four major themes in the curriculum.
 

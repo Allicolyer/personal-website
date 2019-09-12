@@ -15,7 +15,7 @@ The Technovation curriculum is a twelve-week coding entrepreneurship curriculum.
 
 ### Curriculum Overview
 
-As the lead curriculum developer for Technovation, I developed both the structure and the content of the curriculum. The curriculum is split into five major categories: ideation, business, marketing, and pitching. Each category assumes no prior knowledge and teaches students how to create the necessary materials to participate in the competition.
+As the lead curriculum developer for Technovation, I designed and authored the curriculum. The curriculum is split into five major categories: ideation, business, marketing, and pitching. Each category assumes no prior knowledge and teaches students how to create the necessary materials to participate in the competition.
 
 - **Ideation** - Students go through a series of activities to come up with an idea for their app.
 

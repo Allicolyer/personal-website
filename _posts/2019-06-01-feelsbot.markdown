@@ -9,33 +9,33 @@ tags: [Technology] # add tag
 current: true
 ---
 
-[Feelsbot](https://www.feelsbot.me/){:target="\_blank"} is a machine learning experiment built using React, GraphQL and IBM Watson. Feelsbot can assess the average mood of any city based on the Tweets there, and can also assess the average mood of any Twitter user.
+Hello internet! This is [Feelsbot](https://www.feelsbot.me/){:target="\_blank"}. Feelsbot tries to understand how humans are feeling by reading their tweets. Feelsbot can analyze Tweets of any geographical location or any public Twitter profile.
 
- ![Map Gif]({{site.baseurl}}/assets/img/map.gif){: .padding-m}
-![Timeline Gif]({{site.baseurl}}/assets/img/timeline.gif){: .padding-m}
+ ![Map Gif]({{site.baseurl}}/assets/img/feelsbot.gif){: .padding-m}
 {: .ial-center  }
 
 <button class="button">[Try Feelsbot](https://www.feelsbot.me/)</button>
 
+Feelsbot uses artificial intelligence to analyze emotional sentiment in Tweets. Play around with Feelsbot and see if it surprises in any way.
+
 ### How Feelsbot Works
 
 Feelsbot uses a machine learning model from IBM to analyze emotions in
-tweets. Using this algorithm, Feelsbot put tweets into five categories:
-joy, sadness, anger, fear, and disgust. This algorithm only works in
-English, so Feelsbot can only analyze tweets that are in English. Each
-tweet receives a confidence level of how strongly it matches one of
-those categories. Feelsbots puts tweets that have a confidence level
-higher than 65% into each category. Once the tweets have been
-categorized, the joy meter is calculated as the percentage joyful tweets
-versus every other emotion.
+tweets. Using this model, Feelsbot put tweets into five categories: joy, sadness, anger, fear, and disgust. This model only works in English, limiting the number of tweets Feelsbot can analyze. Each tweet receives a score, called a confidence score, of how strongly it matches one of those categories. Feelsbot puts tweets that have a confidence score higher than 65% into each category. Once the tweets have been categorized, the joy meter is calculated as the percentage of joyful tweets versus every other emotion.
 
-When using the map, Feelsbot uses Twitter's API to fetch the last 100
-tweets that are geotagged near the location entered. Often, there
-are not many recent geotagged tweets. When this happens Twitter fetches
-tweets of users whose profile locations are near the location entered
-into the map. When analyzing tweets by a specific Twitter account,
-Feelsbot fetches the last 150 tweets by that account. Twitter profiles
-need to be public for Feelsbot to work.
+When using the map, Feelsbot uses Twitter's API to fetch the last 100 tweets that are geotagged near the location entered. If there are not many recent geotagged tweets near that location, Twitter fetches tweets of users whose profile locations are nearby. When analyzing tweets by a specific Twitter account, Feelsbot fetches the last 150 tweets by that account. Twitter profiles need to be public for Feelsbot to work.
+
+### Inspiration for Creating Feelsbot
+
+There are a few reasons why I decided to create Feelsbot. First off, I was inspired by how easy it is to hop in and use some of the machine learning APIs from IBM and Google. Additionally, I wanted to create a software project to help people better understand how AI works.
+
+Feelsbot highlights a couple of important things about AI and natural language processing.
+
+* Many machine learning models have a rather simplistic view of emotion, and can’t pick up on subtle things, such as sarcasm.
+* Sometimes figures of speech can throw off the model, for example, "I'm so happy I could cry" is detected as sad with a 65% confidence.
+
+Although Feelsbot is not perfect, it’s more accurate than you might expect! I am often surprised by how well it can categorize more ambiguous tweets. Try it out to see for yourself.
+
 
 ### Technology Stack
 
@@ -44,5 +44,5 @@ Feelsbot was built using IBM Watson, React and GraphQL. GraphQL is used to send 
 ### Contributors
 
 1. Feelsbot was created by Allison Colyer
-2. Robot drawings were created by [Ruby Ríos](https://www.rubyrios.com).
+2. Robot drawings were created by [Ruby Ríos](https://www.rubyrios.com)
 3. Big thanks to [Novvum](https://www.novvum.io) for supporting the development of Feelsbot

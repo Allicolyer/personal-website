@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Curiosity Machine Design Challenges
+title: Curiosity Machine Engineering Challenges
 date: 2018-12-01 00:00:00 +0300
 range: June 2015 - December 2018
 description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-I create curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}, which is a hands-on STEAM program for children, families and educators.
+I created curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}, which is a hands-on STe<> program for children, families and educators.
 
 ### Design Challenges
 
