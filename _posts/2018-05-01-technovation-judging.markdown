@@ -6,6 +6,7 @@ range: August 2016 - May 2018
 description:
 img: flags.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
+hidden: true
 ---
 
 [Technovation](http://technovationchallenge.org/) is the world's largest technology entrepreneurship program for girls ages 10-18. Technovation invites girls from around the world to identify a problem in their community and then challenges them to solve it. Each year more than 20,000 students participate from over 100 countries.

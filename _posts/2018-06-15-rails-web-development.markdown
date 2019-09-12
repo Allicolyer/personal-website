@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Tecnovation Platform Development
+title: Technovation Software Development
 date: 2018-06-15 00:00:00 +0300
 range: June 2017 - June 2018
-description: Technovation Web Development
+description: Technovation Software Development
 img: sign-in.png
 tags: [Technology]
 ---
