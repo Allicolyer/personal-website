@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Curiosity Machine Engineering Challenges
+title: Hands-On Engineering Projects
 date: 2018-01-01 00:00:00 +0300
 range: June 2015 - December 2017
-description: Hands-on building projects
+description: Hands-on engineering projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---
-I created curriculum for [Curiosity Machine](https://www.curiositymachine.org/){:target="_blank"}, which is a hands-on STe<> program for children, families and educators.
-
-### Design Challenges
-
-Design challenges are hands-on STEAM activities that teach engineering concepts based on the work of scientists and engineers. All design challenges use simple household materials, can scale up or down for students ages 5-18, are open-ended, and connect to real applications of science and engineering. Some of the topics I’ve developed these hands-on challenges around include:
+I created hands-on projects for [Technovation Families](https://www.curiositymachine.org/challenges/){:target="_blank"} that are used by children, families, and educators. These activities teach engineering concepts based on the work of scientists and engineers. All challenges use simple household materials, are suitable for students ages 5-18, are open-ended, and connect to real applications of science and engineering. Some of the topics I’ve developed these hands-on challenges around include:
 
 * Artificial Intelligence
 * Nanoscience
@@ -38,7 +34,7 @@ The three challenges were tested out with a group of high schoolers at conferenc
 
 ### Nanoscience
 
-In the Spring of 2018, I created three videos to accompany design challenges developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos will explain important concepts in nanoscience and help students get starting building the design challenges.
+In the Winter of 2017, I created three videos to accompany activities developed with the help of undergraduate students at RPI (Rensselaer Polytechnic Institute). These videos explain important concepts in nanoscience and help students get starting building the challenges.
 
 | Quantum Dots| Nanopipe | Nanostamp |
 |:-------------------:|:------------------------:|:------------------------:|
@@ -46,7 +42,7 @@ In the Spring of 2018, I created three videos to accompany design challenges dev
 {: .design-challenge}
 
 ### Genetics
-In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California Institute of Technology, and the Iridescent video team to develop two videos and a hands-on building project that teaches children about plant genetics. I developed the design for the project, several different prototypes, and two videos that all work together to deliver the concepts to a young audience.
+In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at the California Institute of Technology, to develop two videos and a hands-on building project that teaches children about plant genetics. The project and two videos that work together to deliver technical concepts to a young audience.
 
 | Design a Set of Mechanical Genes
 |:-------------------:|
@@ -54,7 +50,7 @@ In the fall of 2015, I worked with Elliot Meyerowitz, a scientist at California 
 {: .design-challenge}
 
 ### Aerospace
-In a partnership with Boeing, I worked with engineers to develop hands-on projects around what they work on at Boeing. In total, my team developed 21 design challenges and three videos to accompany each one. Below are three of challenges that I worked to develop.
+In a partnership with Boeing, I worked with engineers to develop hands-on projects based around the engineering work at Boeing. In total, my team developed 21 activities, each with three accompanying videos. Below are three of the challenges.
 
 | Safe Stopping Robot | Fuel Level Detector | SLS Inspired Rocket |
 |:-------------------:|:------------------------:|:-----------------:|
