@@ -2,7 +2,7 @@
 layout: post
 title: Spare
 date: 2019-01-15 00:00:00 +0300
-range: June 2018 - January 2019
+range: Summer 2018
 description: Hack for LA project
 img: spare.png # Add image post (optional)
 tags: [Technology] # add tag

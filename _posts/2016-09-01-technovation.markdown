@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Technovation Curriculum
-date: 2017-06-15 00:00:00 +0300
-range: August 2016 - Current
+date: 2019-01-01 00:00:00 +0300
+range: August 2016 - January 2019
 description: Largest global entrepreneurship technology program for girls
 img: technovation-team.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
@@ -19,11 +19,9 @@ As the lead curriculum developer for Technovation, I designed and authored the c
 
 - **Ideation** - Students go through a series of activities to come up with an idea for their app.
 
-- **Code** - Students learn computer science basics and prototype a mobile app using MIT App Inventor.
+- **Code** - Students learn computer science basics and prototype a mobile app using MIT App Inventor or Thunkable.
 
-- **Business** - Students create and execute a business plan to turn their ideas into startup businesses.
-
-- **Market** - Students create a brand and an identity for their business by making logos, a mission statement, and a marketing plan.
+- **Entrepreneurship** - Students create and execute a business plan to turn their ideas into startup businesses.
 
 - **Pitch** - Students create videos to pitch their ideas and showcase their app.
 

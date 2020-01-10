@@ -7,6 +7,8 @@ description: How to GraphQL 2
 img:  howtographql.png # Add image post (optional)
 tags: [Technology] # add tag
 current: true
+hidden: true
+
 ---
 
 [How to GraphQL](https://www.howtographql.com/){:target="_blank"} is a website that hosts technical tutorials about GraphQL. The first version of the site and the tutorials were created by [Prisma](https://www.prisma.io) and I am part of the team creating the second version of the site.

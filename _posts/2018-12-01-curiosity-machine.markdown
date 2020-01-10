@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Curiosity Machine Engineering Challenges
-date: 2018-12-01 00:00:00 +0300
-range: June 2015 - December 2018
+date: 2018-01-01 00:00:00 +0300
+range: June 2015 - December 2017
 description: Hands-on building projects
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag

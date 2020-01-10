@@ -2,7 +2,7 @@
 layout: post
 title: Feelsbot
 date: 2019-03-15 00:00:00 +0300
-range: Spring 2019
+range: Summer 2019
 description: Feelsbot
 img: feelsbot.png # Add image post (optional)
 tags: [Technology] # add tag
@@ -27,7 +27,7 @@ When using the map, Feelsbot uses Twitter's API to fetch the last 100 tweets tha
 
 ### Inspiration for Creating Feelsbot
 
-There are a few reasons why I decided to create Feelsbot. First off, I was inspired by how easy it is to hop in and use some of the machine learning APIs from IBM and Google. Additionally, I wanted to create a software project to help people better understand how AI works.
+There are a few reasons why I created Feelsbot. First off, I was inspired by how easy it is to hop in and use some of the machine learning APIs from IBM and Google. Additionally, I wanted to create a software project to help people better understand how AI works.
 
 Feelsbot highlights a couple of important things about AI and natural language processing.
 

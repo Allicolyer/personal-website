@@ -2,10 +2,11 @@
 layout: post
 title: Honest Quotes
 date: 2018-10-20 00:00:00 +0300
-range: October 2018
+range: Fall 2018
 description: Honest Quotes for Truckers
 img: honest-quotes.png # Add image post (optional)
 tags: [Technology] # add tag
+hidden: true
 ---
 
 Honest Quotes is web app that helps truckers and customers charge each other more fairly.
