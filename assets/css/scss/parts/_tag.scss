@@ -63,10 +63,10 @@
 .work-tag {
   text-decoration: none;
   text-align: center;
-  color: #263959;
+  color: $dark-blue;
   padding: 5px 10px;
-  border: 1px solid #ecf0f1;
-  background-color: #fafafa;
+  border: 1px solid $gray;
+  background-color: $lightgray;
   transition: all 0.3s;
 }
 
@@ -84,7 +84,7 @@
   background-color: $dark-blue;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: $medium) {
   .tags li {
     display: inline-block;
   }
@@ -94,7 +94,7 @@
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: $small) {
   .tags li {
     display: block;
   }

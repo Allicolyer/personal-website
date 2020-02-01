@@ -62,7 +62,7 @@ iframe {
   padding: 0.1rem;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: $large) {
   .one-third-screen-image {
     width: 49%;
   }
@@ -71,7 +71,7 @@ iframe {
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: $small) {
   .one-third-screen-image {
     width: 100%;
   }
