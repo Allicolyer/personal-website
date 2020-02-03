@@ -15,7 +15,7 @@ html {
 body {
   font-family: $base-font-family;
   color: $body-color;
-  background-color: #fbfbfb;
+  background-color: $background-color;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
