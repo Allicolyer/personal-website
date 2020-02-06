@@ -1,0 +1,50 @@
+---
+layout: post
+title: Kanye Quote Generator
+date: 2020-02-01 00:00:00 +0300
+range: Winter 2020
+description: Kanye Quote Generator
+img: kanye.png # Add image post (optional)
+tags: [Technology] # add tag
+current: true
+---
+
+[Kanye.fun](www.kanye.fun) uses Markov chains to generate quotes that sound like Kanye
+West.
+
+<button class="button">[Check it out ](http://www.kanye.fun/)</button>
+
+### How Kanye.fun works
+
+This site builds a Markov chain from two-hundred different Kanye West
+quotes and uses that chain to generate quotes in a similar style to
+Kanye. The Markov chain weights word differently based on how often they
+appear next to each other. So for instance, if six quotes have the
+combination ‘I am’ and only one has the combination ‘I have’, ‘I am’ is
+six times more likely to appear in a generated quote than ‘I have’. Just
+like with any Markov chain, there is always a chance that the generated
+Kanye West quote is actually a real Kanye West quote.
+
+Switching between ‘more random’ and ‘less random’ lets you choose
+between using a first-order Markov chain and a second-order Markov
+chain. First-order Markov chains use only on the last word to pick the
+next word in a sentence. Second-order Markov chains use the last two
+words in a sentence to predict the next one. The second-order chain
+generates quotes that sound more like Kanye, while the first-order chain
+generates sentences that are more jumbled and random.
+
+### Contributors
+
+- Kanye.fun was created by [Allison Colyer](https://twitter.com/AlliColyer).
+- Thanks to [Michael Lu](https://github.com/michaelwlu) for being a contributing programmer.
+- Thanks to [Seth Klein](https://www.linkedin.com/in/sethaklein/) for creating the Kanye graphic.
+- Thanks to [Chloe Revery](https://github.com/chloerevery)
+- Thanks to [Recurse Center](https://www.recurse.com/) for supporting this project.
+
+### API Endpoints
+
+If you want to use generated Kanye West quotes in your own project, here is how you can use Kanye as a Service.
+
+- Generate Kanye West quotes. Include a number at the end of the URL to specify the order Markov chain you want to use. [https://kanyefun.now.sh/quote/2](https://kanyefun.now.sh/quote/2)
+- Generate a Markov Chain from the quotes used in this project. Specify the order by putting a number to the end of the URL. [https://kanyefun.now.sh/markov/1](https://kanyefun.now.sh/markov/1)
+- Fetch all of the Kanye West quotes used for this project. [https://kanyefun.now.sh/kanyequotes](https://kanyefun.now.sh/kanyequotes)
