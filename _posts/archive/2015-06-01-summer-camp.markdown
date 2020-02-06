@@ -6,7 +6,9 @@ range: Summer 2014 & 2015
 description: Hands-on curriculum for K-3
 img: summer-camp.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
+hidden: true
 ---
+
 During both the summers of 2014 and of 2015, I developed and taught a four-week outdoor summer camp for students aged 4-10. The curriculum includes six hours of activities for five day weeks. Each day the children work on the following skills:
 
 1. Observing and drawing inspiration from nature
@@ -19,17 +21,17 @@ The weeks follow themes for the lessons taught, the books read to the children, 
 
 2015 Summer Themes
 
-* Week 1. Basic Engineering Mechanisms in Nature
-* Week 2. Nature of the Past: Dinosaurs
-* Week 3. Biomimicry: Engineering Inspired by Plants and Animals
-* Week 4. Mimicking Nature with Electronics
+- Week 1. Basic Engineering Mechanisms in Nature
+- Week 2. Nature of the Past: Dinosaurs
+- Week 3. Biomimicry: Engineering Inspired by Plants and Animals
+- Week 4. Mimicking Nature with Electronics
 
 2014 Summer Themes
 
-* Week 1. Biomimicry: Engineering Inspired by Plants and Animals
-* Week 2. Forces of nature: Wind and Flight
-* Week 3. Basics Engineering Mechanisms in Nature
-* Week 4. Understanding Expressions in Humans and Animals
+- Week 1. Biomimicry: Engineering Inspired by Plants and Animals
+- Week 2. Forces of nature: Wind and Flight
+- Week 3. Basics Engineering Mechanisms in Nature
+- Week 4. Understanding Expressions in Humans and Animals
 
 Each week of the curriculum is meant to both be cumulative for children participating for all four weeks and also stand alone for those who join the later weeks. The building projects and concepts get progressively harder as the weeks go but can also be made simpler for children starting camp mid-summer.
 
