@@ -4,6 +4,7 @@ title: Feelsbot
 date: 2019-03-15 00:00:00 +0300
 range: Summer 2019
 description: Feelsbot
+canonical: https://www.feelsbot.me/
 img: feelsbot.png # Add image post (optional)
 tags: [Technology] # add tag
 current: true
