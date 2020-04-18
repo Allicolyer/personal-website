@@ -1,7 +1,17 @@
 $body-color: #515151;
+$background-color: #fbfbfb;
 $white: #ffffff;
 $lightgray: #fafafa;
 $gray: #ecf0f1;
 $dark-gray: #a0a0a0;
 $dark-blue: #263959;
 $dark: #333030;
+
+//fonts
+$base-font-family: "Lato", sans-serif;
+$headings-font-family: "PT Serif", serif;
+
+//break-points
+$large: 992px;
+$medium: 768px;
+$small: 480px;

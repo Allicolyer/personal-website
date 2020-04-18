@@ -1,0 +1,82 @@
+table {
+  border: 1px solid #aaa;
+  background-color: #eee;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+  border-collapse: collapse;
+  td,
+  table.blueTable th {
+    border: 1px solid #aaa;
+    padding: 3px 2px;
+  }
+  tbody td {
+    font-size: 13px;
+  }
+  tr:nth-child(even) {
+    background: #adbecc;
+  }
+  thead {
+    background: #a9c4d1;
+    background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#bed3dc),
+      color-stop(66%, #b1cad5),
+      to(#a9c4d1)
+    );
+    background: -webkit-linear-gradient(
+      top,
+      #bed3dc 0%,
+      #b1cad5 66%,
+      #a9c4d1 100%
+    );
+    background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%);
+    background: linear-gradient(
+      to bottom,
+      #bed3dc 0%,
+      #b1cad5 66%,
+      #a9c4d1 100%
+    );
+    border-bottom: 1px solid #8c8c8c;
+    th {
+      font-size: 14px;
+      font-weight: bold;
+      color: #fff;
+      border-left: 1px solid #d0e4f5;
+      &:first-child {
+        border-left: none;
+      }
+    }
+  }
+
+  tfoot {
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background: #d0e4f5;
+    background: linear-gradient(
+      to bottom,
+      #dcebf7 0%,
+      #d4e6f6 66%,
+      #d0e4f5 100%
+    );
+    border-top: 2px solid #444;
+    td {
+      font-size: 14px;
+    }
+  }
+}
+
+.design-challenge th {
+  color: $body-color;
+  padding: 10px;
+  background-color: $lightgray;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+  a {
+    color: $dark-blue;
+  }
+}

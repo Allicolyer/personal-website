@@ -18,50 +18,29 @@ iframe {
   display: block;
   text-decoration: none;
   text-align: center;
-  color: #fafafa;
+  color: $lightgray;
   display: block;
   padding: 5px 10px;
-  border: 1px solid #ecf0f1;
-  background-color: #515151;
-  -webkit-transition: all .3s;
-  -o-transition: all .3s;
-  transition: all .3s;
+  border: 1px solid $gray;
+  background-color: $body-color;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
   a {
     text-decoration: none;
-    color: #fafafa;
+    color: $lightgray;
   }
 }
 
 .button:hover {
-  background-color: #a0a0a0;
+  background-color: $dark-gray;
 }
 
 .clickable {
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 .clickable:hover {
-  opacity: 0.60;
-}
-
-.design-challenge th {
-  color: #515151;
-  padding: 10px;
-  background-color: #fafafa;
-  -webkit-transition: all .3s;
-  -o-transition: all .3s;
-  transition: all .3s;
-}
-
-.design-challenge th a {
-  color: #263959;
-}
-
-.padding-m {
-  padding:.5rem;
-}
-
-.padding-xs {
-  padding:.1rem;
+  opacity: 0.6;
 }
 
 .one-third-screen-image {
@@ -75,8 +54,15 @@ iframe {
   text-align: center;
 }
 
+.padding-m {
+  padding: 0.5rem;
+}
 
-@media only screen and (max-width : 992px) {
+.padding-xs {
+  padding: 0.1rem;
+}
+
+@media only screen and (max-width: $large) {
   .one-third-screen-image {
     width: 49%;
   }
@@ -85,7 +71,7 @@ iframe {
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: $small) {
   .one-third-screen-image {
     width: 100%;
   }
