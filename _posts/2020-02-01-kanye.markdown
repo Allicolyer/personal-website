@@ -7,13 +7,12 @@ description: Kanye Quote Generator
 canonical: http://www.kanye.fun/
 img: kanye.png # Add image post (optional)
 tags: [Technology] # add tag
-current: true
 ---
 
 [Kanye.fun](www.kanye.fun) uses Markov chains to generate quotes that sound like Kanye
 West.
 
-<button class="button">[Check it out ](http://www.kanye.fun/)</button>
+<button class="button">[Check it out](http://www.kanye.fun/)</button>
 
 ### How Kanye.fun works
 
