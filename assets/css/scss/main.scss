@@ -41,7 +41,7 @@ blockquote {
 
 pre {
   padding: 1rem 2rem;
-  overflow-x: auto;
+  overflow-x: scroll;
 
   code {
     border: 0;
@@ -57,6 +57,7 @@ pre {
 
 .post,
 .article-page {
+  width: 100%;
   background-color: #fff;
 }
 
