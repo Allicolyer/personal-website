@@ -31,50 +31,53 @@ Recurse Roulette requires users to authenticate with Recurse Center before signi
 
 ### Server Code
 
-When a client connects to the server, that client is given a peer ID. The server keeps track of the peer IDs as they connect. When a client requests to connect to another client, the server returns a list of available peers to connect to and the client randomly picks an id from this list. Once two peers are connected, both peer ids are removed from this list. The server also keeps track of all online clients. When a client ends a connection with another client, their peer id is destroyed and they are taken. To rejoin, they reconnect and are given a new peer id.
-The sever exposes three endpoints for the client to use:
+Recurse Roulette shuffles and reconnects clients every five minutes. To keep the clock consistent across all clients, the server keeps track of the time until the next chat round. Clients request the time from the server as soon as they connect.
+
+Clients need to click "Join" to connect to the signaling server and to be paired for the next chat round. When this happens, the client is given a peer ID by the server. When a new round starts, each client that has joined requests a partner from the server. The server pairs each client as the requests come in. If there is another client that has requested a partner, the server pairs those two clients, otherwise the server remembers the client’s peer ID until another client requests a partner. When the round ends, each client's peer ID is destroyed, which ends the current call, and each client is given a new ID for the next round. If a client disconnects, its peer ID is destroyed, and it must rejoin to receive a new one.
+
+The server exposes three endpoints:
 
 ```
-/api/peers
+/api/sitch
 ```
 
-This returns the list of available peers to connect do.
+This returns how much time is left in the current chat round.
 
 ```
-/api/peers/consume/:id
+/api/gimmePartner/:id
 ```
 
-This removes the specified id from the peer set. The client sends their own id upon a successful stream/call connection.
+This pairs the client with a partner. The client sends its own ID.
 
 ```
 /api/online
 ```
 
-This returns the total number of peers who are online. When clients hang up, their peer ID is destroyed and removed from this list.
+This returns the number of peers that have joined the chat round.
 
 ### Client Code
 
-When the client connects to the signaling server, a new peer object is created for that client.
+When the client joins the chat round and connects to the signaling server, a new peer object is created.
 
 ```
 peer = new Peer({...});
 ```
 
-Listeners are assigned for incoming connections from other peers
+Listeners are assigned for incoming connections from other peers.
 
 ```
 peer.on("call", async function (call)
 peer.on("connection", function (conn)
 ```
 
-Once a peer object is created, the client will try to initiate a data connection (`peer.connect`) and a media stream (`peer.call`) with the first available peer.
+When a client is given a partner, it will initiate a data connection (`peer.connect`) and a media stream (`peer.call`) using the peer ID given by the server.
 
 ```
-peerCall = peer.call(firstAvailablePeer, stream);
-peerConn = peer.connect(firstAvailablePeer);
+peerCall = peer.call(specificPeer, stream);
+peerConn = peer.connect(specificPeer);
 ```
 
-Once the connection is made the peers can share media streams and data. Once the connection is closed, the client destroys the peer object.
+Once the connection is made the peers can share media streams and data. When chat round is over or the connection is closed, the client destroys the peer object.
 
 ```
 peer.destroy();
@@ -130,6 +133,5 @@ We hope that future Recursers will enjoy using Recurse Roulette, and we are more
     <td align="center"><a href="https://github.com/georgemandis"><img src="https://avatars0.githubusercontent.com/u/21219?s=460&v=4" width="200px;" alt="Picture of George Madis"/><br /><b>George Mandis</b></a></td>
     <td align="center"><a href="https://github.com/samson212"><img src="https://avatars2.githubusercontent.com/u/1728821?s=400&v=4" width="200px;" alt="Picture of Sam Lazarus"/><br /><b>Sam Lazarus</b></a></td>
     <td align="center"><a href="https://github.com/allicolyer"><img src="https://avatars1.githubusercontent.com/u/11083917?s=460&v=4" width="200px;" alt="Picture of Allison Colyer"/><br /><b>Alli Colyer</b></a></td>
-    <td align="center"><a href="https://github.com/AsaNeedle"><img src="https://avatars3.githubusercontent.com/u/43149404?s=460&v=4" width="200px;" alt="Picture of Asa Needle"/><br /><b>Asa Needle</b></a></td>
   </tr>
 </table>

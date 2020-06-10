@@ -16,7 +16,7 @@ West.
 
 ### How Kanye.fun works
 
-This site builds a Markov chain from two-hundred different Kanye West
+The site builds a Markov chain from two-hundred different Kanye West
 quotes and uses that chain to generate quotes in a similar style to
 Kanye. The Markov chain weights word differently based on how often they
 appear next to each other. So for instance, if six quotes have the
@@ -33,14 +33,6 @@ words in a sentence to predict the next one. The second-order chain
 generates quotes that sound more like Kanye, while the first-order chain
 generates sentences that are more jumbled and random.
 
-### Contributors
-
-- Kanye.fun was created by [Allison Colyer](https://twitter.com/AlliColyer).
-- Thanks to [Michael Lu](https://github.com/michaelwlu) for being a contributing programmer.
-- Thanks to [Seth Klein](https://www.linkedin.com/in/sethaklein/) for creating the Kanye graphic.
-- Thanks to [Chloe Revery](https://github.com/chloerevery)
-- Thanks to [Recurse Center](https://www.recurse.com/) for supporting this project.
-
 ### API Endpoints
 
 If you want to use generated Kanye West quotes in your own project, here is how you can use Kanye as a Service.
@@ -48,3 +40,21 @@ If you want to use generated Kanye West quotes in your own project, here is how 
 - Generate Kanye West quotes. Include a number at the end of the URL to specify the order Markov chain you want to use. [https://kanyefun.now.sh/quote/2](https://kanyefun.now.sh/quote/2)
 - Generate a Markov Chain from the quotes used in this project. Specify the order by putting a number to the end of the URL. [https://kanyefun.now.sh/markov/1](https://kanyefun.now.sh/markov/1)
 - Fetch all of the Kanye West quotes used for this project. [https://kanyefun.now.sh/kanyequotes](https://kanyefun.now.sh/kanyequotes)
+
+### Contributors
+
+- Kanye.fun was created by [Allison Colyer](https://twitter.com/AlliColyer).
+- Thanks to [Michael Lu](https://github.com/michaelwlu) for helping create Kanye.fun
+- Thanks to [Seth Klein](https://www.linkedin.com/in/sethaklein/) for creating the Kanye graphic.
+- Special thanks to [Chloe Revery](https://github.com/chloerevery) and [The Recurse Center](https://www.recurse.com/)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/allicolyer"><img src="https://avatars1.githubusercontent.com/u/11083917?s=460&v=4" width="200px;" alt="Picture of Allison Colyer"/><br /><b>Alli Colyer</b></a></td>
+    <td align="center"><a href="https://github.com/michaelwlu"><img src="https://avatars1.githubusercontent.com/u/9114194?s=460&v=4" width="200px;" alt="Picture of Michael Lu"/><br /><b>Michael Lu</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sethaklein/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQFKfGxEaciQ8A/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=8Bs044I3ajVnaxXAtr9DjACvNK-YuCSJXlualo4NXtA" width="200px;" alt="Picture of Seth Klein"/><br /><b>Seth Klein</b></a></td>
+    <td align="center"><a href="https://github.com/chloerevery"><img src="https://avatars3.githubusercontent.com/u/6632604?s=460&v=4" width="200px;" alt="Picture of Chloe Revery"/><br /><b>Chloe Revery</b></a></td>
+    <td align="center"><a href="https://www.recurse.com/"><img src="https://d29xw0ra2h4o4u.cloudfront.net/assets/logo_square-051508b5ecf8868635aea567bb86f423f4d1786776e5dfce4adf2bc7edf05804.png" width="200px;" alt="Recurse Logo"/><br /><b>Recurse Center</b></a></td>
+  </tr>
+</table>
+s
