@@ -2,8 +2,8 @@
 layout: post
 title: Feelsbot
 date: 2019-03-15 00:00:00 +0300
+description: Feelsbot uses a machine learning and Twitter to assess the emotional sentiment of any city.
 range: Summer 2019
-description: Feelsbot
 canonical: https://www.feelsbot.me/
 img: feelsbot.png # Add image post (optional)
 tags: [Technology] # add tag

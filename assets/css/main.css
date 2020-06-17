@@ -691,8 +691,8 @@ pre {
     padding-left: 0; }
 
 .wrapper {
-  max-width: 1250px;
-  position: relative; }
+  position: relative;
+  max-width: 1300px; }
 
 .post,
 .article-page {
@@ -1069,11 +1069,22 @@ a.newer-posts:hover {
     text-decoration: underline;
     opacity: 0.8; }
 
-#resume {
+#resume-button {
+  display: none;
   width: max-content;
   margin-left: auto;
   margin-right: auto; }
 
+#resume-embed {
+  width: 100%;
+  height: 600px; }
+
+@media only screen and (max-width: 992px) {
+  #resume-embed {
+    display: none; }
+
+  #resume-button {
+    display: block; } }
 .work-tag {
   text-decoration: none;
   text-align: center;
@@ -1096,10 +1107,7 @@ a.newer-posts:hover {
 
 @media only screen and (max-width: 768px) {
   .tags li {
-    display: inline-block; }
-
-  #resume {
-    display: block; } }
+    display: inline-block; } }
 @media only screen and (max-width: 480px) {
   .tags li {
     display: block; } }

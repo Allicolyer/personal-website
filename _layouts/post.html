@@ -1,36 +1,30 @@
 ---
 layout: main
 ---
+
 <article class="article-page">
   <div class="page-content">
-
-    {% if page.img %}
-      {% unless page.no-cover %}
-        <div class="page-cover-image">
-          <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-        </div> <!-- End Page Cover Image -->
-      {% endunless %}
-    {% endif %}
+    {% if page.img %} {% unless page.no-cover %}
+    <div class="page-cover-image">
+      <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl |
+      append : page.img}} alt="{{page.title}}">
+    </div>
+    <!-- End Page Cover Image -->
+    {% endunless %} {% endif %}
 
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
 
         {% unless page.about %}
-          <div class="page-date">
-            <span>
-
-              {% if page.range %}
-                {{page.range}}
-              {% elsif page.date %}
-                {{page.date | date: '%B %Y'}}
-              {% endif %}
-
-            </span>
-          </div>
+        <div class="page-date">
+          <span>
+            {% if page.range %} {{page.range}} {% elsif page.date %} {{page.date
+            | date: '%B %Y'}} {% endif %}
+          </span>
+        </div>
         {% endunless %}
-
-        </header>
+      </header>
       {{page.content | markdownify}}
       <div class="page-footer"></div>
 
@@ -40,7 +34,9 @@ layout: main
         element.id = "selected-tag";
       </script>
       {% endif %}
-
-    </div> <!-- End Wrap Content -->
-  </div> <!-- End Page Content -->
-</article> <!-- End Article Page -->
+    </div>
+    <!-- End Wrap Content -->
+  </div>
+  <!-- End Page Content -->
+</article>
+<!-- End Article Page -->

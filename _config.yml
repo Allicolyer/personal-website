@@ -1,6 +1,6 @@
 title: Alli Colyer
 description: > # this means to ignore newlines until "baseurl:"
-  Alli Colyer is a software engineer focused on building fun educational experiences.
+  Alli Colyer is a full stack software engineer based in Los Angeles.
 permalink: ":title/"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alli.science/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Allison Colyer # add your name
 author-img: profile.jpeg # add your photo
-about-author: Software Engineer <br> Educational Technologist <br> Curriculum Designer # add description
+about-author: Software Engineer <br> Curriculum Designer # add description
 twitter: allicolyer # add your Twitter handle
 facebook: # add your Facebook handle
 github: Allicolyer # add your Github handle
