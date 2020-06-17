@@ -3,7 +3,7 @@ layout: post
 title: Technovation Curriculum
 date: 2019-01-01 00:00:00 +0300
 range: August 2016 - January 2019
-description: Largest global entrepreneurship technology program for girls
+description: The Technovation curriculum is coding and entrepreneurship curriculum used by thousands of girls around the world.
 img: technovation-team.jpg # Add image post (optional)
 tags: [Curriculum] # add tag
 current: true

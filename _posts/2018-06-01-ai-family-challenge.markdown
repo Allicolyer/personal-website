@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Artificial Intelligence Curriculum
+title: AI Family Curriculum
 date: 2018-06-15 00:00:00 +0300
 range: January 2018 - June 2018
-description:
+description: The AI Family curriculum challenges children and their parents to create an AI invention to solve a problem in their community.
 img: ai.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Kanye Quote Generator
 date: 2020-02-01 00:00:00 +0300
 range: Winter 2020
-description: Kanye Quote Generator
+description: Kanye.fun generates fake Kanye West quotes using a Markov chain.
 canonical: http://www.kanye.fun/
 img: kanye.png # Add image post (optional)
 tags: [Technology] # add tag
