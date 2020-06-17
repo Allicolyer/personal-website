@@ -5,6 +5,7 @@ img: about.jpeg
 hidden: true
 about: true
 tags:
+permalink: /
 ---
 
 I am a full-stack software engineer who loves creating fun educational experiences. My passion is to use technology to bridge the education and opportunity gap for all people.
