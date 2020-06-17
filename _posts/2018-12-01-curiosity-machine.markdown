@@ -3,7 +3,7 @@ layout: post
 title: Hands-On Engineering Projects
 date: 2018-01-01 00:00:00 +0300
 range: June 2015 - December 2017
-description: Hands-on engineering projects
+description: These activities teach science and engineering concepts using everyday materials.
 img: curiosity-machine.png # Add image post (optional)
 tags: [Curriculum] # add tag
 ---

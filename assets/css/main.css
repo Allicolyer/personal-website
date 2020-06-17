@@ -691,8 +691,8 @@ pre {
     padding-left: 0; }
 
 .wrapper {
-  max-width: 1250px;
-  position: relative; }
+  position: relative;
+  max-width: 1300px; }
 
 .post,
 .article-page {
