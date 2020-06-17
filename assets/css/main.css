@@ -915,9 +915,10 @@ footer .copyright {
   .post .post-content {
     padding: 1rem;
     width: 100%; }
-    .post .post-content .post-date,
-    .post .post-content .post-words {
-      font-size: 12px; }
+    .post .post-content .post-date {
+      font-size: 0.75rem; }
+    .post .post-content .post-description {
+      font-size: 0.85rem; }
     .post .post-content .post-title {
       margin: 0 0 5px;
       font-size: 1.3rem;
@@ -1379,10 +1380,12 @@ table {
       width: 100%;
       min-height: 9rem; }
     .post .post-content {
-      width: 48%;
+      width: 100%;
       line-height: 1.2rem; }
       .post .post-content .post-date {
         font-size: 0.65rem; }
+      .post .post-content .post-description {
+        font-size: 0.75rem; }
       .post .post-content .post-title {
         margin: 0 0 5px; }
         .post .post-content .post-title a {

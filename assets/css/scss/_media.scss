@@ -127,11 +127,14 @@
     }
 
     .post-content {
-      width: 48%;
+      width: 100%;
       line-height: 1.2rem;
 
       .post-date {
         font-size: 0.65rem;
+      }
+      .post-description {
+        font-size: 0.75rem;
       }
 
       .post-title {

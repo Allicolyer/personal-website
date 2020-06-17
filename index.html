@@ -14,9 +14,9 @@ permalink: /portfolio/
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
       {% if post.description %}
-        <p>{{ post.description }}</p>
+        <p class="post-description">{{ post.description }}</p>
       {% else %}
-        <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+        <p class="post-description">{{ post.content | strip_html | truncatewords: 15 }}</p>
       {% endif %}
     <span class="post-date">
       {% if post.range %}

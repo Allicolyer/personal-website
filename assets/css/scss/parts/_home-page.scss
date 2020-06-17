@@ -227,9 +227,11 @@ footer .copyright {
   .post-content {
     padding: 1rem;
     width: 100%;
-    .post-date,
-    .post-words {
-      font-size: 12px;
+    .post-date {
+      font-size: 0.75rem;
+    }
+    .post-description {
+      font-size: 0.85rem;
     }
     .post-title {
       margin: 0 0 5px;
