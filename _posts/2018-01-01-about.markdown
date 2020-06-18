@@ -14,4 +14,4 @@ I am currently seeking new opportunities. I have professional experience in Java
 
 <embed id="resume-embed" src="{{site.baseurl}}/assets/resume.pdf"/>
 
-<button id="resume-button" href="{{site.baseurl}}/assets/resume.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Noun_Project_PDF_icon_117327_cc.svg">Download Resume</button>
+<button id="resume-button" class="button" href="{{site.baseurl}}/assets/resume.pdf" target="_blank">View Resume</button>
