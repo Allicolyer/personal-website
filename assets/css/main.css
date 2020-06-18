@@ -883,6 +883,12 @@ pre code {
   color: #333030;
 }
 
+hr {
+  height: 1px;
+  background-color: #333030;
+  border: none;
+}
+
 .top-hr {
   margin: 0 0 7.5px 0;
 }
@@ -956,7 +962,7 @@ nav a:hover {
 }
 
 .contact ul li a {
-  color: #515151;
+  color: #333030;
   display: block;
   font-size: 18px;
   -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
@@ -965,7 +971,6 @@ nav a:hover {
 }
 
 .contact ul li a:hover {
-  color: #333030;
   -webkit-transform: scale(1.2);
   -ms-transform: scale(1.2);
   transform: scale(1.2);
@@ -1068,7 +1073,7 @@ footer .copyright {
 .post .post-content .post-title a {
   font-family: Futura, Trebuchet MS, Arial, sans-serif;
   text-decoration: none;
-  color: #263959;
+  color: #333030;
 }
 
 .post .post-content p {
@@ -1160,15 +1165,18 @@ a.newer-posts:hover {
 }
 
 /* - - - - - - - - - - Content Page Styles - - - - - - - - - - */
-iframe {
-  width: 560px;
-  height: 315px;
-}
-
 .center-image {
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+
+.ial-center {
+  text-align: center;
+}
+
+.padding-large {
+  padding: 15px;
 }
 
 .clickable {
@@ -1179,26 +1187,6 @@ iframe {
 
 .clickable:hover {
   opacity: 0.6;
-}
-
-.one-third-screen-image {
-  width: 33%;
-}
-
-.one-half-screen-image {
-  width: 49%;
-}
-
-.ial-center {
-  text-align: center;
-}
-
-.padding-m {
-  padding: 0.5rem;
-}
-
-.padding-xs {
-  padding: 0.1rem;
 }
 
 .contributors {
@@ -1224,7 +1212,7 @@ iframe {
 
 .contributors div a {
   text-decoration: none;
-  color: #333030;
+  color: #515151;
 }
 
 .contributors div img {
@@ -1235,19 +1223,7 @@ iframe {
   margin: 0 auto;
 }
 
-@media only screen and (max-width: 992px) {
-  .one-third-screen-image {
-    width: 49%;
-  }
-  .one-half-screen-image {
-    width: 100%;
-  }
-}
-
 @media only screen and (max-width: 500px) {
-  .one-third-screen-image {
-    width: 100%;
-  }
   .contributors div {
     width: 120px;
   }
@@ -1311,19 +1287,6 @@ table tfoot {
 
 table tfoot td {
   font-size: 14px;
-}
-
-.design-challenge th {
-  color: #515151;
-  padding: 10px;
-  background-color: #fafafa;
-  -webkit-transition: all 0.3s;
-  -o-transition: all 0.3s;
-  transition: all 0.3s;
-}
-
-.design-challenge th a {
-  color: #263959;
 }
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */

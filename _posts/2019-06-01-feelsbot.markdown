@@ -12,7 +12,7 @@ current: true
 
 Hello internet! This is [Feelsbot](https://www.feelsbot.me/){:target="\_blank"}. Feelsbot tries to understand how humans are feeling by reading their tweets. Feelsbot can analyze Tweets of any geographical location or any public Twitter profile.
 
-![Map Gif]({{site.baseurl}}/assets/img/feelsbot.gif){: .padding-m}
+![Map Gif]({{site.baseurl}}/assets/img/feelsbot.gif){: .padding-large}
 {: .ial-center }
 
 <button class="button">[Try Feelsbot](https://www.feelsbot.me/)</button>

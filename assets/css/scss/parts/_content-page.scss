@@ -1,38 +1,22 @@
-iframe {
-  width: 560px;
-  height: 315px;
-}
-
 .center-image {
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
 
-.clickable {
-  transition: all 0.2s ease-in-out;
-}
-.clickable:hover {
-  opacity: 0.6;
-}
-
-.one-third-screen-image {
-  width: 33%;
-}
-.one-half-screen-image {
-  width: 49%;
-}
-
 .ial-center {
   text-align: center;
 }
 
-.padding-m {
-  padding: 0.5rem;
+.padding-large {
+  padding: $large-space;
 }
 
-.padding-xs {
-  padding: 0.1rem;
+.clickable {
+  transition: all 0.2s ease-in-out;
+  &:hover {
+    opacity: 0.6;
+  }
 }
 
 .contributors {
@@ -46,7 +30,7 @@ iframe {
     margin-bottom: $small-space;
     a {
       text-decoration: none;
-      color: $dark;
+      color: $body-color;
     }
     img {
       border-radius: 100%;
@@ -57,19 +41,7 @@ iframe {
   }
 }
 
-@media only screen and (max-width: $large) {
-  .one-third-screen-image {
-    width: 49%;
-  }
-  .one-half-screen-image {
-    width: 100%;
-  }
-}
-
 @media only screen and (max-width: $small) {
-  .one-third-screen-image {
-    width: 100%;
-  }
   .contributors {
     div {
       width: 120px;
