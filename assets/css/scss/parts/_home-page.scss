@@ -3,6 +3,10 @@
   justify-content: space-between;
   align-items: center;
 
+  h1 {
+    margin: 0 0 $large-space 0;
+  }
+
   .author-name {
     font-family: $headings-font-family;
     text-transform: capitalize;
@@ -20,13 +24,27 @@
     }
   }
 }
+hr {
+  height: 1px;
+  background-color: $dark;
+  border: none;
+}
+
+.top-hr {
+  margin: 0 0 $small-space 0;
+}
+
+.bottom-hr {
+  margin: 0 0 $large-space 0;
+}
 
 nav {
   display: flex;
   justify-content: center;
   text-align: center;
+
   a {
-    margin: 0 $small-space;
+    margin: 0 $small-space $small-space $small-space;
     text-decoration: none;
     color: $dark;
     -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
@@ -63,7 +81,7 @@ nav {
 
 .contact {
   ul {
-    margin: 0;
+    margin: 0 0 $large-space 0;
     padding: 0;
     list-style: none;
     text-align: center;
@@ -74,14 +92,13 @@ nav {
         margin-left: 0;
       }
       a {
-        color: $body-color;
+        color: $dark;
         display: block;
         font-size: 18px;
         -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
         -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
         transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
         &:hover {
-          color: $dark;
           -webkit-transform: scale(1.2);
           -ms-transform: scale(1.2);
           transform: scale(1.2);

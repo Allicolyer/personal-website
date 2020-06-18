@@ -1,51 +1,50 @@
-iframe {
-  width: 560px;
-  height: 315px;
-}
-
 .center-image {
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
 
-.clickable {
-  transition: all 0.2s ease-in-out;
-}
-.clickable:hover {
-  opacity: 0.6;
-}
-
-.one-third-screen-image {
-  width: 33%;
-}
-.one-half-screen-image {
-  width: 49%;
-}
-
 .ial-center {
   text-align: center;
 }
 
-.padding-m {
-  padding: 0.5rem;
+.padding-large {
+  padding: $large-space;
 }
 
-.padding-xs {
-  padding: 0.1rem;
-}
-
-@media only screen and (max-width: $large) {
-  .one-third-screen-image {
-    width: 49%;
+.clickable {
+  transition: all 0.2s ease-in-out;
+  &:hover {
+    opacity: 0.6;
   }
-  .one-half-screen-image {
-    width: 100%;
+}
+
+.contributors {
+  margin-top: $large-space;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  div {
+    width: 150px;
+    text-align: center;
+    margin-bottom: $small-space;
+    a {
+      text-decoration: none;
+      color: $body-color;
+    }
+    img {
+      border-radius: 100%;
+      width: 100px;
+      display: block;
+      margin: 0 auto;
+    }
   }
 }
 
 @media only screen and (max-width: $small) {
-  .one-third-screen-image {
-    width: 100%;
+  .contributors {
+    div {
+      width: 120px;
+    }
   }
 }

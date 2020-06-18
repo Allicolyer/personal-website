@@ -128,10 +128,8 @@ We hope that future Recursers will enjoy using Recurse Roulette, and we are more
 
 ## Recurse Roulette Team
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/georgemandis"><img src="https://avatars0.githubusercontent.com/u/21219?s=460&v=4" width="200px;" alt="Picture of George Madis"/><br /><b>George Mandis</b></a></td>
-    <td align="center"><a href="https://github.com/samson212"><img src="https://avatars2.githubusercontent.com/u/1728821?s=400&v=4" width="200px;" alt="Picture of Sam Lazarus"/><br /><b>Sam Lazarus</b></a></td>
-    <td align="center"><a href="https://github.com/allicolyer"><img src="https://avatars1.githubusercontent.com/u/11083917?s=460&v=4" width="200px;" alt="Picture of Allison Colyer"/><br /><b>Alli Colyer</b></a></td>
-  </tr>
-</table>
+<div class="contributors">
+   <div><a href="https://github.com/georgemandis"><img src="https://avatars0.githubusercontent.com/u/21219?s=460&v=4" width="200px;" alt="Picture of George Madis"/>George Mandis</a></div>
+   <div><a href="https://github.com/samson212"><img src="https://avatars2.githubusercontent.com/u/1728821?s=400&v=4" width="200px;" alt="Picture of Sam Lazarus"/>Sam Lazarus</a></div>
+   <div><a href="https://github.com/allicolyer"><img src="https://avatars1.githubusercontent.com/u/11083917?s=460&v=4" width="200px;" alt="Picture of Allison Colyer"/>Alli Colyer</a></div>
+</div>
