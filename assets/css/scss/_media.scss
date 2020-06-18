@@ -54,6 +54,14 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: $small) {
+  .site-header {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .wrapper {
+    width: 90%;
+  }
   .post {
     width: 70%;
     max-width: 100%;

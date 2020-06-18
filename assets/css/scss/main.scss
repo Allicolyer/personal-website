@@ -52,7 +52,8 @@ pre {
 
 .wrapper {
   position: relative;
-  margin: $large-space;
+  width: 80%;
+  margin: $large-space auto;
 }
 
 .post,
