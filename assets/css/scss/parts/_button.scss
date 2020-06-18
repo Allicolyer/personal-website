@@ -1,0 +1,40 @@
+/* Button Styles */
+.button {
+  min-width: 130px;
+  display: block;
+  margin: 0 auto;
+  border-radius: $border-radius;
+  padding: $small-space $large-space;
+  border: 2px solid $primary-color;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 0.8em;
+  color: $white;
+  border-color: $primary-color;
+  background-color: $primary-color;
+  text-align: center;
+  transition: all 0.15s;
+  a {
+    text-decoration: none;
+    color: $white;
+  }
+  &:hover {
+    cursor: pointer;
+    font-weight: bold;
+    border-color: $primary-color;
+    background-color: $primary-color;
+  }
+  &:focus {
+    border-color: $primary-color;
+    background-color: $primary-color;
+  }
+  &:disabled {
+    cursor: auto;
+    border-color: $gray;
+    background-color: $gray;
+  }
+  &:disabled:hover {
+    font-weight: normal;
+  }
+}

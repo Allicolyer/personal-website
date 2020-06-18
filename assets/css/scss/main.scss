@@ -52,7 +52,7 @@ pre {
 
 .wrapper {
   position: relative;
-  max-width: 1300px;
+  margin: $large-space;
 }
 
 .post,
@@ -84,11 +84,11 @@ pre {
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import "parts/home-page";
 
+/* - - - - - - - - - - Portfilio Page Styles - - - - - - - - - - */
+@import "parts/portfolio-page";
+
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 @import "parts/post-page";
-
-/* - - - - - - - - - - Tag Styles - - - - - - - - - - */
-@import "parts/tag";
 
 /* - - - - - - - - - - Content Page Styles - - - - - - - - - - */
 @import "parts/content-page";
@@ -96,8 +96,8 @@ pre {
 /* - - - - - - - - - - Table Page Styles - - - - - - - - - - */
 @import "parts/tables";
 
-/* - - - - - - - - - - Hamburger  Styles - - - - - - - - - - */
-@import "parts/hamburger";
-
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 @import "media";
+
+/* - - - - - - - - - - Button Styles - - - - - - - - - - */
+@import "parts/button";

@@ -3,7 +3,6 @@
   iframe {
     width: 100%;
   }
-
   .post {
     width: 48%;
     max-width: 100%;
@@ -32,47 +31,8 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: $medium) {
-  .sidebar {
-    position: relative;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    width: 100%;
-    padding: 10px;
-    background-color: $white;
-    -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-    box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-  }
-
-  footer {
-    margin-bottom: 10px;
-  }
-
-  .about {
-    text-align: center;
-    max-width: $small;
-    margin: 10px auto auto;
-    img {
-      width: 100px;
-      height: 100px;
-      -webkit-border-radius: 100%;
-      border-radius: 100%;
-      margin-bottom: 10px;
-    }
-  }
-
   .content-box {
-    padding: 20px 10px;
+    width: 100%;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -90,31 +50,14 @@
     -ms-flex-align: stretch;
     align-items: stretch;
   }
-
-  .contact-title,
-  .copyright {
-    display: none;
-  }
-
-  .menu {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-  }
-  .button {
-    width: 30%;
-  }
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: $small) {
-  .content-box {
-    padding: 10px;
-  }
   .post {
-    width: 48%;
+    width: 70%;
     max-width: 100%;
-    margin: 0 0.9% 1.5%;
+    margin: $small-space auto;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -123,7 +66,7 @@
 
     .post-thumbnail {
       width: 100%;
-      min-height: 9rem;
+      min-height: 10rem;
     }
 
     .post-content {
@@ -131,10 +74,10 @@
       line-height: 1.2rem;
 
       .post-date {
-        font-size: 0.65rem;
+        font-size: 0.75rem;
       }
       .post-description {
-        font-size: 0.75rem;
+        font-size: 0.85rem;
       }
 
       .post-title {
@@ -144,8 +87,5 @@
         }
       }
     }
-  }
-  .menu {
-    display: block;
   }
 }
