@@ -52,7 +52,8 @@ pre {
 
 .wrapper {
   position: relative;
-  max-width: 1300px;
+  width: 95%;
+  margin: 0 auto;
 }
 
 .post,
@@ -84,11 +85,11 @@ pre {
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import "parts/home-page";
 
+/* - - - - - - - - - - Portfilio Page Styles - - - - - - - - - - */
+@import "parts/portfolio-page";
+
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 @import "parts/post-page";
-
-/* - - - - - - - - - - Tag Styles - - - - - - - - - - */
-@import "parts/tag";
 
 /* - - - - - - - - - - Content Page Styles - - - - - - - - - - */
 @import "parts/content-page";
