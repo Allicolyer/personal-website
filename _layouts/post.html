@@ -15,25 +15,9 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
-
-        {% unless page.about %}
-        <div class="page-date">
-          <span>
-            {% if page.range %} {{page.range}} {% elsif page.date %} {{page.date
-            | date: '%B %Y'}} {% endif %}
-          </span>
-        </div>
-        {% endunless %}
       </header>
       {{page.content | markdownify}}
       <div class="page-footer"></div>
-
-      {% if page.about %}
-      <script>
-        var element = document.getElementById("about");
-        element.id = "selected-tag";
-      </script>
-      {% endif %}
     </div>
     <!-- End Wrap Content -->
   </div>

@@ -18,13 +18,6 @@ permalink: /portfolio/
       {% else %}
         <p class="post-description">{{ post.content | strip_html | truncatewords: 15 }}</p>
       {% endif %}
-    <span class="post-date">
-      {% if post.range %}
-      {{post.range}}
-      {% else %}
-      {{post.date | date: '%B %Y'}}
-      {% endif %}
-    </span>
   </div>
 </article>
 
