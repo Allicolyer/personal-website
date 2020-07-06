@@ -15,30 +15,20 @@ The Technovation curriculum is a twelve-week coding entrepreneurship curriculum.
 
 ### Curriculum Overview
 
-As the lead curriculum developer for Technovation, I designed and authored the curriculum. The curriculum is split into five major categories: ideation, business, marketing, and pitching. Each category assumes no prior knowledge and teaches students how to create the necessary materials to participate in the competition.
+As the lead curriculum developer for Technovation, I designed and authored the curriculum. The curriculum is split into four major categories: ideation, entrepreneurship, and pitching. Each lesson features activities for students to complete to help them learn important concepts and create materials to submit to the competition.
 
 - **Ideation** - Students go through a series of activities to come up with an idea for their app.
 
-- **Code** - Students learn computer science basics and prototype a mobile app using MIT App Inventor or Thunkable.
+- **Coding** - Students learn computer science basics and prototype a mobile app using MIT App Inventor or Thunkable.
 
 - **Entrepreneurship** - Students create and execute a business plan to turn their ideas into startup businesses.
 
 - **Pitch** - Students create videos to pitch their ideas and showcase their app.
 
-[![Curriculum Table of Contents]({{site.baseurl}}/assets/img/technovation-overview-short.png){: .center-image .clickable}](http://technovationchallenge.org/curriculum-intro/){: target="\_blank"}
+[![Curriculum Table of Contents]({{site.baseurl}}/assets/img/technovation-overview.png){: .center-image .clickable}](http://technovationchallenge.org/curriculum-intro/registered/new){: target="\_blank"}
 
-### Student Workbook
+### Coding Activities
 
-The student workbook is a project management tool for students and their mentors to use with the online curriculum. It highlights keywords and activities and reminds students when to upload to the online platform.
+Each coding lesson features an activity that asks students to complete a small part of an app or fix a bug. These activities help students build confidence in App Inventor and Thunkable while learning important computer science concepts.
 
-[![Workbook]({{site.baseurl}}/assets/img/technovation-workbook.jpg){: .center-image .clickable}](https://docs.google.com/document/d/1GZCx1WmMKrBncFOribsSR8gfStURr8rU5cRFE5Yilbk/edit){:target="\_blank"}
-
-### Translation
-
-The curriculum has been translated into sixteen different languages. By working with volunteer translators, our team assesses the needs of students living in different regions of the world to understand out the best way to deliver curriculum to them.
-
-### Student Learning Community
-
-To foster a learning a community for Technovation students and alumni, I asked Technovation students to submit Youtube videos explaining various concepts that they learned to participate in the challenge. Both alumni and current students can submit videos in their any language they want. The videos are featured on the curriculum page which gives students an opportunity to contribute to the learning community and to showcase what they have learned.
-
-[![Student Made Tutorials]({{site.baseurl}}/assets/img/student-videos.png){: .center-image .clickable}](https://www.youtube.com/playlist?list=PLcFCpaYLqF2zsXSroI4drtbvZdC5kJ6-K){:target="\_blank"}
+[![Coding Activity]({{site.baseurl}}/assets/img/activity.png){: .center-image .clickable}](https://technovationchallenge.org/curriculum/coding-5/#act1){: target="\_blank"}
