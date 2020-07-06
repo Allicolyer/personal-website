@@ -18,13 +18,6 @@ layout: main
       </header>
       {{page.content | markdownify}}
       <div class="page-footer"></div>
-
-      {% if page.about %}
-      <script>
-        var element = document.getElementById("about");
-        element.id = "selected-tag";
-      </script>
-      {% endif %}
     </div>
     <!-- End Wrap Content -->
   </div>
