@@ -2,6 +2,7 @@
 @import "syntax";
 @import "fonts";
 @import "variables";
+@import "animations";
 
 *,
 *::after,
@@ -91,9 +92,6 @@ pre {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 @import "parts/post-page";
-
-/* - - - - - - - - - - Content Page Styles - - - - - - - - - - */
-@import "parts/content-page";
 
 /* - - - - - - - - - - Table Page Styles - - - - - - - - - - */
 @import "parts/tables";
