@@ -1,5 +1,6 @@
 /* Button Styles */
 .button {
+  @extend .animated;
   min-width: 130px;
   display: block;
   margin: 0 auto;
@@ -14,16 +15,14 @@
   border-color: $dark;
   background-color: $dark;
   text-align: center;
-  transition: all 0.15s;
+  font-family: $headings-font-family;
+  font-weight: normal;
   a {
     text-decoration: none;
     color: $white;
   }
   &:hover {
     cursor: pointer;
-    font-weight: bold;
-    border-color: $dark;
-    background-color: $dark;
   }
   &:focus {
     border-color: $dark;
