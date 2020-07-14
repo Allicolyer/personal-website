@@ -13,9 +13,12 @@
 }
 
 .clickable {
-  transition: all 0.2s ease-in-out;
+  @extend .animated;
   &:hover {
-    opacity: 0.6;
+    //images can get too big, so use a smaller scale
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
   }
 }
 
@@ -25,6 +28,7 @@
   justify-content: center;
   flex-wrap: wrap;
   div {
+    @extend .animated;
     width: 150px;
     text-align: center;
     margin-bottom: $small-space;
@@ -37,6 +41,9 @@
       width: 100px;
       display: block;
       margin: 0 auto;
+    }
+    &:hover {
+      cursor: pointer;
     }
   }
 }
