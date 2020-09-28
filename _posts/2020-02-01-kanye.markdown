@@ -12,7 +12,7 @@ tags: [Technology] # add tag
 [Kanye.fun](www.kanye.fun) uses Markov chains to generate quotes that sound like Kanye
 West.
 
-<button class="button">[Check it out](http://www.kanye.fun/)</button>
+[Check it out](http://www.kanye.fun/){:target="\_blank" .button}
 
 ### How Kanye.fun works
 

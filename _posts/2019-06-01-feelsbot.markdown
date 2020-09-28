@@ -15,7 +15,7 @@ Hello internet! This is [Feelsbot](https://www.feelsbot.me/){:target="\_blank"}.
 ![Map Gif]({{site.baseurl}}/assets/img/feelsbot.gif){: .padding-large}
 {: .ial-center }
 
-<button class="button">[Try Feelsbot](https://www.feelsbot.me/)</button>
+[Try Feelsbot](https://www.feelsbot.me/){:target="\_blank" .button}
 
 Feelsbot uses artificial intelligence to analyze emotional sentiment in Tweets. Play around with Feelsbot and see if it surprises in any way.
 

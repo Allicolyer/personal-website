@@ -13,7 +13,7 @@ Recurse Roulette is a project I helped build at the Recurse Center. It allows me
 
 ![Recurse Roulette]({{site.baseurl}}/assets/img/beards.gif){: .center-image}
 
-<button class="button">[Check it out](http://roulette.recurse.com/)</button>
+[Check it out](http://roulette.recurse.com/){:target="\_blank" .button}
 
 ## Overview
 
