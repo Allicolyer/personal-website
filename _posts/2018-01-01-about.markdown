@@ -14,4 +14,4 @@ I am currently seeking new opportunities. I have professional experience in Java
 
 <embed id="resume-embed" src="{{site.baseurl}}/assets/resume.pdf"/>
 
-<button id="resume-button" class="button">[View Resume]({{site.baseurl}}/assets/resume.pdf)</button>
+[View Resume]({{site.baseurl}}/assets/resume.pdf){:target="\_blank" .button #resume-button}

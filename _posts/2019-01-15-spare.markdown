@@ -14,7 +14,7 @@ _During this homelessness crisis, we believe every gesture of human kindness mak
 
 Spare connects people in need of clothing and other essentials with people in the community who have things to spare. It is like a one-on-one Goodwill. The main objective is to foster interactions between the housed and unhoused. We are hoping the donation can be a mechanism for building these connections throughout our community.
 
-<button class="button">[Check out Spare](https://www.whatcanyouspare.org/){:target="\_blank"}</button>
+[Check out Spare](https://www.whatcanyouspare.org/){:target="\_blank" .button}
 
 ### How it works
 
