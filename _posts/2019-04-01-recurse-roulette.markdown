@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recurse Roulette
-date: 2020-02-01 00:00:00 +0300
+date: 2019-02-01 00:00:00 +0300
 range: Spring 2020
 description: Recurse Roulette allows members of the Recurse Center to share video and audio streams using WebRTC.
 canonical: https://github.com/georgemandis/recurse-roulette-server
