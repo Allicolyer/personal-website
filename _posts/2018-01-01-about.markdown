@@ -8,9 +8,7 @@ tags:
 permalink: /
 ---
 
-I am a full-stack software engineer who loves creating fun educational experiences. My passion is to use technology to bridge the education and opportunity gap for all people.
-
-I am currently seeking new opportunities. I have professional experience in JavaScript, React, TypeScript, GraphQL, and Node.js. I previously worked as a software engineer at an educational non-profit and at a web development agency. I'm also a Recurse Center and Cooper Union alumna.
+I am a full-stack software engineer who loves creating fun educational experiences. My passion is to use technology to bridge the education and opportunity gap for all people. I have professional experience in JavaScript, React, React Native, TypeScript, GraphQL, and Node.js. I'm also a Recurse Center and Cooper Union alumna.
 
 <embed id="resume-embed" src="{{site.baseurl}}/assets/resume.pdf"/>
 
