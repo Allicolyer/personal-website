@@ -51,7 +51,7 @@ If you want to use generated Kanye West quotes in your own project, here is how 
 <div class="contributors">
     <div><a href="https://github.com/allicolyer"><img src="https://avatars1.githubusercontent.com/u/11083917?s=460&v=4" width="200px;" alt="Picture of Allison Colyer"/>Alli Colyer</a></div>
     <div><a href="https://github.com/michaelwlu"><img src="https://avatars1.githubusercontent.com/u/9114194?s=460&v=4" width="200px;" alt="Picture of Michael Lu"/>Michael Lu</a></div>
-    <div><a href="https://www.linkedin.com/in/sethaklein/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQFKfGxEaciQ8A/profile-displayphoto-shrink_200_200/0?e=1597276800&v=beta&t=8Bs044I3ajVnaxXAtr9DjACvNK-YuCSJXlualo4NXtA" width="200px;" alt="Picture of Seth Klein"/>Seth Klein</a></div>
+    <div><a href="https://www.linkedin.com/in/sethaklein/"><img src="https://media.licdn.com/dms/image/D5603AQEi691ykEBOUA/profile-displayphoto-shrink_800_800/0/1671126460282?e=1682553600&v=beta&t=roT8UcBX4zUzWATsQIQmaDC6bIo-YPetBn-iZCAIxBU" width="200px;" alt="Picture of Seth Klein"/>Seth Klein</a></div>
     <div><a href="https://github.com/chloerevery"><img src="https://avatars3.githubusercontent.com/u/6632604?s=460&v=4" width="200px;" alt="Picture of Chloe Revery"/>Chloe Revery</a></div>
-    <div><a href="https://www.recurse.com/"><img src="https://d29xw0ra2h4o4u.cloudfront.net/assets/logo_square-051508b5ecf8868635aea567bb86f423f4d1786776e5dfce4adf2bc7edf05804.png" width="200px;" alt="Recurse Logo"/>Recurse Center</a></div>
+    <div><a href="https://www.recurse.com/"><img src="https://d29xw0ra2h4o4u.cloudfront.net/assets/logo-no-text-f058430051df6fcd46eef6630d8d5793b2cfda9c3f14ccdff261ace7ccf409ef.png" width="200px;" alt="Recurse Logo"/>Recurse Center</a></div>
 </div>

@@ -1159,6 +1159,7 @@ h6 {
 .contributors div img {
   border-radius: 100%;
   width: 100px;
+  height: 100px;
   display: block;
   margin: 0 auto;
 }
