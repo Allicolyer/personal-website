@@ -1317,6 +1317,14 @@ table tfoot td {
 }
 /* - - - - - - - - - - Button Styles - - - - - - - - - - */
 /* Button Styles */
+.button-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
 .button {
   min-width: 130px;
   max-width: 180px;
@@ -1335,6 +1343,9 @@ table tfoot td {
   text-align: center;
   font-family: "Futura", "Nunito Bold", "Trebuchet MS", Arial, sans-serif;
   font-weight: normal;
+}
+.button-container .button{
+  margin: 7.5px 15px;
 }
 .button a {
   text-decoration: none;
