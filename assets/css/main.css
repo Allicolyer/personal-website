@@ -1326,6 +1326,21 @@ table tfoot td {
   align-content: center;
   justify-content: center;
 }
+
+.image-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  max-height: 500;
+}
+.image-row img{
+  width: 20%;
+  padding:10px;
+}
+
 .button {
   min-width: 130px;
   max-width: 180px;
