@@ -25,15 +25,36 @@ You can download Magic Compass on the Apple App Store or Google Play Store:
 
 ### Background
 
-I was inspired to build Magic Compass when I saw how intrigued my younger cousins were with using a traditional compass. I wanted to create something fun to play with that would spark their curiosity and to learn about the world around them. I hope that people of all ages enjoy Magic Compass. If you’d like to support Magic Compass, consider purchasing a compass mode to help maintain Magic Compass and other future learning tools. I appreciate your support!
+The inspiration behind building Magic Compass came to me when I witnessed my younger cousins' fascination with using a traditional compass. I wanted to build an app that would not only be enjoyable but also spark curiosity and inspire learning about the world around us. My goal was to create something that would be fun and interactive, but also educational. I believe that Magic Compass has something to offer for everyone, regardless of age. It's a useful tool for outdoor enthusiasts, hikers, campers, and anyone who loves exploring new places. It's also an excellent learning tool for kids who are interested in geography, navigation, and the natural world.
+
+If you are enjoying Magic Compass, please consider supporting its development by purchasing a compass mode. Your support is highly appreciated, and it helps me to maintain Magic Compass and create new and exciting learning tools for the future. Thank you for your support and for being a part of the Magic Compass community.
+
+
+### Features 
+#### Compass Modes
+
+The compass can be used in two different ways. The first way is for the entire compass dial to rotate. This is similar to how the built in compass on Samsung works and is very intuitive to use.
+
+<div class="centered-flex-row-container">
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/boba.gif" />
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/starfish.gif" />
+</div>
+
+The second way is for just the compass needle to rotate. This is similar to a traditional compass where the needle aligns itself with the Earth’s magnetic fields. To activate this feature, the user can tap on the switch button located below the compass.
+
+<div class="centered-flex-row-container">
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/cat.gif" />
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/narwhal.gif" />
+</div>
+
+#### In App Purchases
+
+The app interfaces with both the Apple App Store and the Google Play Store to offer in-app purchases. I decided to offer in-app purchases as a way to support the development and upkeep of Magic Compass. All of the compass modes in Magic Compass are non-consumable, which means that users only need to purchase them once. Additionally, the "Restore Purchases" button makes it easy for users who have switched devices or reinstalled the app to regain access to their previously purchased compass modes.
 
 ### Technical Background
 
-This app was the first mobile Android and iOS app I built completely end to end. I built both the Android and iOS apps using Flutter, and set up in-app purchases to work on both platforms. My main learning objectives were to get more familiar with the Apple’s and Google’s workflows testing, releasing and including in app purchases in an app.
+I built both the Android and iOS apps using Flutter. Flutter is a popular mobile app development framework that allows developers to build high-quality applications for both iOS and Android devices using a single codebase. I used the [Flutter Provider](https://pub.dev/packages/provider) package to manage state. State management is an essential aspect of any Flutter app, as it allows developers to manage the app's state efficiently and avoid unnecessary rebuilds. The Provider package is a popular and easy-to-use state management solution that uses the InheritedWidget mechanism to manage the app's state.
 
-### Compass Sensor
+I used a flutter library called [in app purchases](https://pub.dev/packages/in_app_purchase) to interface between the Google Play Store and the Apple App Store. This package provides an easy-to-use solution for integrating in-app purchases in Flutter applications. The package supports both iOS and Android platforms and provides a streamlined API for interacting with the respective app stores. Events are listened to and the state of the app changes when there is an async operation to the app store happening. This was especially important testing the iOS app  as I found the TestFlight environment to be slow compared to the production Apple environment and the Google Play environments.
 
-I created Magic Compass with Flutter to build the iOS and Android apps. The app incorporates a package called [Flutter Compass](https://pub.dev/packages/flutter_compass). This package utilizes the onboard compass in Swift’s `CLLocationManager` for iOS and the rotation vector sensor on Android. If the rotation vector sensor is not available on Android,the app falls back to the accelerometer and magnetic field.
-
-### In App Purchases
-The app interfaces with both the Apple App Store and the Google Play Store to offer in-app purchases. I decided to offer in-app purchases as a way to support the development and upkeep of magic compass and to support more fun projects like this in the future. All compass modes are non-consumable and only need to be purchased once. Previous purchases can be restored through a “Restore Purchases” button.
+To get an accurate compass reading, this app incorporates a package called [Flutter Compass](https://pub.dev/packages/flutter_compass). This package utilizes the onboard compass in Swift’s `CLLocationManager` for iOS and the rotation vector sensor on Android. If the rotation vector sensor is not available on Android, it falls back to the accelerometer and magnetic field.
