@@ -7,4 +7,4 @@ To run `bundle exec jekyll serve`
 
 This project uses `gulp` to compile CSS from Sass.
 
-To install run `npm install` then
+To install sass then run `sass --watch assets/css/scss:assets/css`
