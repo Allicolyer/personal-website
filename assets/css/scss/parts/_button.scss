@@ -1,5 +1,5 @@
 /* Button Styles */
-.button-container {
+.centered-flex-row-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -7,9 +7,10 @@
   align-content: center;
   justify-content: center;
   .button {
-    margin: 7.5px 15px;
+    margin: $small-space $small-space;
   }
 }
+
 .button {
   @extend .animated;
   min-width: 130px;

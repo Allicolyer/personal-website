@@ -9,10 +9,16 @@ tags: [Technology] # add tag
 ---
 
 The Magic Compass is an app featuring a collection of cute characters that use your phone’s sensors to act as a compass needle. Play with Magic Compass on your next hiking adventure and or let your kids discover the joy of using a traditional compass.
+<div class="centered-flex-row-container">
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/unicorn.gif" />
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/samosa.gif" />
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/frog.gif" />
+<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/mustard.gif" />
+</div>
 
 You can download Magic Compass on the Apple App Store or Google Play Store:
 
-<div class="button-container">
+<div class="centered-flex-row-container">
 <a href="https://apps.apple.com/us/app/id1671371265?platform=iphone" target = "_blank" class="button">Apple App Store</a>
 <a href="https://play.google.com/store/apps/details?id=com.alli.magic_compass" target = "_blank" class="button">Google Play Store</a> 
 </div>
