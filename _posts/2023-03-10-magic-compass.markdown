@@ -10,10 +10,10 @@ tags: [Technology] # add tag
 
 The Magic Compass is an app featuring a collection of cute characters that use your phone’s sensors to act as a compass needle. Play with Magic Compass on your next hiking adventure and or let your kids discover the joy of using a traditional compass.
 <div class="centered-flex-row-container">
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/unicorn.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/samosa.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/frog.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/mustard.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/unicorn.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/samosa.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/frog.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/mustard.gif" />
 </div>
 
 You can download Magic Compass on the Apple App Store or Google Play Store:
@@ -36,15 +36,15 @@ If you are enjoying Magic Compass, please consider supporting its development by
 The compass can be used in two different ways. The first way is for the entire compass dial to rotate. This is similar to how the built in compass on Samsung works and is very intuitive to use.
 
 <div class="centered-flex-row-container">
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/boba.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/starfish.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/boba.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/starfish.gif" />
 </div>
 
 The second way is for just the compass needle to rotate. This is similar to a traditional compass where the needle aligns itself with the Earth’s magnetic fields. To activate this feature, the user can tap on the switch button located below the compass.
 
 <div class="centered-flex-row-container">
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/cat.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/narwhal.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/cat.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/narwhal.gif" />
 </div>
 
 #### In App Purchases

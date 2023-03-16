@@ -58,6 +58,13 @@ h6 {
   border-bottom: 1px solid $dark-gray;
 }
 
+iframe {
+  width: 60%;
+  height: 400px;
+  margin: 0 auto;
+  display: block;
+}
+
 //post content styles
 .center-image {
   margin-left: auto;
@@ -109,14 +116,25 @@ h6 {
     }
   }
 }
-.magic-compass-image {
+
+.image-20-percent-width {
   width: 20%;
-  padding:calc($small-space / 2);
+  padding: calc($small-space / 2);
+}
+
+.image-40-percent-width {
+  width: 40%;
+  padding: calc($small-space / 2);
+}
+
+.image-60-percent-width {
+  width: 60%;
+  padding: calc($small-space / 2);
 }
 
 
 @media only screen and (max-width: $medium) {
-  .magic-compass-image {
+  .image-20-percent-width {
     width: 40%;
   }
 }
