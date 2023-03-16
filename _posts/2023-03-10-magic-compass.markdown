@@ -10,10 +10,10 @@ tags: [Technology] # add tag
 
 The Magic Compass is an app featuring a collection of cute characters that use your phone’s sensors to act as a compass needle. Play with Magic Compass on your next hiking adventure and or let your kids discover the joy of using a traditional compass.
 <div class="centered-flex-row-container">
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/unicorn.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/samosa.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/frog.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/mustard.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/unicorn.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/samosa.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/frog.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/mustard.gif" />
 </div>
 
 You can download Magic Compass on the Apple App Store or Google Play Store:
@@ -36,15 +36,15 @@ If you are enjoying Magic Compass, please consider supporting its development by
 The compass can be used in two different ways. The first way is for the entire compass dial to rotate. This is similar to how the built in compass on Samsung works and is very intuitive to use.
 
 <div class="centered-flex-row-container">
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/boba.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/starfish.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/boba.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/starfish.gif" />
 </div>
 
 The second way is for just the compass needle to rotate. This is similar to a traditional compass where the needle aligns itself with the Earth’s magnetic fields. To activate this feature, the user can tap on the switch button located below the compass.
 
 <div class="centered-flex-row-container">
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/cat.gif" />
-<img class= "magic-compass-image" src="{{site.baseurl}}/assets/img/narwhal.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/cat.gif" />
+<img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/narwhal.gif" />
 </div>
 
 #### In App Purchases
@@ -55,6 +55,6 @@ The app interfaces with both the Apple App Store and the Google Play Store to of
 
 I built both the Android and iOS apps using Flutter. Flutter is a popular mobile app development framework that allows developers to build high-quality applications for both iOS and Android devices using a single codebase. I used the [Flutter Provider](https://pub.dev/packages/provider) package to manage state. State management is an essential aspect of any Flutter app, as it allows developers to manage the app's state efficiently and avoid unnecessary rebuilds. The Provider package is a popular and easy-to-use state management solution that uses the InheritedWidget mechanism to manage the app's state.
 
-I used a flutter library called [in app purchases](https://pub.dev/packages/in_app_purchase) to interface between the Google Play Store and the Apple App Store. This package provides an easy-to-use solution for integrating in-app purchases in Flutter applications. The package supports both iOS and Android platforms and provides a streamlined API for interacting with the respective app stores. Events are listened to and the state of the app changes when there is an async operation to the app store happening. This was especially important testing the iOS app  as I found the TestFlight environment to be slow compared to the production Apple environment and the Google Play environments.
+I used a Flutter library called [in app purchases](https://pub.dev/packages/in_app_purchase) to interface between the Google Play Store and the Apple App Store. This package provides an easy-to-use solution for integrating in-app purchases in Flutter applications. The package supports both iOS and Android platforms and provides a streamlined API for interacting with the respective app stores. Events are listened to and the state of the app changes when there is an async operation to the app store happening. This was especially important testing the iOS app  as I found the TestFlight environment to be slow compared to the production Apple environment and the Google Play environments.
 
 To get an accurate compass reading, this app incorporates a package called [Flutter Compass](https://pub.dev/packages/flutter_compass). This package utilizes the onboard compass in Swift’s `CLLocationManager` for iOS and the rotation vector sensor on Android. If the rotation vector sensor is not available on Android, it falls back to the accelerometer and magnetic field.
