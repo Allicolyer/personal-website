@@ -8,7 +8,7 @@ tags:
 permalink: /
 ---
 
-I am a full-stack software engineer who loves creating fun educational experiences. My passion is to use technology to bridge the education and opportunity gap for all people. I work in Dart, Flutter, JavaScript, Java, React, React Native, TypeScript, GraphQL, and Node.js. I'm a Recurse Center and Cooper Union alumna.
+I am a full-stack software engineer specializing in Dart, Flutter, JavaScript, Java, React, React Native, TypeScript, GraphQL, and Node.js. My expertise lies in creating innovative educational experiences that bridge the education and opportunity gap for all people. As a Recurse Center and Cooper Union alumna, I bring a wealth of technical knowledge and passion for education and equity to every project.
 
 <embed id="resume-embed" src="{{site.baseurl}}/assets/resume.pdf"/>
 
