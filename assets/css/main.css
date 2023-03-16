@@ -1037,6 +1037,12 @@ iframe {
   .image-20-percent-width {
     width: 40%;
   }
+  .image-40-percent-width {
+    width: 90%;
+  }
+  .image-60-percent-width {
+    width: 90%;
+  }
 }
 @media only screen and (max-width: 500px) {
   .contributors div {
