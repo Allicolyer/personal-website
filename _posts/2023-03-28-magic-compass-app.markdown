@@ -3,10 +3,11 @@ layout: post
 title: Get the Magic Compass App
 date: 2023-03-28 00:00:00 +0300
 range: Spring 2023
-description: Magic Compass features a collection of charming characters to guide your next adventure.
+description: Choose a magical creature to navigate your next adventure!
 img: magic-compass-app-banner.png # Add image post (optional)
 tags: [Technology] # add tag
 hidden: true
+no-cover: true
 ---
 <script type="text/javascript">
    // Check if the user agent indicates an iPhone
@@ -38,5 +39,8 @@ hidden: true
          target="\_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
    </div>
 </div>
-
-
+<div class="centered-flex-row-container">
+   <img alt='Magic Compass screenshots'
+      src='{{site.baseurl}}/assets/img/magic-compass-app-banner.png
+      '/>
+</div>
