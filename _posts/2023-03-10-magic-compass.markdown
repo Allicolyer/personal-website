@@ -16,7 +16,7 @@ The Magic Compass is an app featuring a collection of cute characters that use y
 <img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/mustard.gif" />
 </div>
 
-Scan the QA code below or use the buttons to download Magic Compass on the Apple App Store or Google Play Store:
+Scan the QR code below or use the buttons to download Magic Compass on the Apple App Store or Google Play Store:
 
 <div class="centered-flex-row-container">
    <img alt='Scan QR code to download'  class= "image-30-percent-width"

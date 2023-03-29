@@ -24,7 +24,7 @@ hidden: true
 <div class="centered-flex-row-container">
    <h3>
       <center>
-         Scan to download on your mobile device or use the buttons below
+         Scan the QR code to download on your mobile device or use the buttons below.
       </center>
    </h3>
 </div>
