@@ -121,7 +121,10 @@ iframe {
   width: 20%;
   padding: calc($small-space / 2);
 }
-
+.image-30-percent-width {
+  width: 30%;
+  padding: calc($small-space / 2);
+}
 .image-40-percent-width {
   width: 40%;
   padding: calc($small-space / 2);
@@ -136,6 +139,10 @@ iframe {
 @media only screen and (max-width: $medium) {
   .image-20-percent-width {
     width: 40%;
+  }
+  .image-30-percent-width {
+    width: 60%;
+    padding: calc($large-space / 2);
   }
   .image-40-percent-width {
     width: 90%;

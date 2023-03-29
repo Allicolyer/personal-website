@@ -1023,6 +1023,11 @@ iframe {
   padding: 3.75px;
 }
 
+.image-30-percent-width {
+  width: 30%;
+  padding: 3.75px;
+}
+
 .image-40-percent-width {
   width: 40%;
   padding: 3.75px;
@@ -1036,6 +1041,10 @@ iframe {
 @media only screen and (max-width: 768px) {
   .image-20-percent-width {
     width: 40%;
+  }
+  .image-30-percent-width {
+    width: 60%;
+    padding: 7.5px;
   }
   .image-40-percent-width {
     width: 90%;
