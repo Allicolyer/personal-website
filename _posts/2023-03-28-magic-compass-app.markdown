@@ -7,6 +7,7 @@ description: Magic Compass features a collection of charming characters to guide
 img: magic-compass-app-banner.png # Add image post (optional)
 tags: [Technology] # add tag
 hidden: true
+no-cover: true
 ---
 <script type="text/javascript">
    // Check if the user agent indicates an iPhone
@@ -38,5 +39,8 @@ hidden: true
          target="\_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
    </div>
 </div>
-
-
+<div class="centered-flex-row-container">
+   <img alt='Magic Compass screenshots'
+      src='{{site.baseurl}}/assets/img/magic-compass-app-banner.png
+      '/>
+</div>
