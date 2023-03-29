@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Download Magic Compass
+title: Get the Magic Compass App
 date: 2023-03-28 00:00:00 +0300
 range: Spring 2023
-description: Magic Compass features cute characters that use your phone’s sensors to act as a compass needle.
-img: download-app-banner.png # Add image post (optional)
+description: Magic Compass features a collection of charming characters to guide your next adventure.
+img: magic-compass-app-banner.png # Add image post (optional)
 tags: [Technology] # add tag
 hidden: true
 ---

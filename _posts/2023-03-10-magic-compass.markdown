@@ -3,7 +3,7 @@ layout: post
 title: Magic Compass
 date: 2023-03-09 00:00:00 +0300
 range: Spring 2023
-description: Magic Compass features cute characters that use your phone’s sensors to act as a compass needle.
+description: Magic Compass features a collection of charming characters to guide your next adventure.
 img: magic-compass.png # Add image post (optional)
 tags: [Technology] # add tag
 ---
