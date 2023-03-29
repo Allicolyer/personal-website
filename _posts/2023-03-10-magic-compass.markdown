@@ -16,11 +16,17 @@ The Magic Compass is an app featuring a collection of cute characters that use y
 <img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/mustard.gif" />
 </div>
 
-You can download Magic Compass on the Apple App Store or Google Play Store:
+Scan the QA code below or use the buttons to download Magic Compass on the Apple App Store or Google Play Store:
 
 <div class="centered-flex-row-container">
-<a href="https://apps.apple.com/us/app/id1671371265?platform=iphone" target = "_blank" class="button">Apple App Store</a>
-<a href="https://play.google.com/store/apps/details?id=com.alli.magic_compass" target = "_blank" class="button">Google Play Store</a> 
+   <img alt='Scan QR code to download'  class= "image-30-percent-width"
+      src='{{site.baseurl}}/assets/img/magic-compass-qr.png'/>
+   <div class="centered-flex-column-container" class= "image-30-percent-width">
+      <a href='https://apps.apple.com/us/app/id1671371265?platform=iphone' 
+         target="_blank"><img alt='Get it on the App Store' style="padding:0% 6.79%" src='https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred_2x.png'/></a>
+      <a href='https://play.google.com/store/apps/details?id=com.alli.magic_compass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'
+         target="\_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+   </div>
 </div>
 
 ### Background
