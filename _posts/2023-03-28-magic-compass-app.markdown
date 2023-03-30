@@ -32,6 +32,10 @@ no-cover: true
      // Redirect to the iPhone-specific page
      window.location.replace("https://apps.apple.com/us/app/id1671371265?platform=iphone");
    }
+   else if (navigator.userAgent.match(/iPad/i)) {
+     // Redirect to the iPad-specific page
+     window.location.replace("https://apps.apple.com/us/app/id1671371265?platform=ipad");
+   }
    // Check if the user agent indicates an Android
    else if (navigator.userAgent.match(/Android/i)) {
      // Redirect to the Android-specific page
