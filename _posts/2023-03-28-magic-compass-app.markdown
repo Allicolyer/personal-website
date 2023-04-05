@@ -60,8 +60,9 @@ no-cover: true
          target="\_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
    </div>
 </div>
-<div class="centered-flex-row-container">
-   <img alt='Magic Compass screenshots'
-      src='{{site.baseurl}}/assets/img/magic-compass-app-banner.png
-      '/>
+<div class="centered-flex-row-container" style="padding-top:15px">
+   <img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/unicorn.gif" />
+   <img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/samosa.gif" />
+   <img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/frog.gif" />
+   <img class= "image-20-percent-width" src="{{site.baseurl}}/assets/img/mustard.gif" />
 </div>
