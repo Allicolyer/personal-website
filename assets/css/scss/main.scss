@@ -1,8 +1,6 @@
 @import "normalize";
 @import "syntax";
-@import "fonts";
 @import "variables";
-@import "animations";
 
 *,
 *::after,
@@ -54,8 +52,8 @@ pre {
 
 .wrapper {
   position: relative;
-  width: 80%;
-  margin: $large-space auto;
+  width: 95%;
+  margin: 0 auto;
 }
 
 .post,
@@ -92,6 +90,9 @@ pre {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 @import "parts/post-page";
+
+/* - - - - - - - - - - Content Page Styles - - - - - - - - - - */
+@import "parts/content-page";
 
 /* - - - - - - - - - - Table Page Styles - - - - - - - - - - */
 @import "parts/tables";

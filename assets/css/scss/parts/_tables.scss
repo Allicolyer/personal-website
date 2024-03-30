@@ -68,3 +68,15 @@ table {
     }
   }
 }
+
+.design-challenge th {
+  color: $body-color;
+  padding: 10px;
+  background-color: $lightgray;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+  a {
+    color: $dark-blue;
+  }
+}

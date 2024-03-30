@@ -33,6 +33,7 @@
 @media only screen and (max-width: $medium) {
   .content-box {
     width: 100%;
+    padding: 20px 10px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -54,18 +55,13 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: $small) {
-  .site-header {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-  .wrapper {
-    width: 90%;
+  .content-box {
+    padding: 10px;
   }
   .post {
-    width: 70%;
+    width: 48%;
     max-width: 100%;
-    margin: $small-space auto;
+    margin: 0 0.9% 1.5%;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -74,7 +70,7 @@
 
     .post-thumbnail {
       width: 100%;
-      min-height: 10rem;
+      min-height: 9rem;
     }
 
     .post-content {
@@ -82,10 +78,10 @@
       line-height: 1.2rem;
 
       .post-date {
-        font-size: 0.75rem;
+        font-size: 0.65rem;
       }
       .post-description {
-        font-size: 0.85rem;
+        font-size: 0.75rem;
       }
 
       .post-title {

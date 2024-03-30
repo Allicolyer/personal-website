@@ -1,0 +1,36 @@
+---
+layout: post
+title: Invasive Species Family Program
+date: 2014-12-01 00:00:00 +0300
+range: Winter 2014
+description: NYSCI program for families
+img: nysci.jpg # Add image post (optional)
+tags: [Curriculum] # add tag
+hidden: true
+---
+During the winter of 2014, I developed and taught a course for Elementary school children and their families at the New York Hall of Science. The course was five sessions long and featured five hands-on projects to teach children and their families about invasive species.
+
+Each session was taught on a Saturday morning for two hours. The two hours were broken down like this:
+
+* 15 minutes - families arrive and participating in an activity to get them introduced to the concepts for the day
+* 15 minutes - presentation filled with activities and demonstrations to teach families concepts about invasive species
+* 75 minutes - families build a hands-on challenge and participate in the engineering design process: build, test, redesign
+* 15 minutes - families share out their projects and reflect as a group
+
+Each lesson and accompanying hands-on project was designed to build on concepts that families had learned the previous weeks. The themes for each week were as follows:
+
+* Week 1: Balanced Ecosystems
+  * What does a balanced ecosystem look like? What different parts are included in it?
+  * Design: Create a mobile of different animals and plants that you think come from the same ecosystem.
+* Week 2: Survival of the fittest
+  * Why are invasive species? Why makes an invasive species good at taking over an ecosystem?
+  * Design: Create a machine that is able to adapt to eat all three types of food in an ecosystem.
+* Week 3: Transportation in Ecosystems
+  * Theme: How do invasive species get around? How do humans contribute to the spreading of invasive species?
+  * Design: Create a car that can transport objects out of a sandbox without picking up sand.
+* Week 4: Bioindicators
+  * What are the warning signs of a changing ecosystem?
+  * Design: Create a device to light an LED when your ecosystem is in trouble.
+* Week 5: Modifying our Environment
+  * How can humans help protect our environment and native species?
+  * Design: Create a wildlife crossing so animals can cross the road without getting hit by a car.

@@ -1,48 +1,33 @@
 /* Button Styles */
-.centered-flex-row-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  align-content: center;
-  justify-content: center;
-  .button {
-    margin: $small-space $small-space;
-  }
-}
-
 .button {
-  @extend .animated;
   min-width: 130px;
-  max-width: 180px;
   display: block;
   margin: 0 auto;
   border-radius: $border-radius;
   padding: $small-space $large-space;
-  border: 2px solid $dark;
+  border: 2px solid $primary-color;
   box-sizing: border-box;
   text-decoration: none;
   font-weight: 400;
-  font-size: 0.85em;
+  font-size: 0.8em;
   color: $white;
-  border-color: $dark;
-  background-color: $dark;
+  border-color: $primary-color;
+  background-color: $primary-color;
   text-align: center;
-  font-family: $headings-font-family;
-  font-weight: normal;
-  .button-inline{
-    display: inline;
-  }
+  transition: all 0.15s;
   a {
     text-decoration: none;
     color: $white;
   }
   &:hover {
     cursor: pointer;
+    font-weight: bold;
+    border-color: $primary-color;
+    background-color: $primary-color;
   }
   &:focus {
-    border-color: $dark;
-    background-color: $dark;
+    border-color: $primary-color;
+    background-color: $primary-color;
   }
   &:disabled {
     cursor: auto;
