@@ -27,4 +27,9 @@ plugins_dir:
 paginate: 16
 paginate_path: "/page/:num"
 
+collections:
+  blog:
+    output: true
+    permalink: /:path/
+    
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

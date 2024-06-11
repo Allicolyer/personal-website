@@ -22,7 +22,13 @@ rbenv local 3.1.0
 Install gems `bundle install`
 Run Jekyll `bundle exec jekyll serve`
 
-
 This project uses `gulp` to compile CSS from Sass.
-
 To install sass then run `sass --watch assets/css/scss:assets/css`
+
+<h3> Making new posts </h3>
+In this project, portfilio posts are in the folder `_posts` and blog posts are in the foler `_blog`
+
+Some portfolio projects are hidden using the `hidden: true` in the frontmatter. See [about.markdown](./_portfolio/2018-01-01-about.markdown) for an exmple.
+This is because the paginator filters out [hidden posts](./vendor/bundle/ruby/2.6.0/gems/jekyll-paginate-1.1.0/lib/jekyll-paginate/pagination.rb).
+
+ Note that this will not work with collections that are not the _post directory.

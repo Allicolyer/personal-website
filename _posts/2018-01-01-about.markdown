@@ -3,7 +3,6 @@ layout: post
 title: Hi I'm Alli!
 img: about.jpeg
 hidden: true
-about: true
 tags:
 permalink: /
 ---
