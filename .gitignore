@@ -3,6 +3,10 @@ _site
 .jekyll-metadata
 yarn.lock
 node_modules/
+vendor/
+Gemfile.lock
+.bundle/
+.jekyll-cache
 
 ### macOS ###
 *.DS_Store
