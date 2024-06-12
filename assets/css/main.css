@@ -98,7 +98,8 @@ a {
 abbr[title] {
   border-bottom: none; /* 1 */
   text-decoration: underline; /* 2 */
-  text-decoration: underline dotted; /* 2 */
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted; /* 2 */
 }
 
 /**
@@ -609,13 +610,9 @@ template {
   font-style: normal;
 }
 .animated, .button, .contributors div, .clickable, .contact ul li a, nav a, .site-header .author-name {
-  -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
-  -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
   transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
 }
 .animated:hover, .button:hover, .contributors div:hover, .clickable:hover, .contact ul li a:hover, nav a:hover, .site-header .author-name:hover {
-  -webkit-transform: scale(1.1);
-  -ms-transform: scale(1.1);
   transform: scale(1.1);
 }
 
@@ -744,21 +741,9 @@ nav a {
 .content-box {
   margin: 0 auto;
   width: 80%;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
-  -ms-flex-align: stretch;
   align-items: stretch;
 }
 
@@ -789,6 +774,7 @@ footer .copyright {
 
 #resume-button {
   display: none;
+  width: -moz-max-content;
   width: max-content;
   margin-left: auto;
   margin-right: auto;
@@ -812,41 +798,34 @@ footer .copyright {
   width: 31%;
   max-width: 100%;
   margin: 7.5px;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
-  -ms-flex-align: stretch;
   align-items: stretch;
   min-height: 11rem;
-  -webkit-border-radius: 10px;
   border-radius: 10px;
   overflow: hidden;
-  -webkit-transition: all 0.3s ease;
-  -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
 }
+.post.blog-post {
+  width: 100%;
+  min-height: 0px;
+  margin-left: 0;
+}
 .post:hover {
-  -webkit-transform: translate(0px, -2px);
-  -ms-transform: translate(0px, -2px);
+  cursor: pointer;
   transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
   box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+}
+.post a {
+  height: 100%;
+  text-decoration: none;
+  color: #333030;
 }
 .post .post-thumbnail {
   width: 100%;
   max-width: 100%;
   min-height: 15rem;
-  -webkit-background-size: cover;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -865,11 +844,6 @@ footer .copyright {
   font-size: 1.3rem;
   font-weight: 400;
 }
-.post .post-content .post-title a {
-  font-family: "Futura", "Nunito Bold", "Trebuchet MS", Arial, sans-serif;
-  text-decoration: none;
-  color: #333030;
-}
 .post .post-content p {
   margin-top: 0;
 }
@@ -879,22 +853,14 @@ a.newer-posts {
   font-size: 18px;
   display: inline-block;
   color: #515151;
-  -webkit-transition: -webkit-transform 0.2s;
-  transition: -webkit-transform 0.2s;
-  -o-transition: transform 0.2s;
   transition: transform 0.2s;
-  transition: transform 0.2s, -webkit-transform 0.2s;
 }
 
 a.older-posts:hover {
-  -webkit-transform: translateX(5px);
-  -ms-transform: translateX(5px);
   transform: translateX(5px);
 }
 
 a.newer-posts:hover {
-  -webkit-transform: translateX(-5px);
-  -ms-transform: translateX(-5px);
   transform: translateX(-5px);
 }
 
@@ -949,16 +915,8 @@ h6 {
 }
 
 .page-footer {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
   justify-content: space-between;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   padding-bottom: 15px;
   margin: 15px 0;
@@ -987,8 +945,6 @@ iframe {
 }
 
 .clickable:hover {
-  -webkit-transform: scale(1.03);
-  -ms-transform: scale(1.03);
   transform: scale(1.03);
 }
 
@@ -1080,9 +1036,6 @@ table tr:nth-child(even) {
 }
 table thead {
   background: #a9c4d1;
-  background: -webkit-gradient(linear, left top, left bottom, from(#bed3dc), color-stop(66%, #b1cad5), to(#a9c4d1));
-  background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%);
-  background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%);
   background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #a9c4d1 100%);
   border-bottom: 1px solid #8c8c8c;
 }
@@ -1117,10 +1070,6 @@ table tfoot td {
     width: 48%;
     max-width: 100%;
     margin: 0 0.9% 1.5%;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
     flex-direction: column;
   }
   .post .post-thumbnail {
@@ -1140,21 +1089,9 @@ table tfoot td {
 @media only screen and (max-width: 768px) {
   .content-box {
     width: 100%;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
     flex-direction: row;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    -webkit-box-align: stretch;
-    -webkit-align-items: stretch;
-    -ms-flex-align: stretch;
     align-items: stretch;
   }
 }
@@ -1172,10 +1109,6 @@ table tfoot td {
     width: 70%;
     max-width: 100%;
     margin: 7.5px auto;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
     flex-direction: column;
   }
   .post .post-thumbnail {
@@ -1254,5 +1187,3 @@ table tfoot td {
 .button:disabled:hover {
   font-weight: normal;
 }
-
-/*# sourceMappingURL=main.css.map */

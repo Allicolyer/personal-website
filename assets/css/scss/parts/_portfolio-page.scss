@@ -24,12 +24,23 @@
   transition: all 0.3s ease;
   -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+  &.blog-post {
+      width: 100%;
+      min-height: 0px;
+      margin-left: 0;
+    }
   &:hover {
+    cursor: pointer;
     -webkit-transform: translate(0px, -2px);
     -ms-transform: translate(0px, -2px);
     transform: translate(0px, -2px);
     -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
     box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+  }
+  a {
+    height: 100%;
+    text-decoration: none;
+    color: $dark;
   }
 
   .post-thumbnail {
@@ -54,11 +65,6 @@
       margin: 0 0 5px;
       font-size: 1.3rem;
       font-weight: 400;
-      a {
-        font-family: $headings-font-family;
-        text-decoration: none;
-        color: $dark;
-      }
     }
     p {
       margin-top: 0;
