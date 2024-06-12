@@ -23,7 +23,7 @@ Install gems `bundle install`
 Run Jekyll `bundle exec jekyll serve`
 
 This project uses `gulp` to compile CSS from Sass.
-To install sass then run `sass --watch assets/css/scss:assets/css`
+`yarn gulp sass`
 
 <h3> Making new posts </h3>
 In this project, portfilio posts are in the folder `_posts` and blog posts are in the foler `_blog`

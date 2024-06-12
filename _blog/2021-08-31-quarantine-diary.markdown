@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Portrait of My 2021 Mindset: COVID, Cats, and Quarantine"
+title: "Quarantine Diary: The Cat, the Car, and the Chaos"
 isBlogPost: true
 ---
 It had been a wonderful camping trip in Kings Canyon, only to end in a COVID disaster. I had just flown back from New York after being a bridesmaid in my friend's wedding and spending nearly a month with my family so I could attend her bachelorette party and wedding. I flew back to LA, ate one breakfast sandwich with my roommate, and then headed up to Sheep Creek Campground in Kings Canyon National Park for the complete opposite of a month in New York City and Long Island.

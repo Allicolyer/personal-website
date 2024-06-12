@@ -30,6 +30,6 @@ paginate_path: "/page/:num"
 collections:
   blog:
     output: true
-    permalink: /:path/
+    permalink: /:title/
     
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
