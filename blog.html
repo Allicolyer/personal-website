@@ -3,11 +3,19 @@ layout: main
 title: Blog
 permalink: /blog/
 ---
+
 This blog is not about programming. Plesae be aware. I'm a math girl, not a writer.
 
-<div class="blog-posts">
-  {% for post in site.blog %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p>{{ post.date }}</p>
-  {% endfor %}
-</div>
+{% for post in site.blog %}
+
+<article class="post blog-post">
+  <a href="{{post.url | prepend: site.baseurl}}">
+    <div class="post-content">
+      <h2 class="post-title">{{post.title}}</h2>
+      <p class="post-description">{{ post.date | date: "%B %-d %Y" }}</p>
+    </div>
+  </a>
+</article>
+
+{% endfor %}
+
