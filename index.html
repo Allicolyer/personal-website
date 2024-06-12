@@ -5,20 +5,20 @@ permalink: /portfolio/
 {% for post in paginator.posts %}
 
 <article class="post">
+  <a href="{{ post.url | prepend: site.baseurl }}">
   {% if post.img %}
-  <a class="post-thumbnail"
-    style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})"
-    href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %}
+  <div class="post-thumbnail" style="background-image: url({{" /assets/img/" | prepend: site.baseurl | append:
+    post.img}})"></div>
   {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    <div class="post-content">
+      <h2 class="post-title">{{ post.title }}</h2>
       {% if post.description %}
-        <p class="post-description">{{ post.description }}</p>
+      <p class="post-description">{{ post.description }}</p>
       {% else %}
-        <p class="post-description">{{ post.content | strip_html | truncatewords: 15 }}</p>
+      <p class="post-description">{{ post.content | strip_html | truncatewords: 15 }}</p>
       {% endif %}
-  </div>
+    </div>
+  </a>
 </article>
 
 {% endfor %}
