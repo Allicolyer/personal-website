@@ -15,6 +15,12 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
+        {% if page.isBlogPost %}
+        <p class="page-meta">
+          <time datetime="{{page.date | date_to_xmlschema}}">
+            {{ page.date | date: "%B %-d %Y" }}
+          </time>
+        {% endif %}
       </header>
       {{page.content | markdownify}}
       <div class="page-footer"></div>
