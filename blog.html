@@ -6,7 +6,8 @@ permalink: /blog/
 
 This blog is not about programming. Plesae be aware. I'm a math girl, not a writer.
 
-{% for post in site.blog %}
+{% assign sorted_posts = site.blog | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
 
 <article class="post blog-post">
   <a href="{{post.url | prepend: site.baseurl}}">

@@ -2,6 +2,7 @@
 layout: post
 title: "Quarantine Diary: The Cat, the Car, and the Chaos"
 isBlogPost: true
+img: blog/black-cat.jpg
 ---
 It had been a wonderful camping trip in Kings Canyon, only to end in a COVID disaster. I had just flown back from New York after being a bridesmaid in my friend's wedding and spending nearly a month with my family so I could attend her bachelorette party and wedding. I flew back to LA, ate one breakfast sandwich with my roommate, and then headed up to Sheep Creek Campground in Kings Canyon National Park for the complete opposite of a month in New York City and Long Island.
 
@@ -25,9 +26,7 @@ I finally found my keys and unlocked the car. I was able to get my passenger doo
 
 It turns out there was a wall separating the neighbor's property from the one I was living at, and it was the perfect height for the cat to prowl along before jumping onto my sunroof. Only this night, the sunroof was not glass; it was a mesh net that collapsed directly into a car with a shrieking human girl. My scream was so loud that the neighbors texted my roommate and me to make sure we were okay.
 
-For months after that, I would see the tiny black cat around the neighborhood and try to coax it so I could pet it. It was so terrified of me that this picture was the closest I ever got.
-
-![Black Cat]({{site.baseurl}}/assets/img/blog/black-cat.jpg){: .center-image}
+For months after that, I would see the tiny black cat around the neighborhood and try to coax it so I could pet it. It was so terrified of me that the picture above was the closest I ever got.
 
 The ring camera captured the sound bite of this ordeal. Sadly, my car is not in view since it is in the alleyway and not parked in front of the house, but at the very end of the video, you can see my headlights light up the front gate when I opened the passenger door to let the cat out.
 
