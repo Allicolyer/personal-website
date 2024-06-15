@@ -793,10 +793,9 @@ footer .copyright {
     display: block;
   }
 }
-/* - - - - - - - - - - Portfilio Page Styles - - - - - - - - - - */
+/* - - - - - - - - - - Portfilio and Blog Page Styles - - - - - - - - - - */
 .post {
   width: 31%;
-  max-width: 100%;
   margin: 7.5px;
   display: flex;
   flex-direction: column;
@@ -806,11 +805,6 @@ footer .copyright {
   overflow: hidden;
   transition: all 0.3s ease;
   box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-}
-.post.blog-post {
-  width: 100%;
-  min-height: 0px;
-  margin-left: 0;
 }
 .post:hover {
   cursor: pointer;
@@ -825,7 +819,7 @@ footer .copyright {
 .post .post-thumbnail {
   width: 100%;
   max-width: 100%;
-  min-height: 15rem;
+  min-height: 11rem;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -833,19 +827,35 @@ footer .copyright {
   padding: 1rem;
   width: 100%;
 }
-.post .post-content .post-date {
+.post .post-content .post-date,
+.post .post-content .post-words {
   font-size: 0.75rem;
-}
-.post .post-content .post-description {
-  font-size: 0.85rem;
 }
 .post .post-content .post-title {
   margin: 0 0 5px;
   font-size: 1.3rem;
   font-weight: 400;
 }
+.post .post-content .post-title a {
+  text-decoration: none;
+  color: #263959;
+}
 .post .post-content p {
   margin-top: 0;
+}
+.post .post-content .post-description {
+  font-size: 0.85rem;
+}
+.post.blog-post {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  flex-direction: row;
+}
+.post.blog-post .post-thumbnail {
+  width: 35%;
+}
+.post.blog-post .post-content {
+  width: 70%;
 }
 
 a.older-posts,
@@ -855,12 +865,12 @@ a.newer-posts {
   color: #515151;
   transition: transform 0.2s;
 }
-
-a.older-posts:hover {
+a.older-posts:hover,
+a.newer-posts:hover {
   transform: translateX(5px);
 }
-
-a.newer-posts:hover {
+a.older-posts.newer-posts:hover,
+a.newer-posts.newer-posts:hover {
   transform: translateX(-5px);
 }
 
@@ -1066,22 +1076,22 @@ table tfoot td {
   iframe {
     width: 100%;
   }
-  .post {
+  .post, .post.blog-post {
     width: 48%;
     max-width: 100%;
     margin: 0 0.9% 1.5%;
     flex-direction: column;
   }
-  .post .post-thumbnail {
+  .post .post-thumbnail, .post.blog-post .post-thumbnail {
     width: 100%;
   }
-  .post .post-content {
+  .post .post-content, .post.blog-post .post-content {
     width: 100%;
   }
-  .post .post-content .post-title {
+  .post .post-content .post-title, .post.blog-post .post-content .post-title {
     margin: 0 0 5px;
   }
-  .post .post-content .post-title a {
+  .post .post-content .post-title a, .post.blog-post .post-content .post-title a {
     font-size: 21px;
   }
 }
@@ -1105,31 +1115,23 @@ table tfoot td {
   .wrapper {
     width: 90%;
   }
-  .post {
-    width: 70%;
+  .post, .post.blog-post {
+    width: 98%;
     max-width: 100%;
-    margin: 7.5px auto;
+    margin: 2%;
     flex-direction: column;
   }
-  .post .post-thumbnail {
+  .post .post-thumbnail, .post.blog-post .post-thumbnail {
     width: 100%;
-    min-height: 10rem;
   }
-  .post .post-content {
-    width: 100%;
-    line-height: 1.2rem;
-  }
-  .post .post-content .post-date {
-    font-size: 0.75rem;
-  }
-  .post .post-content .post-description {
+  .post .post-description, .post.blog-post .post-description {
     font-size: 0.85rem;
   }
-  .post .post-content .post-title {
-    margin: 0 0 5px;
+  .post .post-content, .post.blog-post .post-content {
+    width: 100%;
   }
-  .post .post-content .post-title a {
-    font-size: 0.95rem;
+  .post .post-content .post-title, .post.blog-post .post-content .post-title {
+    margin: 0 0 5px;
   }
 }
 /* - - - - - - - - - - Button Styles - - - - - - - - - - */
