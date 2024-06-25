@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", function () {
     // Get the current page URL
     var currentPage = window.location.href;
@@ -9,9 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
     // Loop through each navLink
     navLinks.forEach(function (navLink) {
         // Check if the navLink href matches the current page URL
-        console.log('navLink.href: ' + navLink.href);
-        console.log(currentPage);
-        console.log(navLink.href === currentPage)
         if (navLink.href === currentPage) {
             // Add the class 'isSelected'
             navLink.classList.add('isSelected');

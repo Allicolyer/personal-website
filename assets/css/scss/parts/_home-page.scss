@@ -44,7 +44,7 @@ nav {
     text-decoration: none;
     color: $dark;
 
-  &.isSelected {
+    &.isSelected {
       // Override animation-related properties
       animation: none !important;
       transition: none !important;
