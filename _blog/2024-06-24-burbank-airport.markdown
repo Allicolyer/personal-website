@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Funny things that have happened to me at Burbank Airport"
-img: blog/burbank.jpg
+img: blog/burbank.png
 isBlogPost: true
 ---
 
