@@ -36,12 +36,23 @@ nav {
   display: flex;
   justify-content: center;
   text-align: center;
+  align-items: center;
 
-  a {
+  .navLink {
     @extend .animated;
     margin: 0 $small-space $small-space $small-space;
     text-decoration: none;
     color: $dark;
+
+  &.isSelected {
+      // Override animation-related properties
+      animation: none !important;
+      transition: none !important;
+      font-weight: bold;
+      pointer-events: none;
+      font-size: 1.2em;
+      cursor: default;
+    }
   }
 }
 

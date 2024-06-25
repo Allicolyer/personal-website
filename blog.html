@@ -3,8 +3,13 @@ layout: main
 title: Blog
 permalink: /blog/
 ---
+  <div class="wrap-content center-image">
+    <header class="header-page">
+    <p>This blog is not about programming. Please be aware, I'm a math girl, not a writer.</p>
+    </header>
+  </div>
 
-This blog is not about programming. Please be aware, I'm a math girl, not a writer.
+
 
 {% assign sorted_posts = site.blog | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
