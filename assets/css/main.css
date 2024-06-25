@@ -609,10 +609,10 @@ template {
   font-weight: normal;
   font-style: normal;
 }
-.animated, .button, .contributors div, .clickable, .contact ul li a, nav a, .site-header .author-name {
+.animated, .button, .contributors div, .clickable, .contact ul li a, nav .navLink, .site-header .author-name {
   transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
 }
-.animated:hover, .button:hover, .contributors div:hover, .clickable:hover, .contact ul li a:hover, nav a:hover, .site-header .author-name:hover {
+.animated:hover, .button:hover, .contributors div:hover, .clickable:hover, .contact ul li a:hover, nav .navLink:hover, .site-header .author-name:hover {
   transform: scale(1.1);
 }
 
@@ -731,11 +731,20 @@ nav {
   display: flex;
   justify-content: center;
   text-align: center;
+  align-items: center;
 }
-nav a {
+nav .navLink {
   margin: 0 7.5px 7.5px 7.5px;
   text-decoration: none;
   color: #333030;
+}
+nav .navLink.isSelected {
+  animation: none !important;
+  transition: none !important;
+  font-weight: bold;
+  pointer-events: none;
+  font-size: 1.2em;
+  cursor: default;
 }
 
 .content-box {
