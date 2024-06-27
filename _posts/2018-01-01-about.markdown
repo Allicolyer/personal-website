@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Hi I'm Alli!
-img: about.jpeg
+img: about.jpg
 hidden: true
 tags:
 permalink: /
 ---
 
-I am a full-stack software engineer specializing in Dart, Flutter, JavaScript, Java, React, React Native, TypeScript, GraphQL, and Node.js. My expertise lies in creating innovative educational experiences that bridge the education and opportunity gap for all people. As a Recurse Center and Cooper Union alumna, I bring a wealth of technical knowledge and passion for education and equity to every project.
+I'm a full-stack engineer software engineer. Throughout my career, I have leveraged my background in chemistry and math to create innovative educational experiences. In my free time I enjoy playing my clarinet and getting lost on hiking trails, usually not at the same time. 
 
 <embed id="resume-embed" src="{{site.baseurl}}/assets/resume.pdf"/>
 
