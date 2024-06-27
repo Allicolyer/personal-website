@@ -1,0 +1,35 @@
+name: Rebase and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  rebase:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch all branches
+        run: git fetch --all
+
+      - name: Rebase gh-pages onto main
+        run: |
+          git checkout gh-pages
+          git rebase main
+          git push origin gh-pages --force
+
+      - name: Trigger Deploy
+        run: |
+          # Add your deploy commands here
+          echo "Deploy triggered"
