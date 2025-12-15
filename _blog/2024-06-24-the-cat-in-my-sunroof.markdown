@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quarantine Diary: The Cat, the Car, and the Chaos"
+title: "The Cat in My Sunroof"
 isBlogPost: true
 img: blog/black-cat.jpg
 ---
