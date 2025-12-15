@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Left Hand Traffic Tales"
+img: blog/look_left.jpg
+isBlogPost: true
+---
+
+Things that happen to you on the LHS of the road.
+
+1. You get into the car, then immediately have to get out of the passenger seat and into the driver’s seat.
+2. You open the door, surprised to see the taxi driver is already sitting there.
+3. You hit the windshield wipers every time you need to make a turn.
+4. You have to do crazy contortion moves just to change the radio station.
+5. You scream at cars thinking they’re about to turn right into you.
+6. To cross the street, you look left, then right, then left, then right, then left, then right…
+7. Roundabouts take all of your brain power.
+8. You learn dogs in Australia can drive… wait.
+9. Lots of parents let their 10-year-old kids drive too. Crazy!
+10. You sprint to catch the bus, realizing you’ve been waiting on the wrong side of the road.
+11. Left and right have lost all meaning, so instead you give directions like “Stay close!”, “Go far!”, “Make the hard turn!”, “Make the easy turn!”, or finally when you've given up “Just follow the blue car!”
