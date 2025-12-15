@@ -2,9 +2,7 @@
 layout: post
 title: "Food Poisoning at the Sangeet"
 img: blog/hands.jpg
-hidden: true
 isBlogPost: true
-
 ---
 Before I turned 30, I made a resolution to sing in front of an audience. I had spent 29 years of my life being extremely shy, and this was the least shy thing I could think of doing. I couldn’t imagine something more embarrassing than revealing to a room full of people that I am an extremely average singer, and that I am, in fact, still going to sing you a song.
 
